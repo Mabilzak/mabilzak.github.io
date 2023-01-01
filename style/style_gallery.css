@@ -1,0 +1,621 @@
+p {
+  margin: 0;
+  display: inline;
+}
+
+div {
+  padding: 0;
+}
+
+body {
+  font-family: "Comfortaa", Helvetica, sans-serif;
+  font-size: 18px;
+  color: #122417;
+  background-color: #dbedcc;
+}
+
+header {
+  border: 0px solid maroon;
+}
+header nav {
+  border: 0px solid darkorange;
+  background-color: #122417;
+  color: #dbedcc;
+}
+header nav .con-nav-header {
+  border: 0px solid mediumturquoise;
+}
+header nav .con-nav-header .row1-nav-header {
+  border: 0px solid magenta;
+  height: 88px;
+}
+header nav .con-nav-header .row1-nav-header .logo-nav-header {
+  border: 0px solid tomato;
+  display: flex;
+  align-items: center;
+}
+header nav .con-nav-header .row1-nav-header .logo-nav-header p {
+  border: 0px solid steelblue;
+  font-weight: 700;
+  font-size: 36px;
+}
+header nav .con-nav-header .row1-nav-header .brand-nav-header {
+  border: 0px solid maroon;
+  display: flex;
+  align-items: center;
+}
+header nav .con-nav-header .row1-nav-header .brand-nav-header p {
+  border: 0px solid forestgreen;
+  font-weight: 700;
+  font-size: 36px;
+}
+header nav .con-nav-header .row1-nav-header .menu-nav-header {
+  border: 0px solid green;
+  display: flex;
+  align-items: center;
+  font-weight: 600;
+  font-size: 24px;
+}
+header nav .con-nav-header .row1-nav-header .menu-nav-header .navbar-menu-nav-header {
+  border: 0px solid darkturquoise;
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+}
+header nav .con-nav-header .row1-nav-header .menu-nav-header .navbar-menu-nav-header .home-navbar-menu-nav-header {
+  border: 0px solid saddlebrown;
+}
+header nav .con-nav-header .row1-nav-header .menu-nav-header .navbar-menu-nav-header .about-navbar-menu-nav-header {
+  border: 0px solid salmon;
+}
+header nav .con-nav-header .row1-nav-header .menu-nav-header .navbar-menu-nav-header .gallery-navbar-menu-nav-header {
+  border: 0px solid violet;
+}
+
+main .intro-main {
+  border: 0px solid yellowgreen;
+}
+main .intro-main .con-intro-main {
+  border: 0px solid darkblue;
+  height: 728px;
+}
+main .intro-main .con-intro-main .row1-intro-main {
+  border: 0px solid salmon;
+  padding: 56px 0 40px 0;
+}
+main .intro-main .con-intro-main .row1-intro-main .title-intro-main {
+  border: 0px solid maroon;
+  display: flex;
+  justify-content: center;
+}
+main .intro-main .con-intro-main .row1-intro-main .title-intro-main p {
+  border: 0px solid palegreen;
+  font-family: "Poppins", Arial, Helvetica, sans-serif;
+  font-weight: 700;
+  font-size: 88px;
+  letter-spacing: 4px;
+}
+main .intro-main .con-intro-main .row2-intro-main {
+  border: 0px solid gold;
+}
+main .intro-main .con-intro-main .row2-intro-main .description-intro-main {
+  border: 0px solid green;
+}
+main .intro-main .con-intro-main .row2-intro-main .description-intro-main p {
+  border: 0px solid mediumblue;
+  font-weight: 600;
+  font-size: 32px;
+  letter-spacing: 2px;
+  word-spacing: 4px;
+}
+main .content1-main {
+  border: 0px solid coral;
+  background-color: #1a4a24;
+}
+main .content1-main .con-content1-main {
+  border: 0px solid darkblue;
+  height: 756px;
+}
+main .content1-main .con-content1-main .row1-content1-main {
+  border: 0px solid seagreen;
+  height: 100%;
+  padding: 40px 0 32px 0;
+  display: grid;
+  grid-template: "title title title img" 1fr "title title title img" 0.5fr "desc desc desc img" 3fr "desc desc desc img" 2fr "desc desc desc img" 2.5fr/1fr 0.25fr 0.25fr 1fr;
+  color: #dbedcc;
+}
+main .content1-main .con-content1-main .row1-content1-main .title-content1-main {
+  border: 0px solid firebrick;
+  grid-area: title;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+main .content1-main .con-content1-main .row1-content1-main .title-content1-main p {
+  font-family: "Poppins", Arial, Helvetica, sans-serif;
+  font-weight: 600;
+  font-size: 64px;
+  letter-spacing: 4px;
+}
+main .content1-main .con-content1-main .row1-content1-main .description-content1-main {
+  border: 0px solid fuchsia;
+  grid-area: desc;
+}
+main .content1-main .con-content1-main .row1-content1-main .description-content1-main p {
+  border: 0px solid lightseagreen;
+  font-weight: 500;
+  font-size: 32px;
+  letter-spacing: 2px;
+  word-spacing: 4px;
+}
+main .content1-main .con-content1-main .row1-content1-main .img-content1-main {
+  grid-area: img;
+  height: 640px;
+  width: 500px;
+  margin: 0 auto;
+  border: 5px solid #ff5524;
+  border-radius: 56px;
+  background-image: url(img/genius-web.png);
+  background-position-y: 10%;
+  background-size: cover;
+  -o-object-fit: cover;
+     object-fit: cover;
+}
+main .content2-main {
+  border: 0px solid coral;
+}
+main .content2-main .con-content2-main {
+  border: 0px solid darkblue;
+  height: 756px;
+}
+main .content2-main .con-content2-main .row1-content2-main {
+  border: 0px solid seagreen;
+  height: 100%;
+  padding: 40px 0 32px 0;
+  display: grid;
+  grid-template: "img title title title " 1fr "img title title title " 0.5fr "img desc desc desc " 3fr "img desc desc desc " 2fr "img desc desc desc " 2.5fr/1fr 0.25fr 0.25fr 1fr;
+}
+main .content2-main .con-content2-main .row1-content2-main .title-content2-main {
+  border: 0px solid firebrick;
+  grid-area: title;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+main .content2-main .con-content2-main .row1-content2-main .title-content2-main p {
+  font-family: "Poppins", Arial, Helvetica, sans-serif;
+  font-weight: 600;
+  font-size: 64px;
+  letter-spacing: 4px;
+}
+main .content2-main .con-content2-main .row1-content2-main .description-content2-main {
+  border: 0px solid fuchsia;
+  grid-area: desc;
+}
+main .content2-main .con-content2-main .row1-content2-main .description-content2-main p {
+  border: 0px solid lightseagreen;
+  font-weight: 500;
+  font-size: 32px;
+  letter-spacing: 2px;
+  word-spacing: 4px;
+}
+main .content2-main .con-content2-main .row1-content2-main .img-content2-main {
+  grid-area: img;
+  height: 500px;
+  width: 500px;
+  margin: 0 auto;
+  border: 5px solid #1a4a24;
+  border-radius: 56px;
+  background-image: url(img/Monday-web.png);
+  background-position: center 10%;
+  background-size: cover;
+  -o-object-fit: cover;
+     object-fit: cover;
+}
+main .content3-main {
+  border: 0px solid coral;
+  background-color: #1a4a24;
+}
+main .content3-main .con-content3-main {
+  border: 0px solid darkblue;
+  height: 756px;
+}
+main .content3-main .con-content3-main .row1-content3-main {
+  border: 0px solid seagreen;
+  height: 100%;
+  padding: 40px 0 32px 0;
+  display: grid;
+  grid-template: "title title title img" 1fr "title title title img" 0.5fr "desc desc desc img" 3fr "desc desc desc img" 2fr "desc desc desc img" 2.5fr/1fr 0.25fr 0.25fr 1fr;
+  color: #dbedcc;
+}
+main .content3-main .con-content3-main .row1-content3-main .title-content3-main {
+  border: 0px solid firebrick;
+  grid-area: title;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+main .content3-main .con-content3-main .row1-content3-main .title-content3-main p {
+  font-family: "Poppins", Arial, Helvetica, sans-serif;
+  font-weight: 600;
+  font-size: 64px;
+  letter-spacing: 4px;
+}
+main .content3-main .con-content3-main .row1-content3-main .description-content3-main {
+  border: 0px solid fuchsia;
+  grid-area: desc;
+}
+main .content3-main .con-content3-main .row1-content3-main .description-content3-main p {
+  border: 0px solid lightseagreen;
+  font-weight: 500;
+  font-size: 32px;
+  letter-spacing: 2px;
+  word-spacing: 4px;
+}
+main .content3-main .con-content3-main .row1-content3-main .img-content3-main {
+  grid-area: img;
+  height: 500px;
+  width: 500px;
+  margin: 0 auto;
+  border: 5px solid #ff5524;
+  border-radius: 56px;
+  background-image: url(img/A\ Mag.png);
+  background-position: center 10%;
+  background-size: cover;
+  -o-object-fit: cover;
+     object-fit: cover;
+}
+main .content4-main {
+  border: 0px solid coral;
+}
+main .content4-main .con-content4-main {
+  border: 0px solid darkblue;
+  height: 756px;
+}
+main .content4-main .con-content4-main .row1-content4-main {
+  border: 0px solid seagreen;
+  height: 100%;
+  padding: 40px 0 32px 0;
+  display: grid;
+  grid-template: "img title title title " 1fr "img title title title " 0.5fr "img desc desc desc " 3fr "img desc desc desc " 2fr "img desc desc desc " 2.5fr/1fr 0.25fr 0.25fr 1fr;
+}
+main .content4-main .con-content4-main .row1-content4-main .title-content4-main {
+  border: 0px solid firebrick;
+  grid-area: title;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+main .content4-main .con-content4-main .row1-content4-main .title-content4-main p {
+  font-family: "Poppins", Arial, Helvetica, sans-serif;
+  font-weight: 600;
+  font-size: 64px;
+  letter-spacing: 4px;
+}
+main .content4-main .con-content4-main .row1-content4-main .description-content4-main {
+  border: 0px solid fuchsia;
+  grid-area: desc;
+}
+main .content4-main .con-content4-main .row1-content4-main .description-content4-main p {
+  border: 0px solid lightseagreen;
+  font-weight: 500;
+  font-size: 32px;
+  letter-spacing: 2px;
+  word-spacing: 4px;
+}
+main .content4-main .con-content4-main .row1-content4-main .img-content4-main {
+  grid-area: img;
+  height: 500px;
+  width: 500px;
+  margin: 0 auto;
+  border: 5px solid #1a4a24;
+  border-radius: 56px;
+  background-image: url(img/Surreal-web.png);
+  background-position: center 10%;
+  background-size: cover;
+  -o-object-fit: cover;
+     object-fit: cover;
+}
+main .achievement_title-main {
+  border: 0px solid darkorange;
+  height: 176px;
+  background-color: #ff5524;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+main .achievement_title-main p {
+  border: 0px solid seagreen;
+  font-family: "Poppins", Arial, Helvetica, sans-serif;
+  color: #dbedcc;
+  font-weight: 600;
+  font-size: 80px;
+}
+main .achievement1-main {
+  border: 0px solid aliceblue;
+  background-color: #ff5524;
+  color: #dbedcc;
+}
+main .achievement1-main .con-achievement1-main {
+  border: 0px solid chartreuse;
+  height: 500px;
+}
+main .achievement1-main .con-achievement1-main .row1-achievement1-main {
+  border: 0px solid darkblue;
+  height: 100%;
+}
+main .achievement1-main .con-achievement1-main .row1-achievement1-main .place-achievement1-main {
+  border: 0px solid brown;
+  height: 100%;
+  display: grid;
+  grid-template: "title title icon" 1fr "desc desc icon" 0.5fr "desc desc icon" 1.5fr/1fr 4fr 1fr;
+}
+main .achievement1-main .con-achievement1-main .row1-achievement1-main .place-achievement1-main .title-achievement1-main {
+  border: 0px solid khaki;
+  grid-area: title;
+  display: flex;
+  align-items: flex-end;
+  padding-bottom: 16px;
+}
+main .achievement1-main .con-achievement1-main .row1-achievement1-main .place-achievement1-main .title-achievement1-main p {
+  border: 0px solid navy;
+  font-family: "Poppins", Arial, Helvetica, sans-serif;
+  color: #dbedcc;
+  font-weight: 600;
+  font-size: 40px;
+  letter-spacing: 4px;
+}
+main .achievement1-main .con-achievement1-main .row1-achievement1-main .place-achievement1-main .description-achievement1-main {
+  border: 0px solid orange;
+  grid-area: desc;
+}
+main .achievement1-main .con-achievement1-main .row1-achievement1-main .place-achievement1-main .description-achievement1-main p {
+  border: 0px solid purple;
+  color: #dbedcc;
+  font-size: 32px;
+  letter-spacing: 2px;
+  word-spacing: 4px;
+}
+main .achievement1-main .con-achievement1-main .row1-achievement1-main .place-achievement1-main .icon-achievement1-main {
+  border: 0px solid yellow;
+  grid-area: icon;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+main .achievement1-main .con-achievement1-main .row1-achievement1-main .place-achievement1-main .icon-achievement1-main .trophy_icon {
+  color: #1a4a24;
+}
+main .achievement2-main {
+  border: 0px solid aliceblue;
+  background-color: #ff5524;
+}
+main .achievement2-main .con-achievement2-main {
+  border: 0px solid chartreuse;
+  height: 500px;
+}
+main .achievement2-main .con-achievement2-main .row1-achievement2-main {
+  border: 0px solid darkblue;
+  height: 100%;
+}
+main .achievement2-main .con-achievement2-main .row1-achievement2-main .place-achievement2-main {
+  border: 0px solid brown;
+  height: 100%;
+  display: grid;
+  grid-template: "icon title title" 1fr "icon desc desc" 0.5fr "icon desc desc" 1.5fr/1fr 4fr 1fr;
+}
+main .achievement2-main .con-achievement2-main .row1-achievement2-main .place-achievement2-main .title-achievement2-main {
+  border: 0px solid khaki;
+  grid-area: title;
+  display: flex;
+  align-items: flex-end;
+  padding-bottom: 16px;
+}
+main .achievement2-main .con-achievement2-main .row1-achievement2-main .place-achievement2-main .title-achievement2-main p {
+  border: 0px solid navy;
+  font-family: "Poppins", Arial, Helvetica, sans-serif;
+  color: #dbedcc;
+  font-weight: 600;
+  font-size: 40px;
+  letter-spacing: 4px;
+}
+main .achievement2-main .con-achievement2-main .row1-achievement2-main .place-achievement2-main .description-achievement2-main {
+  border: 0px solid orange;
+  grid-area: desc;
+}
+main .achievement2-main .con-achievement2-main .row1-achievement2-main .place-achievement2-main .description-achievement2-main p {
+  border: 0px solid purple;
+  color: #dbedcc;
+  font-size: 32px;
+  letter-spacing: 2px;
+  word-spacing: 4px;
+}
+main .achievement2-main .con-achievement2-main .row1-achievement2-main .place-achievement2-main .icon-achievement2-main {
+  border: 0px solid yellow;
+  grid-area: icon;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+main .achievement2-main .con-achievement2-main .row1-achievement2-main .place-achievement2-main .icon-achievement2-main .trophy_icon {
+  color: #1a4a24;
+}
+main .other-main {
+  border: 0px solid darkorange;
+}
+main .other-main .con-other-main {
+  border: 0px solid darkorchid;
+  height: 500px;
+}
+main .other-main .con-other-main .row1-other-main {
+  border: 0px solid forestgreen;
+  height: 100%;
+  display: flex;
+  align-items: center;
+}
+main .other-main .con-other-main .row1-other-main .place-other-main {
+  height: 400px;
+  border: 8px solid #1a4a24;
+  border-radius: 80px;
+  padding: 24px 32px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: space-around;
+}
+main .other-main .con-other-main .row1-other-main .place-other-main .title-place-other-main {
+  border: 0px solid violet;
+  font-weight: 700;
+  font-size: 48px;
+}
+main .other-main .con-other-main .row1-other-main .place-other-main .icon-place-other-main {
+  border: 0px solid mediumspringgreen;
+  color: #1a4a24;
+  width: 400px;
+  display: flex;
+  justify-content: space-between;
+}
+main .other-main .con-other-main .row1-other-main .place-other-main .icon-place-other-main .fa-dribbble {
+  border: 0px solid blue;
+}
+main .other-main .con-other-main .row1-other-main .place-other-main .icon-place-other-main .fa-dribbble {
+  border: 0px solid orangered;
+}
+
+footer {
+  background-color: #122417;
+  color: #dbedcc;
+  border: 0px solid darkblue;
+}
+footer .con-footer {
+  border: 0px solid ghostwhite;
+  height: 600px;
+}
+footer .con-footer .row1-footer {
+  border: 0px solid yellow;
+  height: 100%;
+}
+footer .con-footer .row1-footer .place-footer {
+  border: 0px solid mediumturquoise;
+  height: 100%;
+  padding: 40px 0;
+  display: grid;
+  grid-template: "brand quotes quotes sosmed" 2fr "brand quotes quotes sosmed" 3fr "license license menu menu" 1fr/3fr 2.5fr 2.5fr 5fr;
+}
+footer .con-footer .row1-footer .place-footer .brand-place-footer {
+  border: 0px solid yellowgreen;
+  grid-area: brand;
+}
+footer .con-footer .row1-footer .place-footer .brand-place-footer p {
+  border: 0px solid cornsilk;
+  font-size: 24px;
+  font-weight: 700;
+  letter-spacing: 2px;
+}
+footer .con-footer .row1-footer .place-footer .sosmed-place-footer {
+  border: 0px solid coral;
+  grid-area: sosmed;
+}
+footer .con-footer .row1-footer .place-footer .sosmed-place-footer .title-sosmed-place-footer {
+  border: 0px solid seashell;
+  margin-bottom: 16px;
+}
+footer .con-footer .row1-footer .place-footer .sosmed-place-footer .title-sosmed-place-footer p {
+  border: 0px solid hotpink;
+  font-weight: 700;
+  font-size: 24px;
+  letter-spacing: 2px;
+}
+footer .con-footer .row1-footer .place-footer .sosmed-place-footer .icon-sosmed-place-footer {
+  border: 0px solid fuchsia;
+  display: flex;
+  justify-content: space-around;
+}
+footer .con-footer .row1-footer .place-footer .sosmed-place-footer .icon-sosmed-place-footer .instagram-icon {
+  border: 0px solid violet;
+}
+footer .con-footer .row1-footer .place-footer .sosmed-place-footer .icon-sosmed-place-footer .tiktok-icon {
+  border: 0px solid mediumspringgreen;
+}
+footer .con-footer .row1-footer .place-footer .sosmed-place-footer .icon-sosmed-place-footer .facebook-icon {
+  border: 0px solid salmon;
+}
+footer .con-footer .row1-footer .place-footer .sosmed-place-footer .icon-sosmed-place-footer .pinterest-icon {
+  border: 0px solid skyblue;
+}
+footer .con-footer .row1-footer .place-footer .sosmed-place-footer .icon-sosmed-place-footer .twitter-icon {
+  border: 0px solid whitesmoke;
+}
+footer .con-footer .row1-footer .place-footer .quotes-place-footer {
+  border: 0px solid crimson;
+  grid-area: quotes;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+footer .con-footer .row1-footer .place-footer .quotes-place-footer .text-quotes-place-footer {
+  border: 0px solid yellow;
+}
+footer .con-footer .row1-footer .place-footer .quotes-place-footer .text-quotes-place-footer p {
+  border: 0px solid aqua;
+  font-size: 48px;
+}
+footer .con-footer .row1-footer .place-footer .quotes-place-footer .name-quotes-place-footer {
+  border: 0px solid burlywood;
+  display: flex;
+  justify-content: center;
+  position: relative;
+  bottom: 44px;
+}
+footer .con-footer .row1-footer .place-footer .quotes-place-footer .name-quotes-place-footer p {
+  border: 0px solid springgreen;
+  letter-spacing: 4px;
+}
+footer .con-footer .row1-footer .place-footer .license-place-footer {
+  border: 0px solid ghostwhite;
+  grid-area: license;
+  display: flex;
+  align-items: flex-end;
+}
+footer .con-footer .row1-footer .place-footer .license-place-footer p {
+  border: 0px solid crimson;
+}
+footer .con-footer .row1-footer .place-footer .menu-place-footer {
+  border: 0px solid greenyellow;
+  grid-area: menu;
+  display: flex;
+  align-items: flex-end;
+  justify-content: space-around;
+  font-size: 24px;
+  font-weight: 700;
+}
+footer .con-footer .row1-footer .place-footer .menu-place-footer .home-menu-place-footer {
+  border: 0px solid royalblue;
+}
+footer .con-footer .row1-footer .place-footer .menu-place-footer .home-menu-place-footer p {
+  border: 0px solid ghostwhite;
+}
+footer .con-footer .row1-footer .place-footer .menu-place-footer .about-menu-place-footer {
+  border: 0px solid aqua;
+}
+footer .con-footer .row1-footer .place-footer .menu-place-footer .about-menu-place-footer p {
+  border: 0px solid ghostwhite;
+}
+footer .con-footer .row1-footer .place-footer .menu-place-footer .gallery-menu-place-footer {
+  border: 0px solid orange;
+}
+footer .con-footer .row1-footer .place-footer .menu-place-footer .gallery-menu-place-footer p {
+  border: 0px solid ghostwhite;
+}
+footer .con-footer .row1-footer .place-footer .menu-place-footer .contact-menu-place-footer {
+  border: 0px solid orchid;
+}
+footer .con-footer .row1-footer .place-footer .menu-place-footer .contact-menu-place-footer p {
+  border: 0px solid ghostwhite;
+}
+footer .con-footer .row1-footer .place-footer .menu-place-footer .credit-menu-place-footer {
+  border: 0px solid navajowhite;
+}
+footer .con-footer .row1-footer .place-footer .menu-place-footer .credit-menu-place-footer p {
+  border: 0px solid ghostwhite;
+}/*# sourceMappingURL=style_gallery.css.map */

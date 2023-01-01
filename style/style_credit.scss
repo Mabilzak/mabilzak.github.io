@@ -1,0 +1,331 @@
+p {
+  margin: 0;
+  display: inline;
+}
+div {
+  padding: 0;
+}
+body {
+  font-family: "Comfortaa", Helvetica, sans-serif;
+  font-size: 18px;
+  color: #122417;
+  background-color: #dbedcc;
+}
+
+header {
+  border: 0px solid maroon;
+  nav {
+    border: 0px solid darkorange;
+    background-color: #122417;
+    color: #dbedcc;
+    .con-nav-header {
+      border: 0px solid mediumturquoise;
+      .row1-nav-header {
+        border: 0px solid magenta;
+        height: 88px;
+        .logo-nav-header {
+          border: 0px solid tomato;
+          display: flex;
+          align-items: center;
+          p {
+            border: 0px solid steelblue;
+            font-weight: 700;
+            font-size: 36px;
+          }
+        }
+        .brand-nav-header {
+          border: 0px solid maroon;
+          display: flex;
+          align-items: center;
+          p {
+            border: 0px solid forestgreen;
+            font-weight: 700;
+            font-size: 36px;
+          }
+        }
+        .menu-nav-header {
+          border: 0px solid green;
+          display: flex;
+          align-items: center;
+          font-weight: 600;
+          font-size: 24px;
+          .navbar-menu-nav-header {
+            border: 0px solid darkturquoise;
+            width: 100%;
+            display: flex;
+            justify-content: space-between;
+            .home-navbar-menu-nav-header {
+              border: 0px solid saddlebrown;
+            }
+            .about-navbar-menu-nav-header {
+              border: 0px solid salmon;
+            }
+            .gallery-navbar-menu-nav-header {
+              border: 0px solid violet;
+            }
+          }
+        }
+      }
+    }
+  }
+}
+
+main {
+  border: 0px solid darkmagenta;
+  height: 1200px;
+  .title-main {
+    border: 0px solid chocolate;
+    .con-title-main {
+      border: 0px solid skyblue;
+      .row1-title-main {
+        border: 0px solid blueviolet;
+        .place-title-main {
+          border: 0px solid seagreen;
+          height: 200px;
+          display: flex;
+          align-items: center;
+          justify-content: start;
+          p {
+            border: 0px solid fuchsia;
+            font-family: "Poppins", Arial, Helvetica, sans-serif;
+            font-weight: 500;
+            font-size: 96px;
+            letter-spacing: 8px;
+          }
+        }
+      }
+    }
+  }
+  .content-main {
+    border: 0px solid darkorange;
+    .con-content-main {
+      border: 0px solid chartreuse;
+      .row1-content-main {
+        border: 0px solid deeppink;
+        margin: 40px 0;
+        .place-content-main {
+          border: 0px solid aqua;
+          .title-place-content-main {
+            border: 0px solid blueviolet;
+            margin-bottom: 24px;
+            p {
+              border: 0px solid springgreen;
+              font-family: "Poppins", Arial, Helvetica, sans-serif;
+              font-weight: 500;
+              font-size: 36px;
+              letter-spacing: 4px;
+            }
+          }
+          .description-place-content-main {
+            border: 0px solid red;
+            p {
+              border: 0px solid yellowgreen;
+              font-weight: 500;
+              font-size: 24px;
+              letter-spacing: 1px;
+              white-space: 6px;
+            }
+          }
+        }
+      }
+      .row2-content-main {
+        border: 0px solid deeppink;
+        margin: 40px 0;
+        .place-content-main {
+          border: 0px solid aqua;
+          .title-place-content-main {
+            border: 0px solid blueviolet;
+            margin-bottom: 24px;
+            p {
+              border: 0px solid springgreen;
+              font-family: "Poppins", Arial, Helvetica, sans-serif;
+              font-weight: 500;
+              font-size: 36px;
+              letter-spacing: 4px;
+            }
+          }
+          .description-place-content-main {
+            border: 0px solid red;
+            p {
+              border: 0px solid yellowgreen;
+              font-weight: 500;
+              font-size: 24px;
+              letter-spacing: 1px;
+              white-space: 6px;
+            }
+          }
+        }
+      }
+      .row3-content-main {
+        border: 0px solid deeppink;
+        margin: 40px 0;
+        .place-content-main {
+          border: 0px solid aqua;
+          .title-place-content-main {
+            border: 0px solid blueviolet;
+            margin-bottom: 24px;
+            p {
+              border: 0px solid springgreen;
+              font-family: "Poppins", Arial, Helvetica, sans-serif;
+              font-weight: 500;
+              font-size: 36px;
+              letter-spacing: 4px;
+            }
+          }
+          .description-place-content-main {
+            border: 0px solid red;
+            p {
+              border: 0px solid yellowgreen;
+              font-weight: 500;
+              font-size: 24px;
+              letter-spacing: 1px;
+              white-space: 6px;
+            }
+          }
+        }
+      }
+    }
+  }
+}
+
+footer {
+  background-color: #122417;
+  color: #dbedcc;
+  border: 0px solid darkblue;
+  .con-footer {
+    border: 0px solid ghostwhite;
+    height: 600px;
+    .row1-footer {
+      border: 0px solid yellow;
+      height: 100%;
+      .place-footer {
+        border: 0px solid mediumturquoise;
+        height: 100%;
+        padding: 40px 0;
+        display: grid;
+        grid-template:
+          "brand quotes quotes sosmed" 2fr
+          "brand quotes quotes sosmed" 3fr
+          "license license menu menu" 1fr / 3fr 2.5fr 2.5fr 5fr;
+
+        .brand-place-footer {
+          border: 0px solid yellowgreen;
+          grid-area: brand;
+          p {
+            border: 0px solid cornsilk;
+            font-size: 24px;
+            font-weight: 700;
+            letter-spacing: 2px;
+          }
+        }
+        .sosmed-place-footer {
+          border: 0px solid coral;
+          grid-area: sosmed;
+          .title-sosmed-place-footer {
+            border: 0px solid seashell;
+            margin-bottom: 16px;
+            p {
+              border: 0px solid hotpink;
+              font-weight: 700;
+              font-size: 24px;
+              letter-spacing: 2px;
+            }
+          }
+          .icon-sosmed-place-footer {
+            border: 0px solid fuchsia;
+            display: flex;
+            justify-content: space-around;
+            .instagram-icon {
+              border: 0px solid violet;
+            }
+            .tiktok-icon {
+              border: 0px solid mediumspringgreen;
+            }
+            .facebook-icon {
+              border: 0px solid salmon;
+            }
+            .pinterest-icon {
+              border: 0px solid skyblue;
+            }
+            .twitter-icon {
+              border: 0px solid whitesmoke;
+            }
+          }
+        }
+        .quotes-place-footer {
+          border: 0px solid crimson;
+          grid-area: quotes;
+          display: flex;
+          flex-direction: column;
+          justify-content: center;
+          .text-quotes-place-footer {
+            border: 0px solid yellow;
+            p {
+              border: 0px solid aqua;
+              font-size: 48px;
+            }
+          }
+          .name-quotes-place-footer {
+            border: 0px solid burlywood;
+            display: flex;
+            justify-content: center;
+            position: relative;
+            bottom: 44px;
+            p {
+              border: 0px solid springgreen;
+              letter-spacing: 4px;
+            }
+          }
+        }
+        .license-place-footer {
+          border: 0px solid ghostwhite;
+          grid-area: license;
+          display: flex;
+          align-items: flex-end;
+          p {
+            border: 0px solid crimson;
+          }
+        }
+        .menu-place-footer {
+          border: 0px solid greenyellow;
+          grid-area: menu;
+          display: flex;
+          align-items: flex-end;
+          justify-content: space-around;
+          font-size: 24px;
+          font-weight: 700;
+          .home-menu-place-footer {
+            border: 0px solid royalblue;
+            p {
+              border: 0px solid ghostwhite;
+            }
+          }
+          .about-menu-place-footer {
+            border: 0px solid aqua;
+            p {
+              border: 0px solid ghostwhite;
+            }
+          }
+          .gallery-menu-place-footer {
+            border: 0px solid orange;
+            p {
+              border: 0px solid ghostwhite;
+            }
+          }
+          .contact-menu-place-footer {
+            border: 0px solid orchid;
+            p {
+              border: 0px solid ghostwhite;
+            }
+          }
+          .credit-menu-place-footer {
+            border: 0px solid navajowhite;
+            p {
+              border: 0px solid ghostwhite;
+            }
+          }
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,412 @@
+p {
+  margin: 0;
+  display: inline;
+}
+
+div {
+  padding: 0;
+}
+
+body {
+  font-family: "Comfortaa", Helvetica, sans-serif;
+  font-size: 18px;
+  color: #122417;
+  background-color: #dbedcc;
+}
+
+header {
+  border: 0.09px solid maroon;
+}
+header nav {
+  border: 0.09px solid darkorange;
+  background-color: #122417;
+  color: #dbedcc;
+}
+header nav .con-nav-header {
+  border: 0.09px solid mediumturquoise;
+}
+header nav .con-nav-header .row1-nav-header {
+  border: 0.09px solid magenta;
+  height: 88px;
+}
+header nav .con-nav-header .row1-nav-header .logo-nav-header {
+  border: 0.09px solid tomato;
+  display: flex;
+  align-items: center;
+}
+header nav .con-nav-header .row1-nav-header .logo-nav-header p {
+  border: 0.09px solid steelblue;
+  font-weight: 700;
+  font-size: 36px;
+}
+header nav .con-nav-header .row1-nav-header .brand-nav-header {
+  border: 0.09px solid maroon;
+  display: flex;
+  align-items: center;
+}
+header nav .con-nav-header .row1-nav-header .brand-nav-header p {
+  border: 0.09px solid forestgreen;
+  font-weight: 700;
+  font-size: 36px;
+}
+header nav .con-nav-header .row1-nav-header .menu-nav-header {
+  border: 0.09px solid green;
+  display: flex;
+  align-items: center;
+  font-weight: 600;
+  font-size: 24px;
+}
+header nav .con-nav-header .row1-nav-header .menu-nav-header .navbar-menu-nav-header {
+  border: 0.09px solid darkturquoise;
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+}
+header nav .con-nav-header .row1-nav-header .menu-nav-header .navbar-menu-nav-header .home-navbar-menu-nav-header {
+  border: 0.09px solid saddlebrown;
+}
+header nav .con-nav-header .row1-nav-header .menu-nav-header .navbar-menu-nav-header .about-navbar-menu-nav-header {
+  border: 0.09px solid salmon;
+}
+header nav .con-nav-header .row1-nav-header .menu-nav-header .navbar-menu-nav-header .gallery-navbar-menu-nav-header {
+  border: 0.09px solid violet;
+}
+
+main {
+  border: 0.09px solid royalblue;
+}
+main .intro-main {
+  border: 0.09px solid saddlebrown;
+}
+main .intro-main .con-intro-main {
+  border: 0.09px solid darkkhaki;
+  height: 594px;
+}
+main .intro-main .con-intro-main .row1-intro-main {
+  border: 0.09px solid blueviolet;
+  height: 100%;
+  padding: 56px 0 40px 0;
+  display: grid;
+  grid-template: "title img" 1fr "title img" 1.25fr "text img" 1.25fr "text img" 1fr/1fr 1fr;
+}
+main .intro-main .con-intro-main .row1-intro-main .title-intro-main {
+  border: 0.09px solid darkolivegreen;
+  grid-area: title;
+}
+main .intro-main .con-intro-main .row1-intro-main .title-intro-main p {
+  border: 0.09px solid magenta;
+  font-family: "Poppins", Arial, Helvetica, sans-serif;
+  font-weight: 600;
+  font-size: 80px;
+  letter-spacing: 2px;
+}
+main .intro-main .con-intro-main .row1-intro-main .text-intro-main {
+  border: 0.09px solid darkorange;
+  grid-area: text;
+}
+main .intro-main .con-intro-main .row1-intro-main .text-intro-main p {
+  border: 0.09px solid crimson;
+  font-weight: 600;
+  font-size: 24px;
+  letter-spacing: 2px;
+  word-spacing: 4px;
+}
+main .intro-main .con-intro-main .row1-intro-main .img-intro-main {
+  border: 8px solid #1a4a24;
+  height: 440px;
+  width: 440px;
+  margin-left: 32%;
+  grid-area: img;
+  border-radius: 50%;
+  background-image: url(img/ruben-valenzuela-PBKG0UYM810-unsplash.jpg);
+  background-position: center;
+  background-size: cover;
+  -o-object-fit: cover;
+     object-fit: cover;
+}
+main .contact-main {
+  border: 0.09px solid salmon;
+  background-color: #ff5524;
+}
+main .contact-main .con-contact-main {
+  border: 0.09px solid violet;
+  height: 712px;
+}
+main .contact-main .con-contact-main .row1-contact-main {
+  padding: 56px 0 40px 0;
+  border: 0.09px solid navy;
+  height: 100%;
+}
+main .contact-main .con-contact-main .row1-contact-main .title-contact-main {
+  border: 0.09px solid mediumorchid;
+  display: flex;
+  justify-content: center;
+}
+main .contact-main .con-contact-main .row1-contact-main .title-contact-main p {
+  border: 0.09px solid brown;
+  font-family: "Poppins", Arial, Helvetica, sans-serif;
+  font-weight: 600;
+  font-size: 64px;
+  letter-spacing: 4px;
+}
+main .contact-main .con-contact-main .row1-contact-main .sosmed-contact-main {
+  height: 466px;
+  border: 5px solid #122417;
+  border-radius: 56px;
+  padding: 0 80px;
+  display: flex;
+  flex-wrap: wrap;
+  align-content: space-around;
+}
+main .contact-main .con-contact-main .row1-contact-main .sosmed-contact-main .tiktok-sosmed-contact-main {
+  border: 2.09px solid red;
+  height: 128px;
+  width: 200px;
+  margin: 0 48px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+main .contact-main .con-contact-main .row1-contact-main .sosmed-contact-main .tiktok-sosmed-contact-main .icon-tiktok {
+  border: 0.09px solid green;
+}
+main .contact-main .con-contact-main .row1-contact-main .sosmed-contact-main .tiktok-sosmed-contact-main p {
+  border: 0.09px solid darkorange;
+  font-size: 24px;
+  font-weight: 600;
+  color: #dbedcc;
+}
+main .contact-main .con-contact-main .row1-contact-main .sosmed-contact-main .facebook-sosmed-contact-main {
+  border: 0.09px solid navy;
+  height: 128px;
+  width: 200px;
+  margin: 0 48px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+main .contact-main .con-contact-main .row1-contact-main .sosmed-contact-main .facebook-sosmed-contact-main .icon-facebook {
+  border: 0.09px solid mediumspringgreen;
+}
+main .contact-main .con-contact-main .row1-contact-main .sosmed-contact-main .facebook-sosmed-contact-main p {
+  border: 0.09px solid indigo;
+  font-size: 24px;
+  font-weight: 600;
+  color: #dbedcc;
+}
+main .contact-main .con-contact-main .row1-contact-main .sosmed-contact-main .pinterest-sosmed-contact-main {
+  border: 0.09px solid mediumvioletred;
+  height: 128px;
+  width: 200px;
+  margin: 0 48px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+main .contact-main .con-contact-main .row1-contact-main .sosmed-contact-main .pinterest-sosmed-contact-main .icon-pinterest {
+  border: 0.09px solid royalblue;
+}
+main .contact-main .con-contact-main .row1-contact-main .sosmed-contact-main .pinterest-sosmed-contact-main p {
+  border: 0.09px solid chartreuse;
+  font-size: 24px;
+  font-weight: 600;
+  color: #dbedcc;
+}
+main .contact-main .con-contact-main .row1-contact-main .sosmed-contact-main .email-sosmed-contact-main {
+  border: 0.09px solid lightseagreen;
+  height: 128px;
+  width: 200px;
+  margin: 0 48px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+main .contact-main .con-contact-main .row1-contact-main .sosmed-contact-main .email-sosmed-contact-main .icon-email {
+  border: 0.09px solid fuchsia;
+}
+main .contact-main .con-contact-main .row1-contact-main .sosmed-contact-main .email-sosmed-contact-main p {
+  border: 0.09px solid springgreen;
+  font-size: 24px;
+  font-weight: 600;
+  color: #dbedcc;
+}
+main .contact-main .con-contact-main .row1-contact-main .sosmed-contact-main .twitter-sosmed-contact-main {
+  border: 0.09px solid tomato;
+  height: 128px;
+  width: 200px;
+  margin: 0 48px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+main .contact-main .con-contact-main .row1-contact-main .sosmed-contact-main .twitter-sosmed-contact-main .icon-twitter {
+  border: 0.09px solid slateblue;
+}
+main .contact-main .con-contact-main .row1-contact-main .sosmed-contact-main .twitter-sosmed-contact-main p {
+  border: 0.09px solid seagreen;
+  font-size: 24px;
+  font-weight: 600;
+  color: #dbedcc;
+}
+main .contact-main .con-contact-main .row1-contact-main .sosmed-contact-main .linkedin-sosmed-contact-main {
+  border: 0.09px solid slateblue;
+  height: 128px;
+  width: 200px;
+  margin: 0 48px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+main .contact-main .con-contact-main .row1-contact-main .sosmed-contact-main .linkedin-sosmed-contact-main .icon-linkedin {
+  border: 0.09px solid goldenrod;
+}
+main .contact-main .con-contact-main .row1-contact-main .sosmed-contact-main .linkedin-sosmed-contact-main p {
+  border: 0.09px solid purple;
+  font-size: 24px;
+  font-weight: 600;
+  color: #dbedcc;
+}
+
+footer {
+  background-color: #122417;
+  color: #dbedcc;
+  border: 0.09px solid darkblue;
+}
+footer .con-footer {
+  border: 0.09px solid ghostwhite;
+  height: 600px;
+}
+footer .con-footer .row1-footer {
+  border: 0.09px solid yellow;
+  height: 100%;
+}
+footer .con-footer .row1-footer .place-footer {
+  border: 0.09px solid mediumturquoise;
+  height: 100%;
+  padding: 40px 0;
+  display: grid;
+  grid-template: "brand quotes quotes sosmed" 2fr "brand quotes quotes sosmed" 3fr "license license menu menu" 1fr/3fr 2.5fr 2.5fr 5fr;
+}
+footer .con-footer .row1-footer .place-footer .brand-place-footer {
+  border: 0.09px solid yellowgreen;
+  grid-area: brand;
+}
+footer .con-footer .row1-footer .place-footer .brand-place-footer p {
+  border: 0.09px solid cornsilk;
+  font-size: 24px;
+  font-weight: 700;
+  letter-spacing: 2px;
+}
+footer .con-footer .row1-footer .place-footer .sosmed-place-footer {
+  border: 0.09px solid coral;
+  grid-area: sosmed;
+}
+footer .con-footer .row1-footer .place-footer .sosmed-place-footer .title-sosmed-place-footer {
+  border: 0.09px solid seashell;
+  margin-bottom: 16px;
+}
+footer .con-footer .row1-footer .place-footer .sosmed-place-footer .title-sosmed-place-footer p {
+  border: 0.09px solid hotpink;
+  font-weight: 700;
+  font-size: 24px;
+  letter-spacing: 2px;
+}
+footer .con-footer .row1-footer .place-footer .sosmed-place-footer .icon-sosmed-place-footer {
+  border: 0.09px solid fuchsia;
+  display: flex;
+  justify-content: space-around;
+}
+footer .con-footer .row1-footer .place-footer .sosmed-place-footer .icon-sosmed-place-footer .instagram-icon {
+  border: 0.09px solid violet;
+}
+footer .con-footer .row1-footer .place-footer .sosmed-place-footer .icon-sosmed-place-footer .tiktok-icon {
+  border: 0.09px solid mediumspringgreen;
+}
+footer .con-footer .row1-footer .place-footer .sosmed-place-footer .icon-sosmed-place-footer .facebook-icon {
+  border: 0.09px solid salmon;
+}
+footer .con-footer .row1-footer .place-footer .sosmed-place-footer .icon-sosmed-place-footer .pinterest-icon {
+  border: 0.09px solid skyblue;
+}
+footer .con-footer .row1-footer .place-footer .sosmed-place-footer .icon-sosmed-place-footer .twitter-icon {
+  border: 0.09px solid whitesmoke;
+}
+footer .con-footer .row1-footer .place-footer .quotes-place-footer {
+  border: 0.09px solid crimson;
+  grid-area: quotes;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+footer .con-footer .row1-footer .place-footer .quotes-place-footer .text-quotes-place-footer {
+  border: 0.09px solid yellow;
+}
+footer .con-footer .row1-footer .place-footer .quotes-place-footer .text-quotes-place-footer p {
+  border: 0.09px solid aqua;
+  font-size: 48px;
+}
+footer .con-footer .row1-footer .place-footer .quotes-place-footer .name-quotes-place-footer {
+  border: 0.09px solid burlywood;
+  display: flex;
+  justify-content: center;
+  position: relative;
+  bottom: 44px;
+}
+footer .con-footer .row1-footer .place-footer .quotes-place-footer .name-quotes-place-footer p {
+  border: 0.09px solid springgreen;
+  letter-spacing: 4px;
+}
+footer .con-footer .row1-footer .place-footer .license-place-footer {
+  border: 0.09px solid ghostwhite;
+  grid-area: license;
+  display: flex;
+  align-items: flex-end;
+}
+footer .con-footer .row1-footer .place-footer .license-place-footer p {
+  border: 0.09px solid crimson;
+}
+footer .con-footer .row1-footer .place-footer .menu-place-footer {
+  border: 0.09px solid greenyellow;
+  grid-area: menu;
+  display: flex;
+  align-items: flex-end;
+  justify-content: space-around;
+  font-size: 24px;
+  font-weight: 700;
+}
+footer .con-footer .row1-footer .place-footer .menu-place-footer .home-menu-place-footer {
+  border: 0.09px solid royalblue;
+}
+footer .con-footer .row1-footer .place-footer .menu-place-footer .home-menu-place-footer p {
+  border: 0.09px solid ghostwhite;
+}
+footer .con-footer .row1-footer .place-footer .menu-place-footer .about-menu-place-footer {
+  border: 0.09px solid aqua;
+}
+footer .con-footer .row1-footer .place-footer .menu-place-footer .about-menu-place-footer p {
+  border: 0.09px solid ghostwhite;
+}
+footer .con-footer .row1-footer .place-footer .menu-place-footer .gallery-menu-place-footer {
+  border: 0.09px solid orange;
+}
+footer .con-footer .row1-footer .place-footer .menu-place-footer .gallery-menu-place-footer p {
+  border: 0.09px solid ghostwhite;
+}
+footer .con-footer .row1-footer .place-footer .menu-place-footer .contact-menu-place-footer {
+  border: 0.09px solid orchid;
+}
+footer .con-footer .row1-footer .place-footer .menu-place-footer .contact-menu-place-footer p {
+  border: 0.09px solid ghostwhite;
+}
+footer .con-footer .row1-footer .place-footer .menu-place-footer .credit-menu-place-footer {
+  border: 0.09px solid navajowhite;
+}
+footer .con-footer .row1-footer .place-footer .menu-place-footer .credit-menu-place-footer p {
+  border: 0.09px solid ghostwhite;
+}/*# sourceMappingURL=style_about.css.map */
