@@ -15,104 +15,104 @@ body {
 }
 
 header {
-  border: 0.09px solid maroon;
+  border: 0px solid maroon;
 }
 header nav {
-  border: 0.09px solid darkorange;
+  border: 0px solid darkorange;
   background-color: #122417;
   color: #dbedcc;
 }
 header nav .con-nav-header {
-  border: 0.09px solid mediumturquoise;
+  border: 0px solid mediumturquoise;
 }
 header nav .con-nav-header .row1-nav-header {
-  border: 0.09px solid magenta;
+  border: 0px solid magenta;
   height: 88px;
 }
 header nav .con-nav-header .row1-nav-header .logo-nav-header {
-  border: 0.09px solid tomato;
+  border: 0px solid tomato;
   display: flex;
   align-items: center;
 }
 header nav .con-nav-header .row1-nav-header .logo-nav-header p {
-  border: 0.09px solid steelblue;
+  border: 0px solid steelblue;
   font-weight: 700;
   font-size: 36px;
 }
 header nav .con-nav-header .row1-nav-header .brand-nav-header {
-  border: 0.09px solid maroon;
+  border: 0px solid maroon;
   display: flex;
   align-items: center;
 }
 header nav .con-nav-header .row1-nav-header .brand-nav-header p {
-  border: 0.09px solid forestgreen;
+  border: 0px solid forestgreen;
   font-weight: 700;
   font-size: 36px;
 }
 header nav .con-nav-header .row1-nav-header .menu-nav-header {
-  border: 0.09px solid green;
+  border: 0px solid green;
   display: flex;
   align-items: center;
   font-weight: 600;
   font-size: 24px;
 }
 header nav .con-nav-header .row1-nav-header .menu-nav-header .navbar-menu-nav-header {
-  border: 0.09px solid darkturquoise;
+  border: 0px solid darkturquoise;
   width: 100%;
   display: flex;
   justify-content: space-between;
 }
 header nav .con-nav-header .row1-nav-header .menu-nav-header .navbar-menu-nav-header .home-navbar-menu-nav-header {
-  border: 0.09px solid saddlebrown;
+  border: 0px solid saddlebrown;
 }
 header nav .con-nav-header .row1-nav-header .menu-nav-header .navbar-menu-nav-header .about-navbar-menu-nav-header {
-  border: 0.09px solid salmon;
+  border: 0px solid salmon;
 }
 header nav .con-nav-header .row1-nav-header .menu-nav-header .navbar-menu-nav-header .gallery-navbar-menu-nav-header {
-  border: 0.09px solid violet;
+  border: 0px solid violet;
 }
 header nav .con-nav-header .row1-nav-header .menu-nav-header .navbar-menu-nav-header .navbar-plus {
   display: none;
 }
 header .intro-header {
-  border: 0.09px solid blue;
+  border: 0px solid blue;
 }
 header .intro-header .con-intro-header {
-  border: 0.09px solid slateblue;
+  border: 0px solid slateblue;
   height: 100vh;
 }
 header .intro-header .con-intro-header .row1-intro-header {
-  border: 0.09px solid limegreen;
+  border: 0px solid limegreen;
   position: absolute;
   z-index: 1;
   margin-top: 516px;
   margin-left: 124px;
 }
 header .intro-header .con-intro-header .row1-intro-header .title-intro-header {
-  border: 0.09px solid hotpink;
+  border: 0px solid hotpink;
 }
 header .intro-header .con-intro-header .row1-intro-header .title-intro-header p {
-  border: 0.09px solid springgreen;
+  border: 0px solid springgreen;
   color: #ff5524;
   font-weight: 700;
   font-size: 80px;
 }
 header .intro-header .con-intro-header .row1-intro-header .name-intro-header {
-  border: 0.09px solid indigo;
+  border: 0px solid indigo;
 }
 header .intro-header .con-intro-header .row1-intro-header .name-intro-header p {
-  border: 0.09px solid green;
+  border: 0px solid green;
   color: #122417;
   font-weight: 500;
   font-size: 56px;
 }
 header .intro-header .con-intro-header .row2-intro-header {
-  border: 0.09px solid navy;
+  border: 0px solid navy;
   height: 58%;
 }
 header .intro-header .con-intro-header .row2-intro-header .picture-intro-header {
   margin-top: 40px;
-  border: 0.09px solid green;
+  border: 0px solid green;
   height: 100%;
 }
 header .intro-header .con-intro-header .row2-intro-header .picture-intro-header img {
@@ -125,16 +125,16 @@ header .intro-header .con-intro-header .row2-intro-header .picture-intro-header 
   transform: scaleX(-1);
 }
 header .intro-header .con-intro-header .row3-intro-header {
-  border: 0.09px solid green;
+  border: 0px solid green;
 }
 header .intro-header .con-intro-header .row3-intro-header .description-intro-header {
-  border: 0.09px solid orange;
+  border: 0px solid orange;
   position: relative;
   top: 88px;
   left: 724px;
 }
 header .intro-header .con-intro-header .row3-intro-header .description-intro-header p {
-  border: 0.09px solid turquoise;
+  border: 0px solid turquoise;
   font-size: 24px;
   line-height: 40px;
   letter-spacing: 2px;
@@ -142,18 +142,18 @@ header .intro-header .con-intro-header .row3-intro-header .description-intro-hea
 }
 
 main {
-  border: 0.09px solid slateblue;
+  border: 0px solid slateblue;
 }
 main .contact-main {
-  border: 0.09px solid fuchsia;
+  border: 0px solid fuchsia;
   background-color: #ff5524;
 }
 main .contact-main .con-contact-main {
-  border: 0.09px solid green;
+  border: 0px solid green;
   height: 560px;
 }
 main .contact-main .con-contact-main .row1-contact-main {
-  border: 0.09px solid yellow;
+  border: 0px solid yellow;
   height: 100%;
   padding: 48px 0;
 }
@@ -168,43 +168,43 @@ main .contact-main .con-contact-main .row1-contact-main .place-contact-main {
   justify-content: space-around;
 }
 main .contact-main .con-contact-main .row1-contact-main .place-contact-main .title-place-contact-main {
-  border: 0.09px solid darkred;
+  border: 0px solid darkred;
 }
 main .contact-main .con-contact-main .row1-contact-main .place-contact-main .title-place-contact-main p {
-  border: 0.09px solid springgreen;
+  border: 0px solid springgreen;
   font-family: "Poppins", Helvetica, sans-serif;
   font-size: 56px;
   font-weight: 700;
   letter-spacing: 8px;
 }
 main .contact-main .con-contact-main .row1-contact-main .place-contact-main .description-place-contact-main {
-  border: 0.09px solid fuchsia;
+  border: 0px solid fuchsia;
   margin-bottom: 88px;
 }
 main .contact-main .con-contact-main .row1-contact-main .place-contact-main .description-place-contact-main p {
-  border: 0.09px solid olive;
+  border: 0px solid olive;
   font-size: 32px;
 }
 main .contact-main .con-contact-main .row1-contact-main .place-contact-main .sosmed-place-contact-main {
-  border: 0.09px solid darkblue;
+  border: 0px solid darkblue;
   width: 72%;
   display: flex;
   justify-content: space-around;
 }
 main .about-main {
-  border: 0.09px solid springgreen;
+  border: 0px solid springgreen;
   background-color: #1a4a24;
 }
 main .about-main .con-about-main {
-  border: 0.09px solid red;
+  border: 0px solid red;
   height: 712px;
 }
 main .about-main .con-about-main .row1-about-main {
-  border: 0.09px solid khaki;
+  border: 0px solid khaki;
   height: 100%;
 }
 main .about-main .con-about-main .row1-about-main .place1-about-main {
-  border: 0.09px solid yellowgreen;
+  border: 0px solid yellowgreen;
   height: 100%;
   display: flex;
   flex-direction: column;
@@ -212,7 +212,7 @@ main .about-main .con-about-main .row1-about-main .place1-about-main {
   justify-content: space-around;
 }
 main .about-main .con-about-main .row1-about-main .place1-about-main .title-place1-about-main {
-  border: 0.09px solid firebrick;
+  border: 0px solid firebrick;
   color: #dbedcc;
 }
 main .about-main .con-about-main .row1-about-main .place1-about-main .title-place1-about-main p {
@@ -222,7 +222,7 @@ main .about-main .con-about-main .row1-about-main .place1-about-main .title-plac
   letter-spacing: 8px;
 }
 main .about-main .con-about-main .row1-about-main .place1-about-main .img-place1-about-main {
-  border: 0.09px solid navy;
+  border: 0px solid navy;
 }
 main .about-main .con-about-main .row1-about-main .place1-about-main .img-place1-about-main img {
   border: 4px solid #dbedcc;
@@ -233,7 +233,7 @@ main .about-main .con-about-main .row1-about-main .place1-about-main .img-place1
   border-radius: 44px;
 }
 main .about-main .con-about-main .place2-about-main {
-  border: 0.09px solid magenta;
+  border: 0px solid magenta;
   height: 100%;
   padding-top: 56px;
   display: flex;
@@ -241,16 +241,16 @@ main .about-main .con-about-main .place2-about-main {
   align-items: flex-end;
 }
 main .about-main .con-about-main .place2-about-main .text-place2-about-main {
-  border: 0.09px solid limegreen;
+  border: 0px solid limegreen;
 }
 main .about-main .con-about-main .place2-about-main .text-place2-about-main p {
-  border: 0.09px solid navy;
+  border: 0px solid navy;
   color: #dbedcc;
   font-size: 32px;
   letter-spacing: 2px;
 }
 main .about-main .con-about-main .place2-about-main .button-place2-about-main {
-  border: 0.09px solid aqua;
+  border: 0px solid aqua;
   height: 56px;
   width: 180px;
   top: 80px;
@@ -262,42 +262,42 @@ main .about-main .con-about-main .place2-about-main .button-place2-about-main {
   align-items: center;
 }
 main .about-main .con-about-main .place2-about-main .button-place2-about-main p {
-  border: 0.09px solid firebrick;
+  border: 0px solid firebrick;
   font-family: "Poppins", Helvetica, sans-serif;
   color: #122417;
   font-weight: 900;
   letter-spacing: 2px;
 }
 main .gallery-main {
-  border: 0.09px solid rosybrown;
+  border: 0px solid rosybrown;
 }
 main .gallery-main .con-gallery-main {
-  border: 0.09px solid hotpink;
+  border: 0px solid hotpink;
   height: 1200px;
 }
 main .gallery-main .con-gallery-main .row1-gallery-main {
-  border: 0.09px solid blue;
+  border: 0px solid blue;
   height: 100%;
   display: grid;
   /* Rows / Coloumns */
   grid-template: "title content2" 232px "content1 content2" 324px "content1 content3" 324px "content1 content3" auto/7fr 5fr;
 }
 main .gallery-main .con-gallery-main .row1-gallery-main .title-gallery-main {
-  border: 0.09px solid darkmagenta;
+  border: 0px solid darkmagenta;
   grid-area: title;
   display: flex;
   align-items: center;
   justify-content: center;
 }
 main .gallery-main .con-gallery-main .row1-gallery-main .title-gallery-main p {
-  border: 0.09px solid teal;
+  border: 0px solid teal;
   font-family: "Poppins", Arial, Helvetica, sans-serif;
   font-size: 64px;
   font-weight: 800;
   letter-spacing: 8px;
 }
 main .gallery-main .con-gallery-main .row1-gallery-main .content1-gallery-main {
-  border: 0.09px solid forestgreen;
+  border: 0px solid forestgreen;
   grid-area: content1;
 }
 main .gallery-main .con-gallery-main .row1-gallery-main .content1-gallery-main .img-content1-gallery-main {
@@ -312,7 +312,7 @@ main .gallery-main .con-gallery-main .row1-gallery-main .content1-gallery-main .
   background-position: center;
 }
 main .gallery-main .con-gallery-main .row1-gallery-main .content1-gallery-main .title-content1-gallery-main {
-  border: 0.09px solid red;
+  border: 0px solid red;
   margin-top: 24px;
   margin-bottom: 16px;
   display: flex;
@@ -320,22 +320,22 @@ main .gallery-main .con-gallery-main .row1-gallery-main .content1-gallery-main .
   align-items: center;
 }
 main .gallery-main .con-gallery-main .row1-gallery-main .content1-gallery-main .title-content1-gallery-main p {
-  border: 0.09px solid goldenrod;
+  border: 0px solid goldenrod;
   font-size: 36px;
   font-weight: 800;
 }
 main .gallery-main .con-gallery-main .row1-gallery-main .content1-gallery-main .title-content1-gallery-main .arrow-icon {
-  border: 0.09px solid darkmagenta;
+  border: 0px solid darkmagenta;
 }
 main .gallery-main .con-gallery-main .row1-gallery-main .content1-gallery-main .description-content1-gallery-main {
-  border: 0.09px solid maroon;
+  border: 0px solid maroon;
 }
 main .gallery-main .con-gallery-main .row1-gallery-main .content1-gallery-main .description-content1-gallery-main p {
-  border: 0.09px solid yellow;
+  border: 0px solid yellow;
   font-size: 24px;
 }
 main .gallery-main .con-gallery-main .row1-gallery-main .content2-gallery-main {
-  border: 0.09px solid violet;
+  border: 0px solid violet;
   grid-area: content2;
   display: flex;
   flex-direction: column;
@@ -354,7 +354,7 @@ main .gallery-main .con-gallery-main .row1-gallery-main .content2-gallery-main .
   background-position: center;
 }
 main .gallery-main .con-gallery-main .row1-gallery-main .content2-gallery-main .title-content2-gallery-main {
-  border: 0.09px solid red;
+  border: 0px solid red;
   width: 408px;
   margin: 16px 0 8px 0;
   display: flex;
@@ -362,22 +362,22 @@ main .gallery-main .con-gallery-main .row1-gallery-main .content2-gallery-main .
   align-items: center;
 }
 main .gallery-main .con-gallery-main .row1-gallery-main .content2-gallery-main .title-content2-gallery-main p {
-  border: 0.09px solid darkmagenta;
+  border: 0px solid darkmagenta;
   font-size: 24px;
   font-weight: 800;
 }
 main .gallery-main .con-gallery-main .row1-gallery-main .content2-gallery-main .title-content2-gallery-main .arrow-icon {
-  border: 0.09px solid maroon;
+  border: 0px solid maroon;
 }
 main .gallery-main .con-gallery-main .row1-gallery-main .content2-gallery-main .description-content2-gallery-main {
-  border: 0.09px solid maroon;
+  border: 0px solid maroon;
   width: 408px;
 }
 main .gallery-main .con-gallery-main .row1-gallery-main .content2-gallery-main .description-content2-gallery-main p {
-  border: 0.09px solid yellow;
+  border: 0px solid yellow;
 }
 main .gallery-main .con-gallery-main .row1-gallery-main .content3-gallery-main {
-  border: 0.09px solid lightseagreen;
+  border: 0px solid lightseagreen;
   grid-area: content3;
   display: flex;
   flex-direction: column;
@@ -396,7 +396,7 @@ main .gallery-main .con-gallery-main .row1-gallery-main .content3-gallery-main .
   background-position-y: 20%;
 }
 main .gallery-main .con-gallery-main .row1-gallery-main .content3-gallery-main .title-content3-gallery-main {
-  border: 0.09px solid red;
+  border: 0px solid red;
   width: 408px;
   display: flex;
   margin: 16px 0 8px 0;
@@ -404,121 +404,121 @@ main .gallery-main .con-gallery-main .row1-gallery-main .content3-gallery-main .
   align-items: center;
 }
 main .gallery-main .con-gallery-main .row1-gallery-main .content3-gallery-main .title-content3-gallery-main p {
-  border: 0.09px solid navy;
+  border: 0px solid navy;
   font-size: 24px;
   font-weight: 800;
 }
 main .gallery-main .con-gallery-main .row1-gallery-main .content3-gallery-main .title-content3-gallery-main .arrow-icon {
-  border: 0.09px solid midnightblue;
+  border: 0px solid midnightblue;
 }
 main .gallery-main .con-gallery-main .row1-gallery-main .content3-gallery-main .description-content3-gallery-main {
-  border: 0.09px solid maroon;
+  border: 0px solid maroon;
   width: 408px;
 }
 main .gallery-main .con-gallery-main .row1-gallery-main .content3-gallery-main .description-content3-gallery-main p {
-  border: 0.09px solid yellow;
+  border: 0px solid yellow;
 }
 
 footer {
   background-color: #122417;
   color: #dbedcc;
-  border: 0.09px solid darkblue;
+  border: 0px solid darkblue;
 }
 footer .con-footer {
-  border: 0.09px solid ghostwhite;
+  border: 0px solid ghostwhite;
   height: 600px;
 }
 footer .con-footer .row1-footer {
-  border: 0.09px solid yellow;
+  border: 0px solid yellow;
   height: 100%;
 }
 footer .con-footer .row1-footer .place-footer {
-  border: 0.09px solid mediumturquoise;
+  border: 0px solid mediumturquoise;
   height: 100%;
   padding: 40px 0;
   display: grid;
   grid-template: "brand quotes quotes sosmed" 2fr "brand quotes quotes sosmed" 3fr "license license menu menu" 1fr/3fr 2.5fr 2.5fr 5fr;
 }
 footer .con-footer .row1-footer .place-footer .brand-place-footer {
-  border: 0.09px solid yellowgreen;
+  border: 0px solid yellowgreen;
   grid-area: brand;
 }
 footer .con-footer .row1-footer .place-footer .brand-place-footer p {
-  border: 0.09px solid cornsilk;
+  border: 0px solid cornsilk;
   font-size: 24px;
   font-weight: 700;
   letter-spacing: 2px;
 }
 footer .con-footer .row1-footer .place-footer .sosmed-place-footer {
-  border: 0.09px solid coral;
+  border: 0px solid coral;
   grid-area: sosmed;
 }
 footer .con-footer .row1-footer .place-footer .sosmed-place-footer .title-sosmed-place-footer {
-  border: 0.09px solid seashell;
+  border: 0px solid seashell;
   margin-bottom: 16px;
 }
 footer .con-footer .row1-footer .place-footer .sosmed-place-footer .title-sosmed-place-footer p {
-  border: 0.09px solid hotpink;
+  border: 0px solid hotpink;
   font-weight: 700;
   font-size: 24px;
   letter-spacing: 2px;
 }
 footer .con-footer .row1-footer .place-footer .sosmed-place-footer .icon-sosmed-place-footer {
-  border: 0.09px solid fuchsia;
+  border: 0px solid fuchsia;
   display: flex;
   justify-content: space-around;
 }
 footer .con-footer .row1-footer .place-footer .sosmed-place-footer .icon-sosmed-place-footer .instagram-icon {
-  border: 0.09px solid violet;
+  border: 0px solid violet;
 }
 footer .con-footer .row1-footer .place-footer .sosmed-place-footer .icon-sosmed-place-footer .tiktok-icon {
-  border: 0.09px solid mediumspringgreen;
+  border: 0px solid mediumspringgreen;
 }
 footer .con-footer .row1-footer .place-footer .sosmed-place-footer .icon-sosmed-place-footer .facebook-icon {
-  border: 0.09px solid salmon;
+  border: 0px solid salmon;
 }
 footer .con-footer .row1-footer .place-footer .sosmed-place-footer .icon-sosmed-place-footer .pinterest-icon {
-  border: 0.09px solid skyblue;
+  border: 0px solid skyblue;
 }
 footer .con-footer .row1-footer .place-footer .sosmed-place-footer .icon-sosmed-place-footer .twitter-icon {
-  border: 0.09px solid whitesmoke;
+  border: 0px solid whitesmoke;
 }
 footer .con-footer .row1-footer .place-footer .quotes-place-footer {
-  border: 0.09px solid crimson;
+  border: 0px solid crimson;
   grid-area: quotes;
   display: flex;
   flex-direction: column;
   justify-content: center;
 }
 footer .con-footer .row1-footer .place-footer .quotes-place-footer .text-quotes-place-footer {
-  border: 0.09px solid yellow;
+  border: 0px solid yellow;
 }
 footer .con-footer .row1-footer .place-footer .quotes-place-footer .text-quotes-place-footer p {
-  border: 0.09px solid aqua;
+  border: 0px solid aqua;
   font-size: 48px;
 }
 footer .con-footer .row1-footer .place-footer .quotes-place-footer .name-quotes-place-footer {
-  border: 0.09px solid burlywood;
+  border: 0px solid burlywood;
   display: flex;
   justify-content: center;
   position: relative;
   bottom: 44px;
 }
 footer .con-footer .row1-footer .place-footer .quotes-place-footer .name-quotes-place-footer p {
-  border: 0.09px solid springgreen;
+  border: 0px solid springgreen;
   letter-spacing: 4px;
 }
 footer .con-footer .row1-footer .place-footer .license-place-footer {
-  border: 0.09px solid ghostwhite;
+  border: 0px solid ghostwhite;
   grid-area: license;
   display: flex;
   align-items: flex-end;
 }
 footer .con-footer .row1-footer .place-footer .license-place-footer p {
-  border: 0.09px solid crimson;
+  border: 0px solid crimson;
 }
 footer .con-footer .row1-footer .place-footer .menu-place-footer {
-  border: 0.09px solid greenyellow;
+  border: 0px solid greenyellow;
   grid-area: menu;
   display: flex;
   align-items: flex-end;
@@ -527,136 +527,136 @@ footer .con-footer .row1-footer .place-footer .menu-place-footer {
   font-weight: 700;
 }
 footer .con-footer .row1-footer .place-footer .menu-place-footer .home-menu-place-footer {
-  border: 0.09px solid royalblue;
+  border: 0px solid royalblue;
 }
 footer .con-footer .row1-footer .place-footer .menu-place-footer .home-menu-place-footer p {
-  border: 0.09px solid ghostwhite;
+  border: 0px solid ghostwhite;
 }
 footer .con-footer .row1-footer .place-footer .menu-place-footer .about-menu-place-footer {
-  border: 0.09px solid aqua;
+  border: 0px solid aqua;
 }
 footer .con-footer .row1-footer .place-footer .menu-place-footer .about-menu-place-footer p {
-  border: 0.09px solid ghostwhite;
+  border: 0px solid ghostwhite;
 }
 footer .con-footer .row1-footer .place-footer .menu-place-footer .gallery-menu-place-footer {
-  border: 0.09px solid orange;
+  border: 0px solid orange;
 }
 footer .con-footer .row1-footer .place-footer .menu-place-footer .gallery-menu-place-footer p {
-  border: 0.09px solid ghostwhite;
+  border: 0px solid ghostwhite;
 }
 footer .con-footer .row1-footer .place-footer .menu-place-footer .contact-menu-place-footer {
-  border: 0.09px solid orchid;
+  border: 0px solid orchid;
 }
 footer .con-footer .row1-footer .place-footer .menu-place-footer .contact-menu-place-footer p {
-  border: 0.09px solid ghostwhite;
+  border: 0px solid ghostwhite;
 }
 footer .con-footer .row1-footer .place-footer .menu-place-footer .credit-menu-place-footer {
-  border: 0.09px solid navajowhite;
+  border: 0px solid navajowhite;
 }
 footer .con-footer .row1-footer .place-footer .menu-place-footer .credit-menu-place-footer p {
-  border: 0.09px solid ghostwhite;
+  border: 0px solid ghostwhite;
 }
 
 /* ------------------ MEDIA QUERY ------------------ */
 @media screen and (max-width: 1399.98px) {
   header {
-    border: 0.09px solid maroon;
+    border: 0px solid maroon;
   }
   header nav {
-    border: 0.09px solid darkorange;
+    border: 0px solid darkorange;
     background-color: #122417;
     color: #dbedcc;
   }
   header nav .con-nav-header {
-    border: 0.09px solid mediumturquoise;
+    border: 0px solid mediumturquoise;
   }
   header nav .con-nav-header .row1-nav-header {
-    border: 0.09px solid magenta;
+    border: 0px solid magenta;
     height: 72px;
   }
   header nav .con-nav-header .row1-nav-header .logo-nav-header {
-    border: 0.09px solid tomato;
+    border: 0px solid tomato;
     display: flex;
     align-items: center;
   }
   header nav .con-nav-header .row1-nav-header .logo-nav-header p {
-    border: 0.09px solid steelblue;
+    border: 0px solid steelblue;
     font-weight: 700;
     font-size: 32px;
   }
   header nav .con-nav-header .row1-nav-header .brand-nav-header {
-    border: 0.09px solid maroon;
+    border: 0px solid maroon;
     display: flex;
     align-items: center;
   }
   header nav .con-nav-header .row1-nav-header .brand-nav-header p {
-    border: 0.09px solid forestgreen;
+    border: 0px solid forestgreen;
     font-weight: 700;
     font-size: 32px;
   }
   header nav .con-nav-header .row1-nav-header .menu-nav-header {
-    border: 0.09px solid green;
+    border: 0px solid green;
     display: flex;
     align-items: center;
     font-weight: 600;
     font-size: 18px;
   }
   header nav .con-nav-header .row1-nav-header .menu-nav-header .navbar-menu-nav-header {
-    border: 0.09px solid darkturquoise;
+    border: 0px solid darkturquoise;
     width: 100%;
     display: flex;
     justify-content: space-between;
   }
   header nav .con-nav-header .row1-nav-header .menu-nav-header .navbar-menu-nav-header .home-navbar-menu-nav-header {
-    border: 0.09px solid saddlebrown;
+    border: 0px solid saddlebrown;
   }
   header nav .con-nav-header .row1-nav-header .menu-nav-header .navbar-menu-nav-header .about-navbar-menu-nav-header {
-    border: 0.09px solid salmon;
+    border: 0px solid salmon;
   }
   header nav .con-nav-header .row1-nav-header .menu-nav-header .navbar-menu-nav-header .gallery-navbar-menu-nav-header {
-    border: 0.09px solid violet;
+    border: 0px solid violet;
   }
   header .intro-header {
-    border: 0.09px solid blue;
+    border: 0px solid blue;
   }
   header .intro-header .con-intro-header {
-    border: 0.09px solid slateblue;
+    border: 0px solid slateblue;
     height: 800px;
     padding: 32px 0;
   }
   header .intro-header .con-intro-header .row1-intro-header {
-    border: 0.09px solid limegreen;
+    border: 0px solid limegreen;
     position: absolute;
     margin-top: 360px;
     z-index: 1;
   }
   header .intro-header .con-intro-header .row1-intro-header .title-intro-header {
-    border: 0.09px solid hotpink;
+    border: 0px solid hotpink;
     margin-bottom: 24px;
   }
   header .intro-header .con-intro-header .row1-intro-header .title-intro-header p {
-    border: 0.09px solid springgreen;
+    border: 0px solid springgreen;
     color: #ff5524;
     font-weight: 700;
     font-size: 64px;
   }
   header .intro-header .con-intro-header .row1-intro-header .name-intro-header {
-    border: 0.09px solid indigo;
+    border: 0px solid indigo;
   }
   header .intro-header .con-intro-header .row1-intro-header .name-intro-header p {
-    border: 0.09px solid green;
+    border: 0px solid green;
     color: #122417;
     font-weight: 500;
     font-size: 32px;
   }
   header .intro-header .con-intro-header .row2-intro-header {
-    border: 0.09px solid navy;
+    border: 0px solid navy;
     height: 64%;
     margin: 0;
   }
   header .intro-header .con-intro-header .row2-intro-header .picture-intro-header {
     margin-top: 0px;
-    border: 0.09px solid green;
+    border: 0px solid green;
     height: 100%;
   }
   header .intro-header .con-intro-header .row2-intro-header .picture-intro-header img {
@@ -671,34 +671,34 @@ footer .con-footer .row1-footer .place-footer .menu-place-footer .credit-menu-pl
     transform: scaleX(-1);
   }
   header .intro-header .con-intro-header .row3-intro-header {
-    border: 0.09px solid green;
+    border: 0px solid green;
   }
   header .intro-header .con-intro-header .row3-intro-header .description-intro-header {
-    border: 0.09px solid orange;
+    border: 0px solid orange;
     position: relative;
     top: 68px;
     left: 584px;
   }
   header .intro-header .con-intro-header .row3-intro-header .description-intro-header p {
-    border: 0.09px solid turquoise;
+    border: 0px solid turquoise;
     font-size: 24px;
     line-height: 40px;
     letter-spacing: 2px;
     color: #122417;
   }
   main {
-    border: 0.09px solid slateblue;
+    border: 0px solid slateblue;
   }
   main .contact-main {
-    border: 0.09px solid fuchsia;
+    border: 0px solid fuchsia;
     background-color: #ff5524;
   }
   main .contact-main .con-contact-main {
-    border: 0.09px solid green;
+    border: 0px solid green;
     height: 376px;
   }
   main .contact-main .con-contact-main .row1-contact-main {
-    border: 0.09px solid yellow;
+    border: 0px solid yellow;
     height: 100%;
     padding: 48px 0;
   }
@@ -713,55 +713,55 @@ footer .con-footer .row1-footer .place-footer .menu-place-footer .credit-menu-pl
     justify-content: space-around;
   }
   main .contact-main .con-contact-main .row1-contact-main .place-contact-main .title-place-contact-main {
-    border: 0.09px solid darkred;
+    border: 0px solid darkred;
   }
   main .contact-main .con-contact-main .row1-contact-main .place-contact-main .title-place-contact-main p {
-    border: 0.09px solid springgreen;
+    border: 0px solid springgreen;
     font-family: "Poppins", Helvetica, sans-serif;
     font-size: 40px;
     font-weight: 500;
     letter-spacing: 8px;
   }
   main .contact-main .con-contact-main .row1-contact-main .place-contact-main .description-place-contact-main {
-    border: 0.09px solid fuchsia;
+    border: 0px solid fuchsia;
     margin-bottom: 72px;
   }
   main .contact-main .con-contact-main .row1-contact-main .place-contact-main .description-place-contact-main p {
-    border: 0.09px solid olive;
+    border: 0px solid olive;
     font-size: 24px;
   }
   main .contact-main .con-contact-main .row1-contact-main .place-contact-main .sosmed-place-contact-main {
-    border: 0.09px solid darkblue;
+    border: 0px solid darkblue;
     width: 72%;
     display: flex;
     justify-content: space-around;
   }
   main .contact-main .con-contact-main .row1-contact-main .place-contact-main .sosmed-place-contact-main .fa-envelope {
-    border: 0.09px solid white;
+    border: 0px solid white;
     font-size: 48px;
   }
   main .contact-main .con-contact-main .row1-contact-main .place-contact-main .sosmed-place-contact-main .fa-instagram {
-    border: 0.09px solid aliceblue;
+    border: 0px solid aliceblue;
     font-size: 48px;
   }
   main .contact-main .con-contact-main .row1-contact-main .place-contact-main .sosmed-place-contact-main .fa-linkedin {
-    border: 0.09px solid wheat;
+    border: 0px solid wheat;
     font-size: 48px;
   }
   main .about-main {
-    border: 0.09px solid springgreen;
+    border: 0px solid springgreen;
     background-color: #1a4a24;
   }
   main .about-main .con-about-main {
-    border: 0.09px solid red;
+    border: 0px solid red;
     height: 712px;
   }
   main .about-main .con-about-main .row1-about-main {
-    border: 0.09px solid khaki;
+    border: 0px solid khaki;
     height: 100%;
   }
   main .about-main .con-about-main .row1-about-main .place1-about-main {
-    border: 0.09px solid yellowgreen;
+    border: 0px solid yellowgreen;
     height: 100%;
     display: flex;
     flex-direction: column;
@@ -769,7 +769,7 @@ footer .con-footer .row1-footer .place-footer .menu-place-footer .credit-menu-pl
     justify-content: space-around;
   }
   main .about-main .con-about-main .row1-about-main .place1-about-main .title-place1-about-main {
-    border: 0.09px solid firebrick;
+    border: 0px solid firebrick;
     color: #dbedcc;
   }
   main .about-main .con-about-main .row1-about-main .place1-about-main .title-place1-about-main p {
@@ -779,7 +779,7 @@ footer .con-footer .row1-footer .place-footer .menu-place-footer .credit-menu-pl
     letter-spacing: 8px;
   }
   main .about-main .con-about-main .row1-about-main .place1-about-main .img-place1-about-main {
-    border: 0.09px solid navy;
+    border: 0px solid navy;
   }
   main .about-main .con-about-main .row1-about-main .place1-about-main .img-place1-about-main img {
     border: 4px solid #dbedcc;
@@ -790,7 +790,7 @@ footer .con-footer .row1-footer .place-footer .menu-place-footer .credit-menu-pl
     border-radius: 44px;
   }
   main .about-main .con-about-main .row1-about-main .place2-about-main {
-    border: 0.09px solid magenta;
+    border: 0px solid magenta;
     height: 100%;
     padding-top: 56px;
     display: flex;
@@ -798,17 +798,17 @@ footer .con-footer .row1-footer .place-footer .menu-place-footer .credit-menu-pl
     align-items: flex-end;
   }
   main .about-main .con-about-main .row1-about-main .place2-about-main .text-place2-about-main {
-    border: 0.09px solid limegreen;
+    border: 0px solid limegreen;
   }
   main .about-main .con-about-main .row1-about-main .place2-about-main .text-place2-about-main p {
-    border: 0.09px solid navy;
+    border: 0px solid navy;
     color: #dbedcc;
     font-size: 24px;
     letter-spacing: 2px;
     word-spacing: 12px;
   }
   main .about-main .con-about-main .row1-about-main .place2-about-main .button-place2-about-main {
-    border: 0.09px solid aqua;
+    border: 0px solid aqua;
     height: 48px;
     width: 172px;
     top: 200px;
@@ -820,42 +820,42 @@ footer .con-footer .row1-footer .place-footer .menu-place-footer .credit-menu-pl
     align-items: center;
   }
   main .about-main .con-about-main .row1-about-main .place2-about-main .button-place2-about-main p {
-    border: 0.09px solid firebrick;
+    border: 0px solid firebrick;
     font-family: "Poppins", Helvetica, sans-serif;
     color: #122417;
     font-weight: 900;
     letter-spacing: 2px;
   }
   main .gallery-main {
-    border: 0.09px solid rosybrown;
+    border: 0px solid rosybrown;
   }
   main .gallery-main .con-gallery-main {
-    border: 0.09px solid hotpink;
+    border: 0px solid hotpink;
     height: 1200px;
   }
   main .gallery-main .con-gallery-main .row1-gallery-main {
-    border: 0.09px solid blue;
+    border: 0px solid blue;
     height: 100%;
     display: grid;
     /* Rows / Coloumns */
     grid-template: "title content2" 232px "content1 content2" 324px "content1 content3" 324px "content1 content3" auto/7fr 5fr;
   }
   main .gallery-main .con-gallery-main .row1-gallery-main .title-gallery-main {
-    border: 0.09px solid darkmagenta;
+    border: 0px solid darkmagenta;
     grid-area: title;
     display: flex;
     align-items: center;
     justify-content: center;
   }
   main .gallery-main .con-gallery-main .row1-gallery-main .title-gallery-main p {
-    border: 0.09px solid teal;
+    border: 0px solid teal;
     font-family: "Poppins", Arial, Helvetica, sans-serif;
     font-size: 48px;
     font-weight: 600;
     letter-spacing: 8px;
   }
   main .gallery-main .con-gallery-main .row1-gallery-main .content1-gallery-main {
-    border: 0.09px solid forestgreen;
+    border: 0px solid forestgreen;
     grid-area: content1;
   }
   main .gallery-main .con-gallery-main .row1-gallery-main .content1-gallery-main .img-content1-gallery-main {
@@ -870,7 +870,7 @@ footer .con-footer .row1-footer .place-footer .menu-place-footer .credit-menu-pl
     background-position: center;
   }
   main .gallery-main .con-gallery-main .row1-gallery-main .content1-gallery-main .title-content1-gallery-main {
-    border: 0.09px solid red;
+    border: 0px solid red;
     margin-top: 24px;
     margin-bottom: 16px;
     display: flex;
@@ -878,22 +878,22 @@ footer .con-footer .row1-footer .place-footer .menu-place-footer .credit-menu-pl
     align-items: center;
   }
   main .gallery-main .con-gallery-main .row1-gallery-main .content1-gallery-main .title-content1-gallery-main p {
-    border: 0.09px solid goldenrod;
+    border: 0px solid goldenrod;
     font-size: 36px;
     font-weight: 800;
   }
   main .gallery-main .con-gallery-main .row1-gallery-main .content1-gallery-main .title-content1-gallery-main .arrow-icon {
-    border: 0.09px solid darkmagenta;
+    border: 0px solid darkmagenta;
   }
   main .gallery-main .con-gallery-main .row1-gallery-main .content1-gallery-main .description-content1-gallery-main {
-    border: 0.09px solid maroon;
+    border: 0px solid maroon;
   }
   main .gallery-main .con-gallery-main .row1-gallery-main .content1-gallery-main .description-content1-gallery-main p {
-    border: 0.09px solid yellow;
+    border: 0px solid yellow;
     font-size: 24px;
   }
   main .gallery-main .con-gallery-main .row1-gallery-main .content2-gallery-main {
-    border: 0.09px solid violet;
+    border: 0px solid violet;
     grid-area: content2;
     display: flex;
     flex-direction: column;
@@ -912,7 +912,7 @@ footer .con-footer .row1-footer .place-footer .menu-place-footer .credit-menu-pl
     background-position: center;
   }
   main .gallery-main .con-gallery-main .row1-gallery-main .content2-gallery-main .title-content2-gallery-main {
-    border: 0.09px solid red;
+    border: 0px solid red;
     width: 408px;
     margin: 16px 0 8px 0;
     display: flex;
@@ -920,22 +920,22 @@ footer .con-footer .row1-footer .place-footer .menu-place-footer .credit-menu-pl
     align-items: center;
   }
   main .gallery-main .con-gallery-main .row1-gallery-main .content2-gallery-main .title-content2-gallery-main p {
-    border: 0.09px solid darkmagenta;
+    border: 0px solid darkmagenta;
     font-size: 24px;
     font-weight: 800;
   }
   main .gallery-main .con-gallery-main .row1-gallery-main .content2-gallery-main .title-content2-gallery-main .arrow-icon {
-    border: 0.09px solid maroon;
+    border: 0px solid maroon;
   }
   main .gallery-main .con-gallery-main .row1-gallery-main .content2-gallery-main .description-content2-gallery-main {
-    border: 0.09px solid maroon;
+    border: 0px solid maroon;
     width: 408px;
   }
   main .gallery-main .con-gallery-main .row1-gallery-main .content2-gallery-main .description-content2-gallery-main p {
-    border: 0.09px solid yellow;
+    border: 0px solid yellow;
   }
   main .gallery-main .con-gallery-main .row1-gallery-main .content3-gallery-main {
-    border: 0.09px solid lightseagreen;
+    border: 0px solid lightseagreen;
     grid-area: content3;
     display: flex;
     flex-direction: column;
@@ -954,7 +954,7 @@ footer .con-footer .row1-footer .place-footer .menu-place-footer .credit-menu-pl
     background-position-y: 20%;
   }
   main .gallery-main .con-gallery-main .row1-gallery-main .content3-gallery-main .title-content3-gallery-main {
-    border: 0.09px solid red;
+    border: 0px solid red;
     width: 408px;
     display: flex;
     margin: 16px 0 8px 0;
@@ -962,100 +962,100 @@ footer .con-footer .row1-footer .place-footer .menu-place-footer .credit-menu-pl
     align-items: center;
   }
   main .gallery-main .con-gallery-main .row1-gallery-main .content3-gallery-main .title-content3-gallery-main p {
-    border: 0.09px solid navy;
+    border: 0px solid navy;
     font-size: 24px;
     font-weight: 800;
   }
   main .gallery-main .con-gallery-main .row1-gallery-main .content3-gallery-main .title-content3-gallery-main .arrow-icon {
-    border: 0.09px solid midnightblue;
+    border: 0px solid midnightblue;
   }
   main .gallery-main .con-gallery-main .row1-gallery-main .content3-gallery-main .description-content3-gallery-main {
-    border: 0.09px solid maroon;
+    border: 0px solid maroon;
     width: 408px;
   }
   main .gallery-main .con-gallery-main .row1-gallery-main .content3-gallery-main .description-content3-gallery-main p {
-    border: 0.09px solid yellow;
+    border: 0px solid yellow;
   }
   footer {
     background-color: #122417;
     color: #dbedcc;
-    border: 0.09px solid darkblue;
+    border: 0px solid darkblue;
   }
   footer .con-footer {
-    border: 0.09px solid ghostwhite;
+    border: 0px solid ghostwhite;
     height: 600px;
   }
   footer .con-footer .row1-footer {
-    border: 0.09px solid yellow;
+    border: 0px solid yellow;
     height: 100%;
   }
   footer .con-footer .row1-footer .place-footer {
-    border: 0.09px solid mediumturquoise;
+    border: 0px solid mediumturquoise;
     height: 100%;
     padding: 40px 0;
     display: grid;
     grid-template: "brand quotes quotes sosmed" 2fr "brand quotes quotes sosmed" 3fr "license license menu menu" 1fr/3fr 2.5fr 2.5fr 5fr;
   }
   footer .con-footer .row1-footer .place-footer .brand-place-footer {
-    border: 0.09px solid yellowgreen;
+    border: 0px solid yellowgreen;
     grid-area: brand;
   }
   footer .con-footer .row1-footer .place-footer .brand-place-footer p {
-    border: 0.09px solid cornsilk;
+    border: 0px solid cornsilk;
     font-size: 24px;
     font-weight: 700;
     letter-spacing: 2px;
   }
   footer .con-footer .row1-footer .place-footer .sosmed-place-footer {
-    border: 0.09px solid coral;
+    border: 0px solid coral;
     grid-area: sosmed;
   }
   footer .con-footer .row1-footer .place-footer .sosmed-place-footer .title-sosmed-place-footer {
-    border: 0.09px solid seashell;
+    border: 0px solid seashell;
     margin-bottom: 16px;
   }
   footer .con-footer .row1-footer .place-footer .sosmed-place-footer .title-sosmed-place-footer p {
-    border: 0.09px solid hotpink;
+    border: 0px solid hotpink;
     font-weight: 700;
     font-size: 24px;
     letter-spacing: 2px;
   }
   footer .con-footer .row1-footer .place-footer .sosmed-place-footer .icon-sosmed-place-footer {
-    border: 0.09px solid fuchsia;
+    border: 0px solid fuchsia;
     display: flex;
     justify-content: space-around;
   }
   footer .con-footer .row1-footer .place-footer .sosmed-place-footer .icon-sosmed-place-footer .instagram-icon {
-    border: 0.09px solid violet;
+    border: 0px solid violet;
   }
   footer .con-footer .row1-footer .place-footer .sosmed-place-footer .icon-sosmed-place-footer .tiktok-icon {
-    border: 0.09px solid mediumspringgreen;
+    border: 0px solid mediumspringgreen;
   }
   footer .con-footer .row1-footer .place-footer .sosmed-place-footer .icon-sosmed-place-footer .facebook-icon {
-    border: 0.09px solid salmon;
+    border: 0px solid salmon;
   }
   footer .con-footer .row1-footer .place-footer .sosmed-place-footer .icon-sosmed-place-footer .pinterest-icon {
-    border: 0.09px solid skyblue;
+    border: 0px solid skyblue;
   }
   footer .con-footer .row1-footer .place-footer .sosmed-place-footer .icon-sosmed-place-footer .twitter-icon {
-    border: 0.09px solid whitesmoke;
+    border: 0px solid whitesmoke;
   }
   footer .con-footer .row1-footer .place-footer .quotes-place-footer {
-    border: 0.09px solid crimson;
+    border: 0px solid crimson;
     grid-area: quotes;
     display: flex;
     flex-direction: column;
     justify-content: center;
   }
   footer .con-footer .row1-footer .place-footer .quotes-place-footer .text-quotes-place-footer {
-    border: 0.09px solid yellow;
+    border: 0px solid yellow;
   }
   footer .con-footer .row1-footer .place-footer .quotes-place-footer .text-quotes-place-footer p {
-    border: 0.09px solid aqua;
+    border: 0px solid aqua;
     font-size: 48px;
   }
   footer .con-footer .row1-footer .place-footer .quotes-place-footer .name-quotes-place-footer {
-    border: 0.09px solid burlywood;
+    border: 0px solid burlywood;
     display: flex;
     justify-content: center;
     position: relative;
@@ -1063,20 +1063,20 @@ footer .con-footer .row1-footer .place-footer .menu-place-footer .credit-menu-pl
     bottom: 44px;
   }
   footer .con-footer .row1-footer .place-footer .quotes-place-footer .name-quotes-place-footer p {
-    border: 0.09px solid springgreen;
+    border: 0px solid springgreen;
     letter-spacing: 4px;
   }
   footer .con-footer .row1-footer .place-footer .license-place-footer {
-    border: 0.09px solid ghostwhite;
+    border: 0px solid ghostwhite;
     grid-area: license;
     display: flex;
     align-items: flex-end;
   }
   footer .con-footer .row1-footer .place-footer .license-place-footer p {
-    border: 0.09px solid crimson;
+    border: 0px solid crimson;
   }
   footer .con-footer .row1-footer .place-footer .menu-place-footer {
-    border: 0.09px solid greenyellow;
+    border: 0px solid greenyellow;
     grid-area: menu;
     display: flex;
     align-items: flex-end;
@@ -1085,134 +1085,134 @@ footer .con-footer .row1-footer .place-footer .menu-place-footer .credit-menu-pl
     font-weight: 700;
   }
   footer .con-footer .row1-footer .place-footer .menu-place-footer .home-menu-place-footer {
-    border: 0.09px solid royalblue;
+    border: 0px solid royalblue;
   }
   footer .con-footer .row1-footer .place-footer .menu-place-footer .home-menu-place-footer p {
-    border: 0.09px solid ghostwhite;
+    border: 0px solid ghostwhite;
   }
   footer .con-footer .row1-footer .place-footer .menu-place-footer .about-menu-place-footer {
-    border: 0.09px solid aqua;
+    border: 0px solid aqua;
   }
   footer .con-footer .row1-footer .place-footer .menu-place-footer .about-menu-place-footer p {
-    border: 0.09px solid ghostwhite;
+    border: 0px solid ghostwhite;
   }
   footer .con-footer .row1-footer .place-footer .menu-place-footer .gallery-menu-place-footer {
-    border: 0.09px solid orange;
+    border: 0px solid orange;
   }
   footer .con-footer .row1-footer .place-footer .menu-place-footer .gallery-menu-place-footer p {
-    border: 0.09px solid ghostwhite;
+    border: 0px solid ghostwhite;
   }
   footer .con-footer .row1-footer .place-footer .menu-place-footer .contact-menu-place-footer {
-    border: 0.09px solid orchid;
+    border: 0px solid orchid;
   }
   footer .con-footer .row1-footer .place-footer .menu-place-footer .contact-menu-place-footer p {
-    border: 0.09px solid ghostwhite;
+    border: 0px solid ghostwhite;
   }
   footer .con-footer .row1-footer .place-footer .menu-place-footer .credit-menu-place-footer {
-    border: 0.09px solid navajowhite;
+    border: 0px solid navajowhite;
   }
   footer .con-footer .row1-footer .place-footer .menu-place-footer .credit-menu-place-footer p {
-    border: 0.09px solid ghostwhite;
+    border: 0px solid ghostwhite;
   }
 }
 @media screen and (max-width: 1199.98px) {
   header {
-    border: 0.09px solid maroon;
+    border: 0px solid maroon;
   }
   header nav {
-    border: 0.09px solid darkorange;
+    border: 0px solid darkorange;
     background-color: #122417;
     color: #dbedcc;
   }
   header nav .con-nav-header {
-    border: 0.09px solid mediumturquoise;
+    border: 0px solid mediumturquoise;
   }
   header nav .con-nav-header .row1-nav-header {
-    border: 0.09px solid magenta;
+    border: 0px solid magenta;
     height: 64px;
   }
   header nav .con-nav-header .row1-nav-header .logo-nav-header {
-    border: 0.09px solid tomato;
+    border: 0px solid tomato;
     display: flex;
     align-items: center;
   }
   header nav .con-nav-header .row1-nav-header .logo-nav-header p {
-    border: 0.09px solid steelblue;
+    border: 0px solid steelblue;
     font-weight: 700;
     font-size: 24px;
   }
   header nav .con-nav-header .row1-nav-header .brand-nav-header {
-    border: 0.09px solid maroon;
+    border: 0px solid maroon;
     display: flex;
     align-items: center;
   }
   header nav .con-nav-header .row1-nav-header .brand-nav-header p {
-    border: 0.09px solid forestgreen;
+    border: 0px solid forestgreen;
     font-weight: 700;
     font-size: 24px;
   }
   header nav .con-nav-header .row1-nav-header .menu-nav-header {
-    border: 0.09px solid green;
+    border: 0px solid green;
     display: flex;
     align-items: center;
     font-weight: 600;
     font-size: 16px;
   }
   header nav .con-nav-header .row1-nav-header .menu-nav-header .navbar-menu-nav-header {
-    border: 0.09px solid darkturquoise;
+    border: 0px solid darkturquoise;
     width: 100%;
     display: flex;
     justify-content: space-between;
   }
   header nav .con-nav-header .row1-nav-header .menu-nav-header .navbar-menu-nav-header .home-navbar-menu-nav-header {
-    border: 0.09px solid saddlebrown;
+    border: 0px solid saddlebrown;
   }
   header nav .con-nav-header .row1-nav-header .menu-nav-header .navbar-menu-nav-header .about-navbar-menu-nav-header {
-    border: 0.09px solid salmon;
+    border: 0px solid salmon;
   }
   header nav .con-nav-header .row1-nav-header .menu-nav-header .navbar-menu-nav-header .gallery-navbar-menu-nav-header {
-    border: 0.09px solid violet;
+    border: 0px solid violet;
   }
   header .intro-header {
-    border: 0.09px solid blue;
+    border: 0px solid blue;
   }
   header .intro-header .con-intro-header {
-    border: 0.09px solid slateblue;
+    border: 0px solid slateblue;
     height: 800px;
     padding: 32px 0;
   }
   header .intro-header .con-intro-header .row1-intro-header {
-    border: 0.09px solid limegreen;
+    border: 0px solid limegreen;
     position: absolute;
     margin-top: 364px;
     z-index: 1;
   }
   header .intro-header .con-intro-header .row1-intro-header .title-intro-header {
-    border: 0.09px solid hotpink;
+    border: 0px solid hotpink;
     margin-bottom: 24px;
   }
   header .intro-header .con-intro-header .row1-intro-header .title-intro-header p {
-    border: 0.09px solid springgreen;
+    border: 0px solid springgreen;
     color: #ff5524;
     font-weight: 700;
     font-size: 64px;
   }
   header .intro-header .con-intro-header .row1-intro-header .name-intro-header {
-    border: 0.09px solid indigo;
+    border: 0px solid indigo;
   }
   header .intro-header .con-intro-header .row1-intro-header .name-intro-header p {
-    border: 0.09px solid green;
+    border: 0px solid green;
     color: #122417;
     font-weight: 500;
     font-size: 32px;
   }
   header .intro-header .con-intro-header .row2-intro-header {
-    border: 0.09px solid navy;
+    border: 0px solid navy;
     height: 64%;
   }
   header .intro-header .con-intro-header .row2-intro-header .picture-intro-header {
     margin-top: 0px;
-    border: 0.09px solid green;
+    border: 0px solid green;
     height: 100%;
   }
   header .intro-header .con-intro-header .row2-intro-header .picture-intro-header img {
@@ -1227,34 +1227,34 @@ footer .con-footer .row1-footer .place-footer .menu-place-footer .credit-menu-pl
     transform: scaleX(-1);
   }
   header .intro-header .con-intro-header .row3-intro-header {
-    border: 0.09px solid green;
+    border: 0px solid green;
   }
   header .intro-header .con-intro-header .row3-intro-header .description-intro-header {
-    border: 0.09px solid orange;
+    border: 0px solid orange;
     position: relative;
     top: 16px;
     left: 540px;
   }
   header .intro-header .con-intro-header .row3-intro-header .description-intro-header p {
-    border: 0.09px solid turquoise;
+    border: 0px solid turquoise;
     font-size: 24px;
     line-height: 40px;
     letter-spacing: 2px;
     color: #122417;
   }
   main {
-    border: 0.09px solid slateblue;
+    border: 0px solid slateblue;
   }
   main .contact-main {
-    border: 0.09px solid fuchsia;
+    border: 0px solid fuchsia;
     background-color: #ff5524;
   }
   main .contact-main .con-contact-main {
-    border: 0.09px solid green;
+    border: 0px solid green;
     height: 352px;
   }
   main .contact-main .con-contact-main .row1-contact-main {
-    border: 0.09px solid yellow;
+    border: 0px solid yellow;
     height: 100%;
     padding: 48px 0;
   }
@@ -1269,56 +1269,56 @@ footer .con-footer .row1-footer .place-footer .menu-place-footer .credit-menu-pl
     justify-content: space-around;
   }
   main .contact-main .con-contact-main .row1-contact-main .place-contact-main .title-place-contact-main {
-    border: 0.09px solid darkred;
+    border: 0px solid darkred;
   }
   main .contact-main .con-contact-main .row1-contact-main .place-contact-main .title-place-contact-main p {
-    border: 0.09px solid springgreen;
+    border: 0px solid springgreen;
     font-family: "Poppins", Helvetica, sans-serif;
     font-size: 32px;
     font-weight: 600;
     letter-spacing: 8px;
   }
   main .contact-main .con-contact-main .row1-contact-main .place-contact-main .description-place-contact-main {
-    border: 0.09px solid fuchsia;
+    border: 0px solid fuchsia;
     margin-top: 16px;
     margin-bottom: 40px;
   }
   main .contact-main .con-contact-main .row1-contact-main .place-contact-main .description-place-contact-main p {
-    border: 0.09px solid olive;
+    border: 0px solid olive;
     font-size: 24px;
   }
   main .contact-main .con-contact-main .row1-contact-main .place-contact-main .sosmed-place-contact-main {
-    border: 0.09px solid darkblue;
+    border: 0px solid darkblue;
     width: 72%;
     display: flex;
     justify-content: space-around;
   }
   main .contact-main .con-contact-main .row1-contact-main .place-contact-main .sosmed-place-contact-main .fa-envelope {
-    border: 0.09px solid white;
+    border: 0px solid white;
     font-size: 48px;
   }
   main .contact-main .con-contact-main .row1-contact-main .place-contact-main .sosmed-place-contact-main .fa-instagram {
-    border: 0.09px solid aliceblue;
+    border: 0px solid aliceblue;
     font-size: 48px;
   }
   main .contact-main .con-contact-main .row1-contact-main .place-contact-main .sosmed-place-contact-main .fa-linkedin {
-    border: 0.09px solid wheat;
+    border: 0px solid wheat;
     font-size: 48px;
   }
   main .about-main {
-    border: 0.09px solid springgreen;
+    border: 0px solid springgreen;
     background-color: #1a4a24;
   }
   main .about-main .con-about-main {
-    border: 0.09px solid red;
+    border: 0px solid red;
     height: 712px;
   }
   main .about-main .con-about-main .row1-about-main {
-    border: 0.09px solid khaki;
+    border: 0px solid khaki;
     height: 100%;
   }
   main .about-main .con-about-main .row1-about-main .place1-about-main {
-    border: 0.09px solid yellowgreen;
+    border: 0px solid yellowgreen;
     height: 100%;
     display: flex;
     flex-direction: column;
@@ -1326,7 +1326,7 @@ footer .con-footer .row1-footer .place-footer .menu-place-footer .credit-menu-pl
     justify-content: space-around;
   }
   main .about-main .con-about-main .row1-about-main .place1-about-main .title-place1-about-main {
-    border: 0.09px solid firebrick;
+    border: 0px solid firebrick;
     color: #dbedcc;
   }
   main .about-main .con-about-main .row1-about-main .place1-about-main .title-place1-about-main p {
@@ -1336,7 +1336,7 @@ footer .con-footer .row1-footer .place-footer .menu-place-footer .credit-menu-pl
     letter-spacing: 8px;
   }
   main .about-main .con-about-main .row1-about-main .place1-about-main .img-place1-about-main {
-    border: 0.09px solid navy;
+    border: 0px solid navy;
     margin-bottom: 80px;
   }
   main .about-main .con-about-main .row1-about-main .place1-about-main .img-place1-about-main img {
@@ -1348,7 +1348,7 @@ footer .con-footer .row1-footer .place-footer .menu-place-footer .credit-menu-pl
     border-radius: 44px;
   }
   main .about-main .con-about-main .row1-about-main .place2-about-main {
-    border: 0.09px solid magenta;
+    border: 0px solid magenta;
     height: 100%;
     padding-top: 88px;
     display: flex;
@@ -1356,17 +1356,17 @@ footer .con-footer .row1-footer .place-footer .menu-place-footer .credit-menu-pl
     align-items: flex-end;
   }
   main .about-main .con-about-main .row1-about-main .place2-about-main .text-place2-about-main {
-    border: 0.09px solid limegreen;
+    border: 0px solid limegreen;
   }
   main .about-main .con-about-main .row1-about-main .place2-about-main .text-place2-about-main p {
-    border: 0.09px solid navy;
+    border: 0px solid navy;
     color: #dbedcc;
     font-size: 24px;
     letter-spacing: 2px;
     word-spacing: 12px;
   }
   main .about-main .con-about-main .row1-about-main .place2-about-main .button-place2-about-main {
-    border: 0.09px solid aqua;
+    border: 0px solid aqua;
     height: 32px;
     width: 128px;
     top: 128px;
@@ -1378,7 +1378,7 @@ footer .con-footer .row1-footer .place-footer .menu-place-footer .credit-menu-pl
     align-items: center;
   }
   main .about-main .con-about-main .row1-about-main .place2-about-main .button-place2-about-main p {
-    border: 0.09px solid firebrick;
+    border: 0px solid firebrick;
     font-family: "Poppins", Helvetica, sans-serif;
     color: #122417;
     font-weight: 700;
@@ -1386,35 +1386,35 @@ footer .con-footer .row1-footer .place-footer .menu-place-footer .credit-menu-pl
     letter-spacing: 2px;
   }
   main .gallery-main {
-    border: 0.09px solid rosybrown;
+    border: 0px solid rosybrown;
   }
   main .gallery-main .con-gallery-main {
-    border: 0.09px solid hotpink;
+    border: 0px solid hotpink;
     height: 1100px;
   }
   main .gallery-main .con-gallery-main .row1-gallery-main {
-    border: 0.09px solid blue;
+    border: 0px solid blue;
     height: 100%;
     display: grid;
     /* Rows / Coloumns */
     grid-template: "title content2" 232px "content1 content2" 324px "content1 content3" 324px "content1 content3" auto/7fr 5fr;
   }
   main .gallery-main .con-gallery-main .row1-gallery-main .title-gallery-main {
-    border: 0.09px solid darkmagenta;
+    border: 0px solid darkmagenta;
     grid-area: title;
     display: flex;
     align-items: center;
     justify-content: center;
   }
   main .gallery-main .con-gallery-main .row1-gallery-main .title-gallery-main p {
-    border: 0.09px solid teal;
+    border: 0px solid teal;
     font-family: "Poppins", Arial, Helvetica, sans-serif;
     font-size: 48px;
     font-weight: 600;
     letter-spacing: 8px;
   }
   main .gallery-main .con-gallery-main .row1-gallery-main .content1-gallery-main {
-    border: 0.09px solid forestgreen;
+    border: 0px solid forestgreen;
     grid-area: content1;
     padding-top: 128px;
   }
@@ -1430,7 +1430,7 @@ footer .con-footer .row1-footer .place-footer .menu-place-footer .credit-menu-pl
     background-position: center;
   }
   main .gallery-main .con-gallery-main .row1-gallery-main .content1-gallery-main .title-content1-gallery-main {
-    border: 0.09px solid red;
+    border: 0px solid red;
     margin-top: 24px;
     margin-bottom: 16px;
     display: flex;
@@ -1438,22 +1438,22 @@ footer .con-footer .row1-footer .place-footer .menu-place-footer .credit-menu-pl
     align-items: center;
   }
   main .gallery-main .con-gallery-main .row1-gallery-main .content1-gallery-main .title-content1-gallery-main p {
-    border: 0.09px solid goldenrod;
+    border: 0px solid goldenrod;
     font-size: 36px;
     font-weight: 800;
   }
   main .gallery-main .con-gallery-main .row1-gallery-main .content1-gallery-main .title-content1-gallery-main .arrow-icon {
-    border: 0.09px solid darkmagenta;
+    border: 0px solid darkmagenta;
   }
   main .gallery-main .con-gallery-main .row1-gallery-main .content1-gallery-main .description-content1-gallery-main {
-    border: 0.09px solid maroon;
+    border: 0px solid maroon;
   }
   main .gallery-main .con-gallery-main .row1-gallery-main .content1-gallery-main .description-content1-gallery-main p {
-    border: 0.09px solid yellow;
+    border: 0px solid yellow;
     font-size: 24px;
   }
   main .gallery-main .con-gallery-main .row1-gallery-main .content2-gallery-main {
-    border: 0.09px solid violet;
+    border: 0px solid violet;
     grid-area: content2;
     display: flex;
     flex-direction: column;
@@ -1472,7 +1472,7 @@ footer .con-footer .row1-footer .place-footer .menu-place-footer .credit-menu-pl
     background-position: center;
   }
   main .gallery-main .con-gallery-main .row1-gallery-main .content2-gallery-main .title-content2-gallery-main {
-    border: 0.09px solid red;
+    border: 0px solid red;
     width: 408px;
     margin: 16px 0 8px 0;
     display: flex;
@@ -1480,22 +1480,22 @@ footer .con-footer .row1-footer .place-footer .menu-place-footer .credit-menu-pl
     align-items: center;
   }
   main .gallery-main .con-gallery-main .row1-gallery-main .content2-gallery-main .title-content2-gallery-main p {
-    border: 0.09px solid darkmagenta;
+    border: 0px solid darkmagenta;
     font-size: 24px;
     font-weight: 800;
   }
   main .gallery-main .con-gallery-main .row1-gallery-main .content2-gallery-main .title-content2-gallery-main .arrow-icon {
-    border: 0.09px solid maroon;
+    border: 0px solid maroon;
   }
   main .gallery-main .con-gallery-main .row1-gallery-main .content2-gallery-main .description-content2-gallery-main {
-    border: 0.09px solid maroon;
+    border: 0px solid maroon;
     width: 408px;
   }
   main .gallery-main .con-gallery-main .row1-gallery-main .content2-gallery-main .description-content2-gallery-main p {
-    border: 0.09px solid yellow;
+    border: 0px solid yellow;
   }
   main .gallery-main .con-gallery-main .row1-gallery-main .content3-gallery-main {
-    border: 0.09px solid lightseagreen;
+    border: 0px solid lightseagreen;
     grid-area: content3;
     display: flex;
     flex-direction: column;
@@ -1514,7 +1514,7 @@ footer .con-footer .row1-footer .place-footer .menu-place-footer .credit-menu-pl
     background-position-y: 20%;
   }
   main .gallery-main .con-gallery-main .row1-gallery-main .content3-gallery-main .title-content3-gallery-main {
-    border: 0.09px solid red;
+    border: 0px solid red;
     width: 408px;
     display: flex;
     margin: 16px 0 8px 0;
@@ -1522,107 +1522,107 @@ footer .con-footer .row1-footer .place-footer .menu-place-footer .credit-menu-pl
     align-items: center;
   }
   main .gallery-main .con-gallery-main .row1-gallery-main .content3-gallery-main .title-content3-gallery-main p {
-    border: 0.09px solid navy;
+    border: 0px solid navy;
     font-size: 24px;
     font-weight: 800;
   }
   main .gallery-main .con-gallery-main .row1-gallery-main .content3-gallery-main .title-content3-gallery-main .arrow-icon {
-    border: 0.09px solid midnightblue;
+    border: 0px solid midnightblue;
   }
   main .gallery-main .con-gallery-main .row1-gallery-main .content3-gallery-main .description-content3-gallery-main {
-    border: 0.09px solid maroon;
+    border: 0px solid maroon;
     width: 408px;
   }
   main .gallery-main .con-gallery-main .row1-gallery-main .content3-gallery-main .description-content3-gallery-main p {
-    border: 0.09px solid yellow;
+    border: 0px solid yellow;
   }
   footer {
     background-color: #122417;
     color: #dbedcc;
-    border: 0.09px solid darkblue;
+    border: 0px solid darkblue;
   }
   footer .con-footer {
-    border: 0.09px solid ghostwhite;
+    border: 0px solid ghostwhite;
     height: 400px;
   }
   footer .con-footer .row1-footer {
-    border: 0.09px solid yellow;
+    border: 0px solid yellow;
     height: 100%;
   }
   footer .con-footer .row1-footer .place-footer {
-    border: 0.09px solid mediumturquoise;
+    border: 0px solid mediumturquoise;
     height: 100%;
     padding: 16px 0;
     display: grid;
     grid-template: "brand quotes quotes sosmed" 2fr "brand quotes quotes sosmed" 3fr "license license menu menu" 1fr/3fr 2.5fr 2.5fr 4fr;
   }
   footer .con-footer .row1-footer .place-footer .brand-place-footer {
-    border: 0.09px solid yellowgreen;
+    border: 0px solid yellowgreen;
     grid-area: brand;
   }
   footer .con-footer .row1-footer .place-footer .brand-place-footer p {
-    border: 0.09px solid cornsilk;
+    border: 0px solid cornsilk;
     font-size: 16px;
     font-weight: 700;
     letter-spacing: 2px;
   }
   footer .con-footer .row1-footer .place-footer .sosmed-place-footer {
-    border: 0.09px solid coral;
+    border: 0px solid coral;
     grid-area: sosmed;
   }
   footer .con-footer .row1-footer .place-footer .sosmed-place-footer .title-sosmed-place-footer {
-    border: 0.09px solid seashell;
+    border: 0px solid seashell;
     margin-bottom: 16px;
   }
   footer .con-footer .row1-footer .place-footer .sosmed-place-footer .title-sosmed-place-footer p {
-    border: 0.09px solid hotpink;
+    border: 0px solid hotpink;
     font-weight: 700;
     font-size: 16px;
     letter-spacing: 2px;
   }
   footer .con-footer .row1-footer .place-footer .sosmed-place-footer .icon-sosmed-place-footer {
-    border: 0.09px solid fuchsia;
+    border: 0px solid fuchsia;
     display: flex;
     justify-content: space-around;
   }
   footer .con-footer .row1-footer .place-footer .sosmed-place-footer .icon-sosmed-place-footer .instagram-icon {
-    border: 0.09px solid violet;
+    border: 0px solid violet;
     font-size: 24px;
   }
   footer .con-footer .row1-footer .place-footer .sosmed-place-footer .icon-sosmed-place-footer .tiktok-icon {
-    border: 0.09px solid mediumspringgreen;
+    border: 0px solid mediumspringgreen;
     font-size: 24px;
   }
   footer .con-footer .row1-footer .place-footer .sosmed-place-footer .icon-sosmed-place-footer .facebook-icon {
-    border: 0.09px solid salmon;
+    border: 0px solid salmon;
     font-size: 24px;
   }
   footer .con-footer .row1-footer .place-footer .sosmed-place-footer .icon-sosmed-place-footer .pinterest-icon {
-    border: 0.09px solid skyblue;
+    border: 0px solid skyblue;
     font-size: 24px;
   }
   footer .con-footer .row1-footer .place-footer .sosmed-place-footer .icon-sosmed-place-footer .twitter-icon {
-    border: 0.09px solid whitesmoke;
+    border: 0px solid whitesmoke;
     font-size: 24px;
   }
   footer .con-footer .row1-footer .place-footer .quotes-place-footer {
-    border: 0.09px solid crimson;
+    border: 0px solid crimson;
     grid-area: quotes;
     display: flex;
     flex-direction: column;
     justify-content: center;
   }
   footer .con-footer .row1-footer .place-footer .quotes-place-footer .text-quotes-place-footer {
-    border: 0.09px solid yellow;
+    border: 0px solid yellow;
   }
   footer .con-footer .row1-footer .place-footer .quotes-place-footer .text-quotes-place-footer p {
-    border: 0.09px solid aqua;
+    border: 0px solid aqua;
     font-size: 32px;
     letter-spacing: 4px;
     word-spacing: 24px;
   }
   footer .con-footer .row1-footer .place-footer .quotes-place-footer .name-quotes-place-footer {
-    border: 0.09px solid burlywood;
+    border: 0px solid burlywood;
     display: flex;
     justify-content: end;
     position: relative;
@@ -1630,22 +1630,22 @@ footer .con-footer .row1-footer .place-footer .menu-place-footer .credit-menu-pl
     bottom: 33px;
   }
   footer .con-footer .row1-footer .place-footer .quotes-place-footer .name-quotes-place-footer p {
-    border: 0.09px solid springgreen;
+    border: 0px solid springgreen;
     font-size: 16px;
     letter-spacing: 4px;
   }
   footer .con-footer .row1-footer .place-footer .license-place-footer {
-    border: 0.09px solid ghostwhite;
+    border: 0px solid ghostwhite;
     grid-area: license;
     display: flex;
     align-items: flex-end;
   }
   footer .con-footer .row1-footer .place-footer .license-place-footer p {
-    border: 0.09px solid crimson;
+    border: 0px solid crimson;
     font-size: 12px;
   }
   footer .con-footer .row1-footer .place-footer .menu-place-footer {
-    border: 0.09px solid greenyellow;
+    border: 0px solid greenyellow;
     grid-area: menu;
     display: flex;
     align-items: flex-end;
@@ -1654,138 +1654,138 @@ footer .con-footer .row1-footer .place-footer .menu-place-footer .credit-menu-pl
     font-weight: 700;
   }
   footer .con-footer .row1-footer .place-footer .menu-place-footer .home-menu-place-footer {
-    border: 0.09px solid royalblue;
+    border: 0px solid royalblue;
   }
   footer .con-footer .row1-footer .place-footer .menu-place-footer .home-menu-place-footer p {
-    border: 0.09px solid ghostwhite;
+    border: 0px solid ghostwhite;
   }
   footer .con-footer .row1-footer .place-footer .menu-place-footer .about-menu-place-footer {
-    border: 0.09px solid aqua;
+    border: 0px solid aqua;
   }
   footer .con-footer .row1-footer .place-footer .menu-place-footer .about-menu-place-footer p {
-    border: 0.09px solid ghostwhite;
+    border: 0px solid ghostwhite;
   }
   footer .con-footer .row1-footer .place-footer .menu-place-footer .gallery-menu-place-footer {
-    border: 0.09px solid orange;
+    border: 0px solid orange;
   }
   footer .con-footer .row1-footer .place-footer .menu-place-footer .gallery-menu-place-footer p {
-    border: 0.09px solid ghostwhite;
+    border: 0px solid ghostwhite;
   }
   footer .con-footer .row1-footer .place-footer .menu-place-footer .contact-menu-place-footer {
-    border: 0.09px solid orchid;
+    border: 0px solid orchid;
   }
   footer .con-footer .row1-footer .place-footer .menu-place-footer .contact-menu-place-footer p {
-    border: 0.09px solid ghostwhite;
+    border: 0px solid ghostwhite;
   }
   footer .con-footer .row1-footer .place-footer .menu-place-footer .credit-menu-place-footer {
-    border: 0.09px solid navajowhite;
+    border: 0px solid navajowhite;
   }
   footer .con-footer .row1-footer .place-footer .menu-place-footer .credit-menu-place-footer p {
-    border: 0.09px solid ghostwhite;
+    border: 0px solid ghostwhite;
   }
 }
 @media screen and (max-width: 991.98px) {
   header {
-    border: 0.09px solid maroon;
+    border: 0px solid maroon;
   }
   header nav {
-    border: 0.09px solid darkorange;
+    border: 0px solid darkorange;
     background-color: #122417;
     color: #dbedcc;
   }
   header nav .con-nav-header {
-    border: 0.09px solid mediumturquoise;
+    border: 0px solid mediumturquoise;
   }
   header nav .con-nav-header .row1-nav-header {
-    border: 0.09px solid magenta;
+    border: 0px solid magenta;
     height: 64px;
   }
   header nav .con-nav-header .row1-nav-header .logo-nav-header {
-    border: 0.09px solid tomato;
+    border: 0px solid tomato;
     display: flex;
     align-items: center;
   }
   header nav .con-nav-header .row1-nav-header .logo-nav-header p {
-    border: 0.09px solid steelblue;
+    border: 0px solid steelblue;
     font-weight: 700;
     font-size: 24px;
   }
   header nav .con-nav-header .row1-nav-header .brand-nav-header {
-    border: 0.09px solid maroon;
+    border: 0px solid maroon;
     display: flex;
     align-items: center;
   }
   header nav .con-nav-header .row1-nav-header .brand-nav-header p {
-    border: 0.09px solid forestgreen;
+    border: 0px solid forestgreen;
     font-weight: 700;
     font-size: 24px;
   }
   header nav .con-nav-header .row1-nav-header .menu-nav-header {
-    border: 0.09px solid green;
+    border: 0px solid green;
     display: flex;
     align-items: center;
     font-weight: 600;
     font-size: 16px;
   }
   header nav .con-nav-header .row1-nav-header .menu-nav-header .navbar-menu-nav-header {
-    border: 0.09px solid darkturquoise;
+    border: 0px solid darkturquoise;
     width: 100%;
     display: flex;
     justify-content: space-between;
   }
   header nav .con-nav-header .row1-nav-header .menu-nav-header .navbar-menu-nav-header .home-navbar-menu-nav-header {
-    border: 0.09px solid saddlebrown;
+    border: 0px solid saddlebrown;
   }
   header nav .con-nav-header .row1-nav-header .menu-nav-header .navbar-menu-nav-header .about-navbar-menu-nav-header {
-    border: 0.09px solid salmon;
+    border: 0px solid salmon;
   }
   header nav .con-nav-header .row1-nav-header .menu-nav-header .navbar-menu-nav-header .gallery-navbar-menu-nav-header {
-    border: 0.09px solid violet;
+    border: 0px solid violet;
   }
   header .intro-header {
-    border: 0.09px solid blue;
+    border: 0px solid blue;
   }
   header .intro-header .con-intro-header {
-    border: 0.09px solid slateblue;
+    border: 0px solid slateblue;
     height: 600px;
     padding: 32px 0;
   }
   header .intro-header .con-intro-header .row1-intro-header {
-    border: 0.09px solid limegreen;
+    border: 0px solid limegreen;
     position: absolute;
     z-index: 1;
     margin-top: 40px;
     margin-left: 18px;
   }
   header .intro-header .con-intro-header .row1-intro-header .title-intro-header {
-    border: 0.09px solid hotpink;
+    border: 0px solid hotpink;
     margin-bottom: 8px;
   }
   header .intro-header .con-intro-header .row1-intro-header .title-intro-header p {
-    border: 0.09px solid springgreen;
+    border: 0px solid springgreen;
     color: #ff5524;
     font-weight: 700;
     font-size: 40px;
     letter-spacing: 4px;
   }
   header .intro-header .con-intro-header .row1-intro-header .name-intro-header {
-    border: 0.09px solid indigo;
+    border: 0px solid indigo;
   }
   header .intro-header .con-intro-header .row1-intro-header .name-intro-header p {
-    border: 0.09px solid green;
+    border: 0px solid green;
     color: #dbedcc;
     font-weight: 500;
     font-size: 24px;
     letter-spacing: 4px;
   }
   header .intro-header .con-intro-header .row2-intro-header {
-    border: 0.09px solid navy;
+    border: 0px solid navy;
     height: 500px;
     width: 100%;
   }
   header .intro-header .con-intro-header .row2-intro-header .picture-intro-header {
     margin-top: 0px;
-    border: 0.09px solid green;
+    border: 0px solid green;
     height: 100%;
   }
   header .intro-header .con-intro-header .row2-intro-header .picture-intro-header img {
@@ -1800,10 +1800,10 @@ footer .con-footer .row1-footer .place-footer .menu-place-footer .credit-menu-pl
     transform: scaleX(-1);
   }
   header .intro-header .con-intro-header .row3-intro-header {
-    border: 0.09px solid green;
+    border: 0px solid green;
   }
   header .intro-header .con-intro-header .row3-intro-header .description-intro-header {
-    border: 0.09px solid orange;
+    border: 0px solid orange;
     position: absolute;
     top: 0;
     left: 0;
@@ -1811,25 +1811,25 @@ footer .con-footer .row1-footer .place-footer .menu-place-footer .credit-menu-pl
     margin-left: 15%;
   }
   header .intro-header .con-intro-header .row3-intro-header .description-intro-header p {
-    border: 0.09px solid turquoise;
+    border: 0px solid turquoise;
     font-size: 16px;
     line-height: 40px;
     letter-spacing: 2px;
     color: #dbedcc;
   }
   main {
-    border: 0.09px solid slateblue;
+    border: 0px solid slateblue;
   }
   main .contact-main {
-    border: 0.09px solid fuchsia;
+    border: 0px solid fuchsia;
     background-color: #ff5524;
   }
   main .contact-main .con-contact-main {
-    border: 0.09px solid green;
+    border: 0px solid green;
     height: 352px;
   }
   main .contact-main .con-contact-main .row1-contact-main {
-    border: 0.09px solid yellow;
+    border: 0px solid yellow;
     height: 100%;
     padding: 48px 0;
   }
@@ -1844,56 +1844,56 @@ footer .con-footer .row1-footer .place-footer .menu-place-footer .credit-menu-pl
     justify-content: space-around;
   }
   main .contact-main .con-contact-main .row1-contact-main .place-contact-main .title-place-contact-main {
-    border: 0.09px solid darkred;
+    border: 0px solid darkred;
   }
   main .contact-main .con-contact-main .row1-contact-main .place-contact-main .title-place-contact-main p {
-    border: 0.09px solid springgreen;
+    border: 0px solid springgreen;
     font-family: "Poppins", Helvetica, sans-serif;
     font-size: 24px;
     font-weight: 500;
     letter-spacing: 8px;
   }
   main .contact-main .con-contact-main .row1-contact-main .place-contact-main .description-place-contact-main {
-    border: 0.09px solid fuchsia;
+    border: 0px solid fuchsia;
     margin-top: 16px;
     margin-bottom: 40px;
   }
   main .contact-main .con-contact-main .row1-contact-main .place-contact-main .description-place-contact-main p {
-    border: 0.09px solid olive;
+    border: 0px solid olive;
     font-size: 16px;
   }
   main .contact-main .con-contact-main .row1-contact-main .place-contact-main .sosmed-place-contact-main {
-    border: 0.09px solid darkblue;
+    border: 0px solid darkblue;
     width: 72%;
     display: flex;
     justify-content: space-around;
   }
   main .contact-main .con-contact-main .row1-contact-main .place-contact-main .sosmed-place-contact-main .fa-envelope {
-    border: 0.09px solid white;
+    border: 0px solid white;
     font-size: 40px;
   }
   main .contact-main .con-contact-main .row1-contact-main .place-contact-main .sosmed-place-contact-main .fa-instagram {
-    border: 0.09px solid aliceblue;
+    border: 0px solid aliceblue;
     font-size: 40px;
   }
   main .contact-main .con-contact-main .row1-contact-main .place-contact-main .sosmed-place-contact-main .fa-linkedin {
-    border: 0.09px solid wheat;
+    border: 0px solid wheat;
     font-size: 40px;
   }
   main .about-main {
-    border: 0.09px solid springgreen;
+    border: 0px solid springgreen;
     background-color: #1a4a24;
   }
   main .about-main .con-about-main {
-    border: 0.09px solid red;
+    border: 0px solid red;
     height: 712px;
   }
   main .about-main .con-about-main .row1-about-main {
-    border: 0.09px solid khaki;
+    border: 0px solid khaki;
     height: 100%;
   }
   main .about-main .con-about-main .row1-about-main .place1-about-main {
-    border: 0.09px solid yellowgreen;
+    border: 0px solid yellowgreen;
     height: 62%;
     display: flex;
     flex-direction: column;
@@ -1901,7 +1901,7 @@ footer .con-footer .row1-footer .place-footer .menu-place-footer .credit-menu-pl
     justify-content: flex-start;
   }
   main .about-main .con-about-main .row1-about-main .place1-about-main .title-place1-about-main {
-    border: 0.09px solid firebrick;
+    border: 0px solid firebrick;
     margin-top: 24px;
     margin-bottom: 16px;
     color: #dbedcc;
@@ -1913,7 +1913,7 @@ footer .con-footer .row1-footer .place-footer .menu-place-footer .credit-menu-pl
     letter-spacing: 8px;
   }
   main .about-main .con-about-main .row1-about-main .place1-about-main .img-place1-about-main {
-    border: 0.09px solid navy;
+    border: 0px solid navy;
     width: 100%;
     margin-bottom: 80px;
     display: flex;
@@ -1928,7 +1928,7 @@ footer .con-footer .row1-footer .place-footer .menu-place-footer .credit-menu-pl
     border-radius: 44px;
   }
   main .about-main .con-about-main .row1-about-main .place2-about-main {
-    border: 0.09px solid magenta;
+    border: 0px solid magenta;
     height: auto;
     padding-top: 0px;
     display: flex;
@@ -1936,11 +1936,11 @@ footer .con-footer .row1-footer .place-footer .menu-place-footer .credit-menu-pl
     align-items: flex-start;
   }
   main .about-main .con-about-main .row1-about-main .place2-about-main .text-place2-about-main {
-    border: 0.09px solid limegreen;
+    border: 0px solid limegreen;
     margin-bottom: 32px;
   }
   main .about-main .con-about-main .row1-about-main .place2-about-main .text-place2-about-main p {
-    border: 0.09px solid navy;
+    border: 0px solid navy;
     color: #dbedcc;
     font-size: 16px;
     text-align: center;
@@ -1948,7 +1948,7 @@ footer .con-footer .row1-footer .place-footer .menu-place-footer .credit-menu-pl
     word-spacing: 12px;
   }
   main .about-main .con-about-main .row1-about-main .place2-about-main .button-place2-about-main {
-    border: 0.09px solid aqua;
+    border: 0px solid aqua;
     height: 32px;
     width: 128px;
     border-radius: 10px;
@@ -1961,7 +1961,7 @@ footer .con-footer .row1-footer .place-footer .menu-place-footer .credit-menu-pl
     align-items: center;
   }
   main .about-main .con-about-main .row1-about-main .place2-about-main .button-place2-about-main p {
-    border: 0.09px solid firebrick;
+    border: 0px solid firebrick;
     font-family: "Poppins", Helvetica, sans-serif;
     color: #122417;
     font-weight: 700;
@@ -1969,35 +1969,35 @@ footer .con-footer .row1-footer .place-footer .menu-place-footer .credit-menu-pl
     letter-spacing: 2px;
   }
   main .gallery-main {
-    border: 0.09px solid rosybrown;
+    border: 0px solid rosybrown;
   }
   main .gallery-main .con-gallery-main {
-    border: 0.09px solid hotpink;
+    border: 0px solid hotpink;
     height: 900px;
   }
   main .gallery-main .con-gallery-main .row1-gallery-main {
-    border: 0.09px solid blue;
+    border: 0px solid blue;
     height: 100%;
     display: grid;
     /* Rows / Coloumns */
     grid-template: "title title" 1.5fr "content1 content1" 3fr "content2 content3" 3fr "content2 content3" 3fr/1fr 1fr;
   }
   main .gallery-main .con-gallery-main .row1-gallery-main .title-gallery-main {
-    border: 0.09px solid darkmagenta;
+    border: 0px solid darkmagenta;
     grid-area: title;
     display: flex;
     align-items: center;
     justify-content: center;
   }
   main .gallery-main .con-gallery-main .row1-gallery-main .title-gallery-main p {
-    border: 0.09px solid teal;
+    border: 0px solid teal;
     font-family: "Poppins", Arial, Helvetica, sans-serif;
     font-size: 32px;
     font-weight: 600;
     letter-spacing: 8px;
   }
   main .gallery-main .con-gallery-main .row1-gallery-main .content1-gallery-main {
-    border: 0.09px solid forestgreen;
+    border: 0px solid forestgreen;
     grid-area: content1;
     padding-top: 8px;
     display: grid;
@@ -2018,7 +2018,7 @@ footer .con-footer .row1-footer .place-footer .menu-place-footer .credit-menu-pl
     background-position-y: 15%;
   }
   main .gallery-main .con-gallery-main .row1-gallery-main .content1-gallery-main .title-content1-gallery-main {
-    border: 0.09px solid red;
+    border: 0px solid red;
     grid-area: title;
     margin-top: 0px;
     margin-bottom: 16px;
@@ -2028,24 +2028,24 @@ footer .con-footer .row1-footer .place-footer .menu-place-footer .credit-menu-pl
     align-items: center;
   }
   main .gallery-main .con-gallery-main .row1-gallery-main .content1-gallery-main .title-content1-gallery-main p {
-    border: 0.09px solid goldenrod;
+    border: 0px solid goldenrod;
     font-size: 24px;
     font-weight: 800;
   }
   main .gallery-main .con-gallery-main .row1-gallery-main .content1-gallery-main .title-content1-gallery-main .arrow-icon {
-    border: 0.09px solid darkmagenta;
+    border: 0px solid darkmagenta;
     font-size: 24px;
   }
   main .gallery-main .con-gallery-main .row1-gallery-main .content1-gallery-main .description-content1-gallery-main {
-    border: 0.09px solid maroon;
+    border: 0px solid maroon;
     grid-area: desc;
   }
   main .gallery-main .con-gallery-main .row1-gallery-main .content1-gallery-main .description-content1-gallery-main p {
-    border: 0.09px solid yellow;
+    border: 0px solid yellow;
     font-size: 16px;
   }
   main .gallery-main .con-gallery-main .row1-gallery-main .content2-gallery-main {
-    border: 0.09px solid violet;
+    border: 0px solid violet;
     grid-area: content2;
     display: flex;
     flex-direction: column;
@@ -2064,7 +2064,7 @@ footer .con-footer .row1-footer .place-footer .menu-place-footer .credit-menu-pl
     background-position: center;
   }
   main .gallery-main .con-gallery-main .row1-gallery-main .content2-gallery-main .title-content2-gallery-main {
-    border: 0.09px solid red;
+    border: 0px solid red;
     width: 300px;
     margin: 16px 0 8px 0;
     display: flex;
@@ -2072,24 +2072,24 @@ footer .con-footer .row1-footer .place-footer .menu-place-footer .credit-menu-pl
     align-items: center;
   }
   main .gallery-main .con-gallery-main .row1-gallery-main .content2-gallery-main .title-content2-gallery-main p {
-    border: 0.09px solid darkmagenta;
+    border: 0px solid darkmagenta;
     font-size: 20px;
     font-weight: 800;
   }
   main .gallery-main .con-gallery-main .row1-gallery-main .content2-gallery-main .title-content2-gallery-main .arrow-icon {
-    border: 0.09px solid maroon;
+    border: 0px solid maroon;
     font-size: 24px;
   }
   main .gallery-main .con-gallery-main .row1-gallery-main .content2-gallery-main .description-content2-gallery-main {
-    border: 0.09px solid maroon;
+    border: 0px solid maroon;
     width: 300px;
   }
   main .gallery-main .con-gallery-main .row1-gallery-main .content2-gallery-main .description-content2-gallery-main p {
-    border: 0.09px solid yellow;
+    border: 0px solid yellow;
     font-size: 16px;
   }
   main .gallery-main .con-gallery-main .row1-gallery-main .content3-gallery-main {
-    border: 0.09px solid lightseagreen;
+    border: 0px solid lightseagreen;
     grid-area: content3;
     display: flex;
     flex-direction: column;
@@ -2108,7 +2108,7 @@ footer .con-footer .row1-footer .place-footer .menu-place-footer .credit-menu-pl
     background-position-y: 20%;
   }
   main .gallery-main .con-gallery-main .row1-gallery-main .content3-gallery-main .title-content3-gallery-main {
-    border: 0.09px solid red;
+    border: 0px solid red;
     width: 300px;
     display: flex;
     margin: 16px 0 8px 0;
@@ -2116,112 +2116,112 @@ footer .con-footer .row1-footer .place-footer .menu-place-footer .credit-menu-pl
     align-items: center;
   }
   main .gallery-main .con-gallery-main .row1-gallery-main .content3-gallery-main .title-content3-gallery-main p {
-    border: 0.09px solid navy;
+    border: 0px solid navy;
     font-size: 20px;
     font-weight: 800;
   }
   main .gallery-main .con-gallery-main .row1-gallery-main .content3-gallery-main .title-content3-gallery-main .arrow-icon {
-    border: 0.09px solid midnightblue;
+    border: 0px solid midnightblue;
     font-size: 24px;
   }
   main .gallery-main .con-gallery-main .row1-gallery-main .content3-gallery-main .description-content3-gallery-main {
-    border: 0.09px solid maroon;
+    border: 0px solid maroon;
     width: 300px;
   }
   main .gallery-main .con-gallery-main .row1-gallery-main .content3-gallery-main .description-content3-gallery-main p {
-    border: 0.09px solid yellow;
+    border: 0px solid yellow;
     font-size: 16px;
   }
   footer {
     background-color: #122417;
     color: #dbedcc;
-    border: 0.09px solid darkblue;
+    border: 0px solid darkblue;
   }
   footer .con-footer {
-    border: 0.09px solid ghostwhite;
+    border: 0px solid ghostwhite;
     height: 400px;
   }
   footer .con-footer .row1-footer {
-    border: 0.09px solid yellow;
+    border: 0px solid yellow;
     height: 100%;
   }
   footer .con-footer .row1-footer .place-footer {
-    border: 0.09px solid mediumturquoise;
+    border: 0px solid mediumturquoise;
     height: 100%;
     padding: 16px 0;
     display: grid;
     grid-template: "brand brand brand brand" 0.25fr "menu menu menu quotes " 3fr "sosmed sosmed sosmed sosmed" 1fr "license license license license" 0.25fr/3fr 2.5fr 2.5fr 4fr;
   }
   footer .con-footer .row1-footer .place-footer .brand-place-footer {
-    border: 0.09px solid yellowgreen;
+    border: 0px solid yellowgreen;
     grid-area: brand;
   }
   footer .con-footer .row1-footer .place-footer .brand-place-footer p {
-    border: 0.09px solid cornsilk;
+    border: 0px solid cornsilk;
     font-size: 12px;
     font-weight: 700;
     letter-spacing: 2px;
   }
   footer .con-footer .row1-footer .place-footer .sosmed-place-footer {
-    border: 0.09px solid coral;
+    border: 0px solid coral;
     grid-area: sosmed;
   }
   footer .con-footer .row1-footer .place-footer .sosmed-place-footer .title-sosmed-place-footer {
-    border: 0.09px solid seashell;
+    border: 0px solid seashell;
     margin-bottom: 16px;
     display: flex;
     justify-content: center;
   }
   footer .con-footer .row1-footer .place-footer .sosmed-place-footer .title-sosmed-place-footer p {
-    border: 0.09px solid hotpink;
+    border: 0px solid hotpink;
     font-weight: 700;
     font-size: 16px;
     letter-spacing: 2px;
   }
   footer .con-footer .row1-footer .place-footer .sosmed-place-footer .icon-sosmed-place-footer {
-    border: 0.09px solid fuchsia;
+    border: 0px solid fuchsia;
     display: flex;
     justify-content: space-around;
   }
   footer .con-footer .row1-footer .place-footer .sosmed-place-footer .icon-sosmed-place-footer .instagram-icon {
-    border: 0.09px solid violet;
+    border: 0px solid violet;
     font-size: 24px;
   }
   footer .con-footer .row1-footer .place-footer .sosmed-place-footer .icon-sosmed-place-footer .tiktok-icon {
-    border: 0.09px solid mediumspringgreen;
+    border: 0px solid mediumspringgreen;
     font-size: 24px;
   }
   footer .con-footer .row1-footer .place-footer .sosmed-place-footer .icon-sosmed-place-footer .facebook-icon {
-    border: 0.09px solid salmon;
+    border: 0px solid salmon;
     font-size: 24px;
   }
   footer .con-footer .row1-footer .place-footer .sosmed-place-footer .icon-sosmed-place-footer .pinterest-icon {
-    border: 0.09px solid skyblue;
+    border: 0px solid skyblue;
     font-size: 24px;
   }
   footer .con-footer .row1-footer .place-footer .sosmed-place-footer .icon-sosmed-place-footer .twitter-icon {
-    border: 0.09px solid whitesmoke;
+    border: 0px solid whitesmoke;
     font-size: 24px;
   }
   footer .con-footer .row1-footer .place-footer .quotes-place-footer {
-    border: 0.09px solid crimson;
+    border: 0px solid crimson;
     grid-area: quotes;
     display: flex;
     flex-direction: column;
     justify-content: center;
   }
   footer .con-footer .row1-footer .place-footer .quotes-place-footer .text-quotes-place-footer {
-    border: 0.09px solid yellow;
+    border: 0px solid yellow;
     width: 240px;
   }
   footer .con-footer .row1-footer .place-footer .quotes-place-footer .text-quotes-place-footer p {
-    border: 0.09px solid aqua;
+    border: 0px solid aqua;
     font-size: 16px;
     letter-spacing: 4px;
     word-spacing: 4px;
   }
   footer .con-footer .row1-footer .place-footer .quotes-place-footer .name-quotes-place-footer {
-    border: 0.09px solid burlywood;
+    border: 0px solid burlywood;
     display: flex;
     justify-content: end;
     position: relative;
@@ -2229,22 +2229,22 @@ footer .con-footer .row1-footer .place-footer .menu-place-footer .credit-menu-pl
     bottom: 24px;
   }
   footer .con-footer .row1-footer .place-footer .quotes-place-footer .name-quotes-place-footer p {
-    border: 0.09px solid springgreen;
+    border: 0px solid springgreen;
     font-size: 12px;
     letter-spacing: 2px;
   }
   footer .con-footer .row1-footer .place-footer .license-place-footer {
-    border: 0.09px solid ghostwhite;
+    border: 0px solid ghostwhite;
     grid-area: license;
     display: flex;
     align-items: flex-end;
   }
   footer .con-footer .row1-footer .place-footer .license-place-footer p {
-    border: 0.09px solid crimson;
+    border: 0px solid crimson;
     font-size: 12px;
   }
   footer .con-footer .row1-footer .place-footer .menu-place-footer {
-    border: 0.09px solid greenyellow;
+    border: 0px solid greenyellow;
     width: 100%;
     height: 100%;
     max-height: 300px;
@@ -2260,7 +2260,7 @@ footer .con-footer .row1-footer .place-footer .menu-place-footer .credit-menu-pl
     font-weight: 700;
   }
   footer .con-footer .row1-footer .place-footer .menu-place-footer .home-menu-place-footer {
-    border: 0.09px solid royalblue;
+    border: 0px solid royalblue;
     height: 80px;
     width: 88px;
     display: flex;
@@ -2268,10 +2268,10 @@ footer .con-footer .row1-footer .place-footer .menu-place-footer .credit-menu-pl
     justify-content: center;
   }
   footer .con-footer .row1-footer .place-footer .menu-place-footer .home-menu-place-footer p {
-    border: 0.09px solid ghostwhite;
+    border: 0px solid ghostwhite;
   }
   footer .con-footer .row1-footer .place-footer .menu-place-footer .about-menu-place-footer {
-    border: 0.09px solid aqua;
+    border: 0px solid aqua;
     height: 80px;
     width: 88px;
     display: flex;
@@ -2279,10 +2279,10 @@ footer .con-footer .row1-footer .place-footer .menu-place-footer .credit-menu-pl
     justify-content: center;
   }
   footer .con-footer .row1-footer .place-footer .menu-place-footer .about-menu-place-footer p {
-    border: 0.09px solid ghostwhite;
+    border: 0px solid ghostwhite;
   }
   footer .con-footer .row1-footer .place-footer .menu-place-footer .gallery-menu-place-footer {
-    border: 0.09px solid orange;
+    border: 0px solid orange;
     height: 80px;
     width: 88px;
     display: flex;
@@ -2290,10 +2290,10 @@ footer .con-footer .row1-footer .place-footer .menu-place-footer .credit-menu-pl
     justify-content: center;
   }
   footer .con-footer .row1-footer .place-footer .menu-place-footer .gallery-menu-place-footer p {
-    border: 0.09px solid ghostwhite;
+    border: 0px solid ghostwhite;
   }
   footer .con-footer .row1-footer .place-footer .menu-place-footer .contact-menu-place-footer {
-    border: 0.09px solid orchid;
+    border: 0px solid orchid;
     height: 80px;
     width: 88px;
     display: flex;
@@ -2301,10 +2301,10 @@ footer .con-footer .row1-footer .place-footer .menu-place-footer .credit-menu-pl
     justify-content: center;
   }
   footer .con-footer .row1-footer .place-footer .menu-place-footer .contact-menu-place-footer p {
-    border: 0.09px solid ghostwhite;
+    border: 0px solid ghostwhite;
   }
   footer .con-footer .row1-footer .place-footer .menu-place-footer .credit-menu-place-footer {
-    border: 0.09px solid navajowhite;
+    border: 0px solid navajowhite;
     height: 80px;
     width: 88px;
     display: flex;
@@ -2312,77 +2312,77 @@ footer .con-footer .row1-footer .place-footer .menu-place-footer .credit-menu-pl
     justify-content: center;
   }
   footer .con-footer .row1-footer .place-footer .menu-place-footer .credit-menu-place-footer p {
-    border: 0.09px solid ghostwhite;
+    border: 0px solid ghostwhite;
   }
 }
 @media screen and (max-width: 767.98px) {
   header {
-    border: 0.09px solid maroon;
+    border: 0px solid maroon;
   }
   header nav {
-    border: 0.09px solid darkorange;
+    border: 0px solid darkorange;
     background-color: #122417;
     color: #dbedcc;
   }
   header nav .con-nav-header {
-    border: 0.09px solid mediumturquoise;
+    border: 0px solid mediumturquoise;
   }
   header nav .con-nav-header .row1-nav-header {
-    border: 0.09px solid magenta;
+    border: 0px solid magenta;
     height: 64px;
   }
   header nav .con-nav-header .row1-nav-header .logo-nav-header {
-    border: 0.09px solid tomato;
+    border: 0px solid tomato;
     display: flex;
     align-items: center;
   }
   header nav .con-nav-header .row1-nav-header .logo-nav-header p {
-    border: 0.09px solid steelblue;
+    border: 0px solid steelblue;
     font-weight: 700;
     font-size: 20px;
   }
   header nav .con-nav-header .row1-nav-header .brand-nav-header {
-    border: 0.09px solid maroon;
+    border: 0px solid maroon;
     display: flex;
     align-items: center;
   }
   header nav .con-nav-header .row1-nav-header .brand-nav-header p {
-    border: 0.09px solid forestgreen;
+    border: 0px solid forestgreen;
     font-weight: 700;
     font-size: 20px;
   }
   header nav .con-nav-header .row1-nav-header .menu-nav-header {
-    border: 0.09px solid green;
+    border: 0px solid green;
     display: flex;
     align-items: center;
     font-weight: 600;
     font-size: 12px;
   }
   header nav .con-nav-header .row1-nav-header .menu-nav-header .navbar-menu-nav-header {
-    border: 0.09px solid darkturquoise;
+    border: 0px solid darkturquoise;
     width: 100%;
     display: flex;
     justify-content: space-between;
   }
   header nav .con-nav-header .row1-nav-header .menu-nav-header .navbar-menu-nav-header .home-navbar-menu-nav-header {
-    border: 0.09px solid saddlebrown;
+    border: 0px solid saddlebrown;
   }
   header nav .con-nav-header .row1-nav-header .menu-nav-header .navbar-menu-nav-header .about-navbar-menu-nav-header {
-    border: 0.09px solid salmon;
+    border: 0px solid salmon;
   }
   header nav .con-nav-header .row1-nav-header .menu-nav-header .navbar-menu-nav-header .gallery-navbar-menu-nav-header {
-    border: 0.09px solid violet;
+    border: 0px solid violet;
   }
   header .intro-header {
-    border: 0.09px solid blue;
+    border: 0px solid blue;
   }
   header .intro-header .con-intro-header {
-    border: 0.09px solid slateblue;
+    border: 0px solid slateblue;
     height: 600px;
     padding: 16px 0;
   }
   header .intro-header .con-intro-header .row1-intro-header {
-    border: 0.09px solid limegreen;
+    border: 0px solid limegreen;
     position: static;
     z-index: 1;
     margin-top: 0px;
@@ -2390,38 +2390,38 @@ footer .con-footer .row1-footer .place-footer .menu-place-footer .credit-menu-pl
     margin-right: 0px;
   }
   header .intro-header .con-intro-header .row1-intro-header .title-intro-header {
-    border: 0.09px solid hotpink;
+    border: 0px solid hotpink;
     margin-bottom: 0px;
   }
   header .intro-header .con-intro-header .row1-intro-header .title-intro-header p {
-    border: 0.09px solid springgreen;
+    border: 0px solid springgreen;
     color: #ff5524;
     font-weight: 700;
     font-size: 32px;
     letter-spacing: 4px;
   }
   header .intro-header .con-intro-header .row1-intro-header .name-intro-header {
-    border: 0.09px solid indigo;
+    border: 0px solid indigo;
     margin-bottom: 0px;
     display: flex;
     align-items: flex-end;
   }
   header .intro-header .con-intro-header .row1-intro-header .name-intro-header p {
-    border: 0.09px solid green;
+    border: 0px solid green;
     color: #122417;
     font-weight: 500;
     font-size: 20px;
     letter-spacing: 4px;
   }
   header .intro-header .con-intro-header .row2-intro-header {
-    border: 0.09px solid navy;
+    border: 0px solid navy;
     height: 300px;
     width: 100%;
     margin: 8px 0;
   }
   header .intro-header .con-intro-header .row2-intro-header .picture-intro-header {
     margin-top: 0px;
-    border: 0.09px solid green;
+    border: 0px solid green;
     height: 100%;
   }
   header .intro-header .con-intro-header .row2-intro-header .picture-intro-header img {
@@ -2436,11 +2436,11 @@ footer .con-footer .row1-footer .place-footer .menu-place-footer .credit-menu-pl
     transform: scaleX(-1);
   }
   header .intro-header .con-intro-header .row3-intro-header {
-    border: 0.09px solid green;
+    border: 0px solid green;
     margin: 0;
   }
   header .intro-header .con-intro-header .row3-intro-header .description-intro-header {
-    border: 0.09px solid orange;
+    border: 0px solid orange;
     top: 0;
     left: 0;
     margin-top: 0px;
@@ -2448,25 +2448,25 @@ footer .con-footer .row1-footer .place-footer .menu-place-footer .credit-menu-pl
     position: static;
   }
   header .intro-header .con-intro-header .row3-intro-header .description-intro-header p {
-    border: 0.09px solid turquoise;
+    border: 0px solid turquoise;
     font-size: 16px;
     line-height: 24px;
     letter-spacing: 2px;
     color: #122417;
   }
   main {
-    border: 0.09px solid slateblue;
+    border: 0px solid slateblue;
   }
   main .contact-main {
-    border: 0.09px solid fuchsia;
+    border: 0px solid fuchsia;
     background-color: #ff5524;
   }
   main .contact-main .con-contact-main {
-    border: 0.09px solid green;
+    border: 0px solid green;
     height: 336px;
   }
   main .contact-main .con-contact-main .row1-contact-main {
-    border: 0.09px solid yellow;
+    border: 0px solid yellow;
     height: 100%;
     padding: 48px 8px;
   }
@@ -2481,56 +2481,56 @@ footer .con-footer .row1-footer .place-footer .menu-place-footer .credit-menu-pl
     justify-content: space-around;
   }
   main .contact-main .con-contact-main .row1-contact-main .place-contact-main .title-place-contact-main {
-    border: 0.09px solid darkred;
+    border: 0px solid darkred;
   }
   main .contact-main .con-contact-main .row1-contact-main .place-contact-main .title-place-contact-main p {
-    border: 0.09px solid springgreen;
+    border: 0px solid springgreen;
     font-family: "Poppins", Helvetica, sans-serif;
     font-size: 24px;
     font-weight: 500;
     letter-spacing: 8px;
   }
   main .contact-main .con-contact-main .row1-contact-main .place-contact-main .description-place-contact-main {
-    border: 0.09px solid fuchsia;
+    border: 0px solid fuchsia;
     margin-top: 16px;
     margin-bottom: 40px;
   }
   main .contact-main .con-contact-main .row1-contact-main .place-contact-main .description-place-contact-main p {
-    border: 0.09px solid olive;
+    border: 0px solid olive;
     font-size: 16px;
   }
   main .contact-main .con-contact-main .row1-contact-main .place-contact-main .sosmed-place-contact-main {
-    border: 0.09px solid darkblue;
+    border: 0px solid darkblue;
     width: 72%;
     display: flex;
     justify-content: space-around;
   }
   main .contact-main .con-contact-main .row1-contact-main .place-contact-main .sosmed-place-contact-main .fa-envelope {
-    border: 0.09px solid white;
+    border: 0px solid white;
     font-size: 40px;
   }
   main .contact-main .con-contact-main .row1-contact-main .place-contact-main .sosmed-place-contact-main .fa-instagram {
-    border: 0.09px solid aliceblue;
+    border: 0px solid aliceblue;
     font-size: 40px;
   }
   main .contact-main .con-contact-main .row1-contact-main .place-contact-main .sosmed-place-contact-main .fa-linkedin {
-    border: 0.09px solid wheat;
+    border: 0px solid wheat;
     font-size: 40px;
   }
   main .about-main {
-    border: 0.09px solid springgreen;
+    border: 0px solid springgreen;
     background-color: #1a4a24;
   }
   main .about-main .con-about-main {
-    border: 0.09px solid red;
+    border: 0px solid red;
     height: 712px;
   }
   main .about-main .con-about-main .row1-about-main {
-    border: 0.09px solid khaki;
+    border: 0px solid khaki;
     height: 100%;
   }
   main .about-main .con-about-main .row1-about-main .place1-about-main {
-    border: 0.09px solid yellowgreen;
+    border: 0px solid yellowgreen;
     height: 58%;
     display: flex;
     flex-direction: column;
@@ -2538,7 +2538,7 @@ footer .con-footer .row1-footer .place-footer .menu-place-footer .credit-menu-pl
     justify-content: flex-start;
   }
   main .about-main .con-about-main .row1-about-main .place1-about-main .title-place1-about-main {
-    border: 0.09px solid firebrick;
+    border: 0px solid firebrick;
     margin-top: 24px;
     margin-bottom: 16px;
     color: #dbedcc;
@@ -2550,7 +2550,7 @@ footer .con-footer .row1-footer .place-footer .menu-place-footer .credit-menu-pl
     letter-spacing: 8px;
   }
   main .about-main .con-about-main .row1-about-main .place1-about-main .img-place1-about-main {
-    border: 0.09px solid navy;
+    border: 0px solid navy;
     width: 100%;
     margin-bottom: 8px;
     display: flex;
@@ -2565,7 +2565,7 @@ footer .con-footer .row1-footer .place-footer .menu-place-footer .credit-menu-pl
     border-radius: 44px;
   }
   main .about-main .con-about-main .row1-about-main .place2-about-main {
-    border: 0.09px solid magenta;
+    border: 0px solid magenta;
     height: auto;
     padding-top: 0px;
     display: flex;
@@ -2573,11 +2573,11 @@ footer .con-footer .row1-footer .place-footer .menu-place-footer .credit-menu-pl
     align-items: flex-start;
   }
   main .about-main .con-about-main .row1-about-main .place2-about-main .text-place2-about-main {
-    border: 0.09px solid limegreen;
+    border: 0px solid limegreen;
     margin-bottom: 16px;
   }
   main .about-main .con-about-main .row1-about-main .place2-about-main .text-place2-about-main p {
-    border: 0.09px solid navy;
+    border: 0px solid navy;
     color: #dbedcc;
     font-size: 16px;
     text-align: center;
@@ -2585,7 +2585,7 @@ footer .con-footer .row1-footer .place-footer .menu-place-footer .credit-menu-pl
     word-spacing: 12px;
   }
   main .about-main .con-about-main .row1-about-main .place2-about-main .button-place2-about-main {
-    border: 0.09px solid aqua;
+    border: 0px solid aqua;
     height: 32px;
     width: 128px;
     border-radius: 10px;
@@ -2598,7 +2598,7 @@ footer .con-footer .row1-footer .place-footer .menu-place-footer .credit-menu-pl
     align-items: center;
   }
   main .about-main .con-about-main .row1-about-main .place2-about-main .button-place2-about-main p {
-    border: 0.09px solid firebrick;
+    border: 0px solid firebrick;
     font-family: "Poppins", Helvetica, sans-serif;
     color: #122417;
     font-weight: 700;
@@ -2606,35 +2606,35 @@ footer .con-footer .row1-footer .place-footer .menu-place-footer .credit-menu-pl
     letter-spacing: 2px;
   }
   main .gallery-main {
-    border: 0.09px solid rosybrown;
+    border: 0px solid rosybrown;
   }
   main .gallery-main .con-gallery-main {
-    border: 0.09px solid hotpink;
+    border: 0px solid hotpink;
     height: 1100px;
   }
   main .gallery-main .con-gallery-main .row1-gallery-main {
-    border: 0.09px solid blue;
+    border: 0px solid blue;
     height: 100%;
     display: grid;
     /* Rows / Coloumns */
     grid-template: "title title" 0.75fr "content1 content1" 3fr "content2 content2" 3fr "content3 content3" 3fr/1fr 1fr;
   }
   main .gallery-main .con-gallery-main .row1-gallery-main .title-gallery-main {
-    border: 0.09px solid darkmagenta;
+    border: 0px solid darkmagenta;
     grid-area: title;
     display: flex;
     align-items: center;
     justify-content: center;
   }
   main .gallery-main .con-gallery-main .row1-gallery-main .title-gallery-main p {
-    border: 0.09px solid teal;
+    border: 0px solid teal;
     font-family: "Poppins", Arial, Helvetica, sans-serif;
     font-size: 32px;
     font-weight: 600;
     letter-spacing: 8px;
   }
   main .gallery-main .con-gallery-main .row1-gallery-main .content1-gallery-main {
-    border: 0.09px solid forestgreen;
+    border: 0px solid forestgreen;
     grid-area: content1;
     padding: 8px 0;
     display: flex;
@@ -2657,7 +2657,7 @@ footer .con-footer .row1-footer .place-footer .menu-place-footer .credit-menu-pl
     background-position-y: 8%;
   }
   main .gallery-main .con-gallery-main .row1-gallery-main .content1-gallery-main .title-content1-gallery-main {
-    border: 0.09px solid red;
+    border: 0px solid red;
     grid-area: title;
     width: 300px;
     margin: 8px auto;
@@ -2667,24 +2667,24 @@ footer .con-footer .row1-footer .place-footer .menu-place-footer .credit-menu-pl
     align-items: center;
   }
   main .gallery-main .con-gallery-main .row1-gallery-main .content1-gallery-main .title-content1-gallery-main p {
-    border: 0.09px solid goldenrod;
+    border: 0px solid goldenrod;
     font-size: 20px;
     font-weight: 800;
   }
   main .gallery-main .con-gallery-main .row1-gallery-main .content1-gallery-main .title-content1-gallery-main .arrow-icon {
-    border: 0.09px solid darkmagenta;
+    border: 0px solid darkmagenta;
     font-size: 16px;
   }
   main .gallery-main .con-gallery-main .row1-gallery-main .content1-gallery-main .description-content1-gallery-main {
-    border: 0.09px solid maroon;
+    border: 0px solid maroon;
     grid-area: desc;
   }
   main .gallery-main .con-gallery-main .row1-gallery-main .content1-gallery-main .description-content1-gallery-main p {
-    border: 0.09px solid yellow;
+    border: 0px solid yellow;
     font-size: 16px;
   }
   main .gallery-main .con-gallery-main .row1-gallery-main .content2-gallery-main {
-    border: 0.09px solid violet;
+    border: 0px solid violet;
     grid-area: content2;
     display: flex;
     flex-direction: column;
@@ -2703,7 +2703,7 @@ footer .con-footer .row1-footer .place-footer .menu-place-footer .credit-menu-pl
     background-position: center;
   }
   main .gallery-main .con-gallery-main .row1-gallery-main .content2-gallery-main .title-content2-gallery-main {
-    border: 0.09px solid red;
+    border: 0px solid red;
     width: 300px;
     margin: 8px 0;
     display: flex;
@@ -2711,24 +2711,24 @@ footer .con-footer .row1-footer .place-footer .menu-place-footer .credit-menu-pl
     align-items: center;
   }
   main .gallery-main .con-gallery-main .row1-gallery-main .content2-gallery-main .title-content2-gallery-main p {
-    border: 0.09px solid darkmagenta;
+    border: 0px solid darkmagenta;
     font-size: 20px;
     font-weight: 800;
   }
   main .gallery-main .con-gallery-main .row1-gallery-main .content2-gallery-main .title-content2-gallery-main .arrow-icon {
-    border: 0.09px solid maroon;
+    border: 0px solid maroon;
     font-size: 16px;
   }
   main .gallery-main .con-gallery-main .row1-gallery-main .content2-gallery-main .description-content2-gallery-main {
-    border: 0.09px solid maroon;
+    border: 0px solid maroon;
     width: 300px;
   }
   main .gallery-main .con-gallery-main .row1-gallery-main .content2-gallery-main .description-content2-gallery-main p {
-    border: 0.09px solid yellow;
+    border: 0px solid yellow;
     font-size: 16px;
   }
   main .gallery-main .con-gallery-main .row1-gallery-main .content3-gallery-main {
-    border: 0.09px solid lightseagreen;
+    border: 0px solid lightseagreen;
     grid-area: content3;
     display: flex;
     flex-direction: column;
@@ -2747,7 +2747,7 @@ footer .con-footer .row1-footer .place-footer .menu-place-footer .credit-menu-pl
     background-position-y: 20%;
   }
   main .gallery-main .con-gallery-main .row1-gallery-main .content3-gallery-main .title-content3-gallery-main {
-    border: 0.09px solid red;
+    border: 0px solid red;
     width: 300px;
     display: flex;
     margin: 8px 0;
@@ -2755,110 +2755,110 @@ footer .con-footer .row1-footer .place-footer .menu-place-footer .credit-menu-pl
     align-items: center;
   }
   main .gallery-main .con-gallery-main .row1-gallery-main .content3-gallery-main .title-content3-gallery-main p {
-    border: 0.09px solid navy;
+    border: 0px solid navy;
     font-size: 20px;
     font-weight: 800;
   }
   main .gallery-main .con-gallery-main .row1-gallery-main .content3-gallery-main .title-content3-gallery-main .arrow-icon {
-    border: 0.09px solid midnightblue;
+    border: 0px solid midnightblue;
     font-size: 16px;
   }
   main .gallery-main .con-gallery-main .row1-gallery-main .content3-gallery-main .description-content3-gallery-main {
-    border: 0.09px solid maroon;
+    border: 0px solid maroon;
     width: 300px;
   }
   main .gallery-main .con-gallery-main .row1-gallery-main .content3-gallery-main .description-content3-gallery-main p {
-    border: 0.09px solid yellow;
+    border: 0px solid yellow;
     font-size: 16px;
   }
   footer {
     background-color: #122417;
     color: #dbedcc;
-    border: 0.09px solid darkblue;
+    border: 0px solid darkblue;
   }
   footer .con-footer {
-    border: 0.09px solid ghostwhite;
+    border: 0px solid ghostwhite;
     height: 400px;
   }
   footer .con-footer .row1-footer {
-    border: 0.09px solid yellow;
+    border: 0px solid yellow;
     height: 100%;
   }
   footer .con-footer .row1-footer .place-footer {
-    border: 0.09px solid mediumturquoise;
+    border: 0px solid mediumturquoise;
     height: 100%;
     padding: 16px 0;
     display: grid;
     grid-template: "brand brand brand brand" 0.25fr "menu menu menu quotes " 3fr "sosmed sosmed sosmed sosmed" 1fr "license license license license" 0.25fr/3fr 2.5fr 2.5fr 4fr;
   }
   footer .con-footer .row1-footer .place-footer .brand-place-footer {
-    border: 0.09px solid yellowgreen;
+    border: 0px solid yellowgreen;
     grid-area: brand;
   }
   footer .con-footer .row1-footer .place-footer .brand-place-footer p {
-    border: 0.09px solid cornsilk;
+    border: 0px solid cornsilk;
     font-size: 12px;
     font-weight: 700;
     letter-spacing: 2px;
   }
   footer .con-footer .row1-footer .place-footer .sosmed-place-footer {
-    border: 0.09px solid coral;
+    border: 0px solid coral;
     grid-area: sosmed;
   }
   footer .con-footer .row1-footer .place-footer .sosmed-place-footer .title-sosmed-place-footer {
-    border: 0.09px solid seashell;
+    border: 0px solid seashell;
     margin-bottom: 16px;
   }
   footer .con-footer .row1-footer .place-footer .sosmed-place-footer .title-sosmed-place-footer p {
-    border: 0.09px solid hotpink;
+    border: 0px solid hotpink;
     font-weight: 700;
     font-size: 16px;
     letter-spacing: 2px;
   }
   footer .con-footer .row1-footer .place-footer .sosmed-place-footer .icon-sosmed-place-footer {
-    border: 0.09px solid fuchsia;
+    border: 0px solid fuchsia;
     display: flex;
     justify-content: space-around;
   }
   footer .con-footer .row1-footer .place-footer .sosmed-place-footer .icon-sosmed-place-footer .instagram-icon {
-    border: 0.09px solid violet;
+    border: 0px solid violet;
     font-size: 24px;
   }
   footer .con-footer .row1-footer .place-footer .sosmed-place-footer .icon-sosmed-place-footer .tiktok-icon {
-    border: 0.09px solid mediumspringgreen;
+    border: 0px solid mediumspringgreen;
     font-size: 24px;
   }
   footer .con-footer .row1-footer .place-footer .sosmed-place-footer .icon-sosmed-place-footer .facebook-icon {
-    border: 0.09px solid salmon;
+    border: 0px solid salmon;
     font-size: 24px;
   }
   footer .con-footer .row1-footer .place-footer .sosmed-place-footer .icon-sosmed-place-footer .pinterest-icon {
-    border: 0.09px solid skyblue;
+    border: 0px solid skyblue;
     font-size: 24px;
   }
   footer .con-footer .row1-footer .place-footer .sosmed-place-footer .icon-sosmed-place-footer .twitter-icon {
-    border: 0.09px solid whitesmoke;
+    border: 0px solid whitesmoke;
     font-size: 24px;
   }
   footer .con-footer .row1-footer .place-footer .quotes-place-footer {
-    border: 0.09px solid crimson;
+    border: 0px solid crimson;
     grid-area: quotes;
     display: flex;
     flex-direction: column;
     justify-content: center;
   }
   footer .con-footer .row1-footer .place-footer .quotes-place-footer .text-quotes-place-footer {
-    border: 0.09px solid yellow;
+    border: 0px solid yellow;
     width: 240px;
   }
   footer .con-footer .row1-footer .place-footer .quotes-place-footer .text-quotes-place-footer p {
-    border: 0.09px solid aqua;
+    border: 0px solid aqua;
     font-size: 16px;
     letter-spacing: 4px;
     word-spacing: 4px;
   }
   footer .con-footer .row1-footer .place-footer .quotes-place-footer .name-quotes-place-footer {
-    border: 0.09px solid burlywood;
+    border: 0px solid burlywood;
     display: flex;
     justify-content: end;
     position: relative;
@@ -2866,22 +2866,22 @@ footer .con-footer .row1-footer .place-footer .menu-place-footer .credit-menu-pl
     bottom: 24px;
   }
   footer .con-footer .row1-footer .place-footer .quotes-place-footer .name-quotes-place-footer p {
-    border: 0.09px solid springgreen;
+    border: 0px solid springgreen;
     font-size: 12px;
     letter-spacing: 2px;
   }
   footer .con-footer .row1-footer .place-footer .license-place-footer {
-    border: 0.09px solid ghostwhite;
+    border: 0px solid ghostwhite;
     grid-area: license;
     display: flex;
     align-items: flex-end;
   }
   footer .con-footer .row1-footer .place-footer .license-place-footer p {
-    border: 0.09px solid crimson;
+    border: 0px solid crimson;
     font-size: 12px;
   }
   footer .con-footer .row1-footer .place-footer .menu-place-footer {
-    border: 0.09px solid greenyellow;
+    border: 0px solid greenyellow;
     width: 100%;
     height: 100%;
     max-height: 300px;
@@ -2897,7 +2897,7 @@ footer .con-footer .row1-footer .place-footer .menu-place-footer .credit-menu-pl
     font-weight: 700;
   }
   footer .con-footer .row1-footer .place-footer .menu-place-footer .home-menu-place-footer {
-    border: 0.09px solid royalblue;
+    border: 0px solid royalblue;
     height: 80px;
     width: 88px;
     display: flex;
@@ -2905,10 +2905,10 @@ footer .con-footer .row1-footer .place-footer .menu-place-footer .credit-menu-pl
     justify-content: center;
   }
   footer .con-footer .row1-footer .place-footer .menu-place-footer .home-menu-place-footer p {
-    border: 0.09px solid ghostwhite;
+    border: 0px solid ghostwhite;
   }
   footer .con-footer .row1-footer .place-footer .menu-place-footer .about-menu-place-footer {
-    border: 0.09px solid aqua;
+    border: 0px solid aqua;
     height: 80px;
     width: 88px;
     display: flex;
@@ -2916,10 +2916,10 @@ footer .con-footer .row1-footer .place-footer .menu-place-footer .credit-menu-pl
     justify-content: center;
   }
   footer .con-footer .row1-footer .place-footer .menu-place-footer .about-menu-place-footer p {
-    border: 0.09px solid ghostwhite;
+    border: 0px solid ghostwhite;
   }
   footer .con-footer .row1-footer .place-footer .menu-place-footer .gallery-menu-place-footer {
-    border: 0.09px solid orange;
+    border: 0px solid orange;
     height: 80px;
     width: 88px;
     display: flex;
@@ -2927,10 +2927,10 @@ footer .con-footer .row1-footer .place-footer .menu-place-footer .credit-menu-pl
     justify-content: center;
   }
   footer .con-footer .row1-footer .place-footer .menu-place-footer .gallery-menu-place-footer p {
-    border: 0.09px solid ghostwhite;
+    border: 0px solid ghostwhite;
   }
   footer .con-footer .row1-footer .place-footer .menu-place-footer .contact-menu-place-footer {
-    border: 0.09px solid orchid;
+    border: 0px solid orchid;
     height: 80px;
     width: 88px;
     display: flex;
@@ -2938,10 +2938,10 @@ footer .con-footer .row1-footer .place-footer .menu-place-footer .credit-menu-pl
     justify-content: center;
   }
   footer .con-footer .row1-footer .place-footer .menu-place-footer .contact-menu-place-footer p {
-    border: 0.09px solid ghostwhite;
+    border: 0px solid ghostwhite;
   }
   footer .con-footer .row1-footer .place-footer .menu-place-footer .credit-menu-place-footer {
-    border: 0.09px solid navajowhite;
+    border: 0px solid navajowhite;
     height: 80px;
     width: 88px;
     display: flex;
@@ -2949,77 +2949,77 @@ footer .con-footer .row1-footer .place-footer .menu-place-footer .credit-menu-pl
     justify-content: center;
   }
   footer .con-footer .row1-footer .place-footer .menu-place-footer .credit-menu-place-footer p {
-    border: 0.09px solid ghostwhite;
+    border: 0px solid ghostwhite;
   }
 }
 @media screen and (max-width: 575.98px) {
   header {
-    border: 0.09px solid maroon;
+    border: 0px solid maroon;
   }
   header nav {
-    border: 0.09px solid darkorange;
+    border: 0px solid darkorange;
     background-color: #122417;
     color: #dbedcc;
   }
   header nav .con-nav-header {
-    border: 0.09px solid mediumturquoise;
+    border: 0px solid mediumturquoise;
   }
   header nav .con-nav-header .row1-nav-header {
-    border: 0.09px solid magenta;
+    border: 0px solid magenta;
     height: 64px;
   }
   header nav .con-nav-header .row1-nav-header .logo-nav-header {
-    border: 0.09px solid tomato;
+    border: 0px solid tomato;
     display: flex;
     align-items: center;
   }
   header nav .con-nav-header .row1-nav-header .logo-nav-header p {
-    border: 0.09px solid steelblue;
+    border: 0px solid steelblue;
     font-weight: 700;
     font-size: 20px;
   }
   header nav .con-nav-header .row1-nav-header .brand-nav-header {
-    border: 0.09px solid maroon;
+    border: 0px solid maroon;
     display: flex;
     align-items: center;
   }
   header nav .con-nav-header .row1-nav-header .brand-nav-header p {
-    border: 0.09px solid forestgreen;
+    border: 0px solid forestgreen;
     font-weight: 700;
     font-size: 20px;
   }
   header nav .con-nav-header .row1-nav-header .menu-nav-header {
-    border: 0.09px solid green;
+    border: 0px solid green;
     display: flex;
     align-items: center;
     font-weight: 600;
     font-size: 12px;
   }
   header nav .con-nav-header .row1-nav-header .menu-nav-header .navbar-menu-nav-header {
-    border: 0.09px solid darkturquoise;
+    border: 0px solid darkturquoise;
     width: 100%;
     display: flex;
     justify-content: space-between;
   }
   header nav .con-nav-header .row1-nav-header .menu-nav-header .navbar-menu-nav-header .home-navbar-menu-nav-header {
-    border: 0.09px solid saddlebrown;
+    border: 0px solid saddlebrown;
   }
   header nav .con-nav-header .row1-nav-header .menu-nav-header .navbar-menu-nav-header .about-navbar-menu-nav-header {
-    border: 0.09px solid salmon;
+    border: 0px solid salmon;
   }
   header nav .con-nav-header .row1-nav-header .menu-nav-header .navbar-menu-nav-header .gallery-navbar-menu-nav-header {
-    border: 0.09px solid violet;
+    border: 0px solid violet;
   }
   header .intro-header {
-    border: 0.09px solid blue;
+    border: 0px solid blue;
   }
   header .intro-header .con-intro-header {
-    border: 0.09px solid slateblue;
+    border: 0px solid slateblue;
     height: 600px;
     padding: 16px 0;
   }
   header .intro-header .con-intro-header .row1-intro-header {
-    border: 0.09px solid limegreen;
+    border: 0px solid limegreen;
     position: static;
     z-index: 1;
     margin-top: 0px;
@@ -3027,38 +3027,38 @@ footer .con-footer .row1-footer .place-footer .menu-place-footer .credit-menu-pl
     margin-right: 0px;
   }
   header .intro-header .con-intro-header .row1-intro-header .title-intro-header {
-    border: 0.09px solid hotpink;
+    border: 0px solid hotpink;
     margin-bottom: 0px;
   }
   header .intro-header .con-intro-header .row1-intro-header .title-intro-header p {
-    border: 0.09px solid springgreen;
+    border: 0px solid springgreen;
     color: #ff5524;
     font-weight: 700;
     font-size: 32px;
     letter-spacing: 4px;
   }
   header .intro-header .con-intro-header .row1-intro-header .name-intro-header {
-    border: 0.09px solid indigo;
+    border: 0px solid indigo;
     margin-bottom: 0px;
     display: flex;
     align-items: flex-end;
   }
   header .intro-header .con-intro-header .row1-intro-header .name-intro-header p {
-    border: 0.09px solid green;
+    border: 0px solid green;
     color: #122417;
     font-weight: 500;
     font-size: 20px;
     letter-spacing: 4px;
   }
   header .intro-header .con-intro-header .row2-intro-header {
-    border: 0.09px solid navy;
+    border: 0px solid navy;
     height: 300px;
     width: 100%;
     margin: 8px 0;
   }
   header .intro-header .con-intro-header .row2-intro-header .picture-intro-header {
     margin-top: 0px;
-    border: 0.09px solid green;
+    border: 0px solid green;
     height: 100%;
   }
   header .intro-header .con-intro-header .row2-intro-header .picture-intro-header img {
@@ -3073,11 +3073,11 @@ footer .con-footer .row1-footer .place-footer .menu-place-footer .credit-menu-pl
     transform: scaleX(-1);
   }
   header .intro-header .con-intro-header .row3-intro-header {
-    border: 0.09px solid green;
+    border: 0px solid green;
     margin: 0;
   }
   header .intro-header .con-intro-header .row3-intro-header .description-intro-header {
-    border: 0.09px solid orange;
+    border: 0px solid orange;
     top: 0;
     left: 0;
     margin-top: 0px;
@@ -3085,25 +3085,25 @@ footer .con-footer .row1-footer .place-footer .menu-place-footer .credit-menu-pl
     position: static;
   }
   header .intro-header .con-intro-header .row3-intro-header .description-intro-header p {
-    border: 0.09px solid turquoise;
+    border: 0px solid turquoise;
     font-size: 16px;
     line-height: 24px;
     letter-spacing: 2px;
     color: #122417;
   }
   main {
-    border: 0.09px solid slateblue;
+    border: 0px solid slateblue;
   }
   main .contact-main {
-    border: 0.09px solid fuchsia;
+    border: 0px solid fuchsia;
     background-color: #ff5524;
   }
   main .contact-main .con-contact-main {
-    border: 0.09px solid green;
+    border: 0px solid green;
     height: 336px;
   }
   main .contact-main .con-contact-main .row1-contact-main {
-    border: 0.09px solid yellow;
+    border: 0px solid yellow;
     height: 100%;
     padding: 48px 8px;
   }
@@ -3118,56 +3118,56 @@ footer .con-footer .row1-footer .place-footer .menu-place-footer .credit-menu-pl
     justify-content: space-around;
   }
   main .contact-main .con-contact-main .row1-contact-main .place-contact-main .title-place-contact-main {
-    border: 0.09px solid darkred;
+    border: 0px solid darkred;
   }
   main .contact-main .con-contact-main .row1-contact-main .place-contact-main .title-place-contact-main p {
-    border: 0.09px solid springgreen;
+    border: 0px solid springgreen;
     font-family: "Poppins", Helvetica, sans-serif;
     font-size: 24px;
     font-weight: 500;
     letter-spacing: 8px;
   }
   main .contact-main .con-contact-main .row1-contact-main .place-contact-main .description-place-contact-main {
-    border: 0.09px solid fuchsia;
+    border: 0px solid fuchsia;
     margin-top: 16px;
     margin-bottom: 40px;
   }
   main .contact-main .con-contact-main .row1-contact-main .place-contact-main .description-place-contact-main p {
-    border: 0.09px solid olive;
+    border: 0px solid olive;
     font-size: 16px;
   }
   main .contact-main .con-contact-main .row1-contact-main .place-contact-main .sosmed-place-contact-main {
-    border: 0.09px solid darkblue;
+    border: 0px solid darkblue;
     width: 72%;
     display: flex;
     justify-content: space-around;
   }
   main .contact-main .con-contact-main .row1-contact-main .place-contact-main .sosmed-place-contact-main .fa-envelope {
-    border: 0.09px solid white;
+    border: 0px solid white;
     font-size: 40px;
   }
   main .contact-main .con-contact-main .row1-contact-main .place-contact-main .sosmed-place-contact-main .fa-instagram {
-    border: 0.09px solid aliceblue;
+    border: 0px solid aliceblue;
     font-size: 40px;
   }
   main .contact-main .con-contact-main .row1-contact-main .place-contact-main .sosmed-place-contact-main .fa-linkedin {
-    border: 0.09px solid wheat;
+    border: 0px solid wheat;
     font-size: 40px;
   }
   main .about-main {
-    border: 0.09px solid springgreen;
+    border: 0px solid springgreen;
     background-color: #1a4a24;
   }
   main .about-main .con-about-main {
-    border: 0.09px solid red;
+    border: 0px solid red;
     height: 712px;
   }
   main .about-main .con-about-main .row1-about-main {
-    border: 0.09px solid khaki;
+    border: 0px solid khaki;
     height: 100%;
   }
   main .about-main .con-about-main .row1-about-main .place1-about-main {
-    border: 0.09px solid yellowgreen;
+    border: 0px solid yellowgreen;
     height: 58%;
     display: flex;
     flex-direction: column;
@@ -3175,7 +3175,7 @@ footer .con-footer .row1-footer .place-footer .menu-place-footer .credit-menu-pl
     justify-content: flex-start;
   }
   main .about-main .con-about-main .row1-about-main .place1-about-main .title-place1-about-main {
-    border: 0.09px solid firebrick;
+    border: 0px solid firebrick;
     margin-top: 24px;
     margin-bottom: 16px;
     color: #dbedcc;
@@ -3187,7 +3187,7 @@ footer .con-footer .row1-footer .place-footer .menu-place-footer .credit-menu-pl
     letter-spacing: 8px;
   }
   main .about-main .con-about-main .row1-about-main .place1-about-main .img-place1-about-main {
-    border: 0.09px solid navy;
+    border: 0px solid navy;
     width: 100%;
     margin-bottom: 8px;
     display: flex;
@@ -3202,7 +3202,7 @@ footer .con-footer .row1-footer .place-footer .menu-place-footer .credit-menu-pl
     border-radius: 44px;
   }
   main .about-main .con-about-main .row1-about-main .place2-about-main {
-    border: 0.09px solid magenta;
+    border: 0px solid magenta;
     height: auto;
     padding-top: 0px;
     display: flex;
@@ -3210,11 +3210,11 @@ footer .con-footer .row1-footer .place-footer .menu-place-footer .credit-menu-pl
     align-items: flex-start;
   }
   main .about-main .con-about-main .row1-about-main .place2-about-main .text-place2-about-main {
-    border: 0.09px solid limegreen;
+    border: 0px solid limegreen;
     margin-bottom: 16px;
   }
   main .about-main .con-about-main .row1-about-main .place2-about-main .text-place2-about-main p {
-    border: 0.09px solid navy;
+    border: 0px solid navy;
     color: #dbedcc;
     font-size: 12px;
     text-align: center;
@@ -3222,7 +3222,7 @@ footer .con-footer .row1-footer .place-footer .menu-place-footer .credit-menu-pl
     word-spacing: 8px;
   }
   main .about-main .con-about-main .row1-about-main .place2-about-main .button-place2-about-main {
-    border: 0.09px solid aqua;
+    border: 0px solid aqua;
     height: 32px;
     width: 128px;
     border-radius: 10px;
@@ -3235,7 +3235,7 @@ footer .con-footer .row1-footer .place-footer .menu-place-footer .credit-menu-pl
     align-items: center;
   }
   main .about-main .con-about-main .row1-about-main .place2-about-main .button-place2-about-main p {
-    border: 0.09px solid firebrick;
+    border: 0px solid firebrick;
     font-family: "Poppins", Helvetica, sans-serif;
     color: #122417;
     font-weight: 700;
@@ -3243,35 +3243,35 @@ footer .con-footer .row1-footer .place-footer .menu-place-footer .credit-menu-pl
     letter-spacing: 2px;
   }
   main .gallery-main {
-    border: 0.09px solid rosybrown;
+    border: 0px solid rosybrown;
   }
   main .gallery-main .con-gallery-main {
-    border: 0.09px solid hotpink;
+    border: 0px solid hotpink;
     height: 1100px;
   }
   main .gallery-main .con-gallery-main .row1-gallery-main {
-    border: 0.09px solid blue;
+    border: 0px solid blue;
     height: 100%;
     display: grid;
     /* Rows / Coloumns */
     grid-template: "title title" 0.75fr "content1 content1" 3fr "content2 content2" 3fr "content3 content3" 3fr/1fr 1fr;
   }
   main .gallery-main .con-gallery-main .row1-gallery-main .title-gallery-main {
-    border: 0.09px solid darkmagenta;
+    border: 0px solid darkmagenta;
     grid-area: title;
     display: flex;
     align-items: center;
     justify-content: center;
   }
   main .gallery-main .con-gallery-main .row1-gallery-main .title-gallery-main p {
-    border: 0.09px solid teal;
+    border: 0px solid teal;
     font-family: "Poppins", Arial, Helvetica, sans-serif;
     font-size: 32px;
     font-weight: 600;
     letter-spacing: 8px;
   }
   main .gallery-main .con-gallery-main .row1-gallery-main .content1-gallery-main {
-    border: 0.09px solid forestgreen;
+    border: 0px solid forestgreen;
     grid-area: content1;
     padding: 4px 0;
     display: flex;
@@ -3294,7 +3294,7 @@ footer .con-footer .row1-footer .place-footer .menu-place-footer .credit-menu-pl
     background-position-y: 8%;
   }
   main .gallery-main .con-gallery-main .row1-gallery-main .content1-gallery-main .title-content1-gallery-main {
-    border: 0.09px solid red;
+    border: 0px solid red;
     grid-area: title;
     width: 300px;
     margin: 4px auto;
@@ -3304,25 +3304,25 @@ footer .con-footer .row1-footer .place-footer .menu-place-footer .credit-menu-pl
     align-items: center;
   }
   main .gallery-main .con-gallery-main .row1-gallery-main .content1-gallery-main .title-content1-gallery-main p {
-    border: 0.09px solid goldenrod;
+    border: 0px solid goldenrod;
     font-size: 20px;
     font-weight: 800;
   }
   main .gallery-main .con-gallery-main .row1-gallery-main .content1-gallery-main .title-content1-gallery-main .arrow-icon {
-    border: 0.09px solid darkmagenta;
+    border: 0px solid darkmagenta;
     font-size: 16px;
   }
   main .gallery-main .con-gallery-main .row1-gallery-main .content1-gallery-main .description-content1-gallery-main {
-    border: 0.09px solid maroon;
+    border: 0px solid maroon;
     grid-area: desc;
     padding: 0 8px;
   }
   main .gallery-main .con-gallery-main .row1-gallery-main .content1-gallery-main .description-content1-gallery-main p {
-    border: 0.09px solid yellow;
+    border: 0px solid yellow;
     font-size: 16px;
   }
   main .gallery-main .con-gallery-main .row1-gallery-main .content2-gallery-main {
-    border: 0.09px solid violet;
+    border: 0px solid violet;
     grid-area: content2;
     display: flex;
     flex-direction: column;
@@ -3341,7 +3341,7 @@ footer .con-footer .row1-footer .place-footer .menu-place-footer .credit-menu-pl
     background-position: center;
   }
   main .gallery-main .con-gallery-main .row1-gallery-main .content2-gallery-main .title-content2-gallery-main {
-    border: 0.09px solid red;
+    border: 0px solid red;
     width: 300px;
     margin: 4px 0;
     display: flex;
@@ -3349,24 +3349,24 @@ footer .con-footer .row1-footer .place-footer .menu-place-footer .credit-menu-pl
     align-items: center;
   }
   main .gallery-main .con-gallery-main .row1-gallery-main .content2-gallery-main .title-content2-gallery-main p {
-    border: 0.09px solid darkmagenta;
+    border: 0px solid darkmagenta;
     font-size: 20px;
     font-weight: 800;
   }
   main .gallery-main .con-gallery-main .row1-gallery-main .content2-gallery-main .title-content2-gallery-main .arrow-icon {
-    border: 0.09px solid maroon;
+    border: 0px solid maroon;
     font-size: 16px;
   }
   main .gallery-main .con-gallery-main .row1-gallery-main .content2-gallery-main .description-content2-gallery-main {
-    border: 0.09px solid maroon;
+    border: 0px solid maroon;
     width: 300px;
   }
   main .gallery-main .con-gallery-main .row1-gallery-main .content2-gallery-main .description-content2-gallery-main p {
-    border: 0.09px solid yellow;
+    border: 0px solid yellow;
     font-size: 16px;
   }
   main .gallery-main .con-gallery-main .row1-gallery-main .content3-gallery-main {
-    border: 0.09px solid lightseagreen;
+    border: 0px solid lightseagreen;
     grid-area: content3;
     display: flex;
     flex-direction: column;
@@ -3385,7 +3385,7 @@ footer .con-footer .row1-footer .place-footer .menu-place-footer .credit-menu-pl
     background-position-y: 20%;
   }
   main .gallery-main .con-gallery-main .row1-gallery-main .content3-gallery-main .title-content3-gallery-main {
-    border: 0.09px solid red;
+    border: 0px solid red;
     width: 300px;
     display: flex;
     margin: 4px 0;
@@ -3393,110 +3393,110 @@ footer .con-footer .row1-footer .place-footer .menu-place-footer .credit-menu-pl
     align-items: center;
   }
   main .gallery-main .con-gallery-main .row1-gallery-main .content3-gallery-main .title-content3-gallery-main p {
-    border: 0.09px solid navy;
+    border: 0px solid navy;
     font-size: 20px;
     font-weight: 800;
   }
   main .gallery-main .con-gallery-main .row1-gallery-main .content3-gallery-main .title-content3-gallery-main .arrow-icon {
-    border: 0.09px solid midnightblue;
+    border: 0px solid midnightblue;
     font-size: 16px;
   }
   main .gallery-main .con-gallery-main .row1-gallery-main .content3-gallery-main .description-content3-gallery-main {
-    border: 0.09px solid maroon;
+    border: 0px solid maroon;
     width: 300px;
   }
   main .gallery-main .con-gallery-main .row1-gallery-main .content3-gallery-main .description-content3-gallery-main p {
-    border: 0.09px solid yellow;
+    border: 0px solid yellow;
     font-size: 16px;
   }
   footer {
     background-color: #122417;
     color: #dbedcc;
-    border: 0.09px solid darkblue;
+    border: 0px solid darkblue;
   }
   footer .con-footer {
-    border: 0.09px solid ghostwhite;
+    border: 0px solid ghostwhite;
     height: 400px;
   }
   footer .con-footer .row1-footer {
-    border: 0.09px solid yellow;
+    border: 0px solid yellow;
     height: 100%;
   }
   footer .con-footer .row1-footer .place-footer {
-    border: 0.09px solid mediumturquoise;
+    border: 0px solid mediumturquoise;
     height: 100%;
     padding: 16px 0;
     display: grid;
     grid-template: "brand brand brand brand" 0.25fr "menu menu menu quotes " 3fr "sosmed sosmed sosmed sosmed" 1fr "license license license license" 0.25fr/3fr 2.5fr 2.5fr 4fr;
   }
   footer .con-footer .row1-footer .place-footer .brand-place-footer {
-    border: 0.09px solid yellowgreen;
+    border: 0px solid yellowgreen;
     grid-area: brand;
   }
   footer .con-footer .row1-footer .place-footer .brand-place-footer p {
-    border: 0.09px solid cornsilk;
+    border: 0px solid cornsilk;
     font-size: 12px;
     font-weight: 700;
     letter-spacing: 2px;
   }
   footer .con-footer .row1-footer .place-footer .sosmed-place-footer {
-    border: 0.09px solid coral;
+    border: 0px solid coral;
     grid-area: sosmed;
   }
   footer .con-footer .row1-footer .place-footer .sosmed-place-footer .title-sosmed-place-footer {
-    border: 0.09px solid seashell;
+    border: 0px solid seashell;
     margin-bottom: 16px;
   }
   footer .con-footer .row1-footer .place-footer .sosmed-place-footer .title-sosmed-place-footer p {
-    border: 0.09px solid hotpink;
+    border: 0px solid hotpink;
     font-weight: 700;
     font-size: 16px;
     letter-spacing: 2px;
   }
   footer .con-footer .row1-footer .place-footer .sosmed-place-footer .icon-sosmed-place-footer {
-    border: 0.09px solid fuchsia;
+    border: 0px solid fuchsia;
     display: flex;
     justify-content: space-around;
   }
   footer .con-footer .row1-footer .place-footer .sosmed-place-footer .icon-sosmed-place-footer .instagram-icon {
-    border: 0.09px solid violet;
+    border: 0px solid violet;
     font-size: 24px;
   }
   footer .con-footer .row1-footer .place-footer .sosmed-place-footer .icon-sosmed-place-footer .tiktok-icon {
-    border: 0.09px solid mediumspringgreen;
+    border: 0px solid mediumspringgreen;
     font-size: 24px;
   }
   footer .con-footer .row1-footer .place-footer .sosmed-place-footer .icon-sosmed-place-footer .facebook-icon {
-    border: 0.09px solid salmon;
+    border: 0px solid salmon;
     font-size: 24px;
   }
   footer .con-footer .row1-footer .place-footer .sosmed-place-footer .icon-sosmed-place-footer .pinterest-icon {
-    border: 0.09px solid skyblue;
+    border: 0px solid skyblue;
     font-size: 24px;
   }
   footer .con-footer .row1-footer .place-footer .sosmed-place-footer .icon-sosmed-place-footer .twitter-icon {
-    border: 0.09px solid whitesmoke;
+    border: 0px solid whitesmoke;
     font-size: 24px;
   }
   footer .con-footer .row1-footer .place-footer .quotes-place-footer {
-    border: 0.09px solid crimson;
+    border: 0px solid crimson;
     grid-area: quotes;
     display: flex;
     flex-direction: column;
     justify-content: start;
   }
   footer .con-footer .row1-footer .place-footer .quotes-place-footer .text-quotes-place-footer {
-    border: 0.09px solid yellow;
+    border: 0px solid yellow;
     width: 100px;
   }
   footer .con-footer .row1-footer .place-footer .quotes-place-footer .text-quotes-place-footer p {
-    border: 0.09px solid aqua;
+    border: 0px solid aqua;
     font-size: 12px;
     letter-spacing: 1px;
     word-spacing: 2px;
   }
   footer .con-footer .row1-footer .place-footer .quotes-place-footer .name-quotes-place-footer {
-    border: 0.09px solid burlywood;
+    border: 0px solid burlywood;
     margin-top: 4px;
     display: flex;
     justify-content: start;
@@ -3505,22 +3505,22 @@ footer .con-footer .row1-footer .place-footer .menu-place-footer .credit-menu-pl
     bottom: 0px;
   }
   footer .con-footer .row1-footer .place-footer .quotes-place-footer .name-quotes-place-footer p {
-    border: 0.09px solid springgreen;
+    border: 0px solid springgreen;
     font-size: 8px;
     letter-spacing: 2px;
   }
   footer .con-footer .row1-footer .place-footer .license-place-footer {
-    border: 0.09px solid ghostwhite;
+    border: 0px solid ghostwhite;
     grid-area: license;
     display: flex;
     align-items: flex-end;
   }
   footer .con-footer .row1-footer .place-footer .license-place-footer p {
-    border: 0.09px solid crimson;
+    border: 0px solid crimson;
     font-size: 12px;
   }
   footer .con-footer .row1-footer .place-footer .menu-place-footer {
-    border: 0.09px solid greenyellow;
+    border: 0px solid greenyellow;
     width: 100%;
     height: 100%;
     max-height: 300px;
@@ -3536,7 +3536,7 @@ footer .con-footer .row1-footer .place-footer .menu-place-footer .credit-menu-pl
     font-weight: 700;
   }
   footer .con-footer .row1-footer .place-footer .menu-place-footer .home-menu-place-footer {
-    border: 0.09px solid royalblue;
+    border: 0px solid royalblue;
     height: 80px;
     width: 88px;
     display: flex;
@@ -3544,10 +3544,10 @@ footer .con-footer .row1-footer .place-footer .menu-place-footer .credit-menu-pl
     justify-content: center;
   }
   footer .con-footer .row1-footer .place-footer .menu-place-footer .home-menu-place-footer p {
-    border: 0.09px solid ghostwhite;
+    border: 0px solid ghostwhite;
   }
   footer .con-footer .row1-footer .place-footer .menu-place-footer .about-menu-place-footer {
-    border: 0.09px solid aqua;
+    border: 0px solid aqua;
     height: 80px;
     width: 88px;
     display: flex;
@@ -3555,10 +3555,10 @@ footer .con-footer .row1-footer .place-footer .menu-place-footer .credit-menu-pl
     justify-content: center;
   }
   footer .con-footer .row1-footer .place-footer .menu-place-footer .about-menu-place-footer p {
-    border: 0.09px solid ghostwhite;
+    border: 0px solid ghostwhite;
   }
   footer .con-footer .row1-footer .place-footer .menu-place-footer .gallery-menu-place-footer {
-    border: 0.09px solid orange;
+    border: 0px solid orange;
     height: 80px;
     width: 88px;
     display: flex;
@@ -3566,10 +3566,10 @@ footer .con-footer .row1-footer .place-footer .menu-place-footer .credit-menu-pl
     justify-content: center;
   }
   footer .con-footer .row1-footer .place-footer .menu-place-footer .gallery-menu-place-footer p {
-    border: 0.09px solid ghostwhite;
+    border: 0px solid ghostwhite;
   }
   footer .con-footer .row1-footer .place-footer .menu-place-footer .contact-menu-place-footer {
-    border: 0.09px solid orchid;
+    border: 0px solid orchid;
     height: 80px;
     width: 88px;
     display: flex;
@@ -3577,10 +3577,10 @@ footer .con-footer .row1-footer .place-footer .menu-place-footer .credit-menu-pl
     justify-content: center;
   }
   footer .con-footer .row1-footer .place-footer .menu-place-footer .contact-menu-place-footer p {
-    border: 0.09px solid ghostwhite;
+    border: 0px solid ghostwhite;
   }
   footer .con-footer .row1-footer .place-footer .menu-place-footer .credit-menu-place-footer {
-    border: 0.09px solid navajowhite;
+    border: 0px solid navajowhite;
     height: 80px;
     width: 88px;
     display: flex;
@@ -3588,50 +3588,50 @@ footer .con-footer .row1-footer .place-footer .menu-place-footer .credit-menu-pl
     justify-content: center;
   }
   footer .con-footer .row1-footer .place-footer .menu-place-footer .credit-menu-place-footer p {
-    border: 0.09px solid ghostwhite;
+    border: 0px solid ghostwhite;
   }
 }
 @media screen and (max-width: 399.98px) {
   header {
-    border: 0.09px solid maroon;
+    border: 0px solid maroon;
   }
   header nav {
-    border: 0.09px solid darkorange;
+    border: 0px solid darkorange;
     background-color: #122417;
     color: #dbedcc;
   }
   header nav .con-nav-header {
-    border: 0.09px solid mediumturquoise;
+    border: 0px solid mediumturquoise;
   }
   header nav .con-nav-header .row1-nav-header {
-    border: 0.09px solid magenta;
+    border: 0px solid magenta;
     height: 64px;
     display: flex;
     justify-content: space-between;
   }
   header nav .con-nav-header .row1-nav-header .logo-nav-header {
-    border: 0.09px solid tomato;
+    border: 0px solid tomato;
     width: 100px;
     display: flex;
     align-items: center;
   }
   header nav .con-nav-header .row1-nav-header .logo-nav-header p {
-    border: 0.09px solid steelblue;
+    border: 0px solid steelblue;
     font-weight: 700;
     font-size: 16px;
   }
   header nav .con-nav-header .row1-nav-header .brand-nav-header {
-    border: 0.09px solid maroon;
+    border: 0px solid maroon;
     display: none;
     align-items: center;
   }
   header nav .con-nav-header .row1-nav-header .brand-nav-header p {
-    border: 0.09px solid forestgreen;
+    border: 0px solid forestgreen;
     font-weight: 700;
     font-size: 20px;
   }
   header nav .con-nav-header .row1-nav-header .menu-nav-header {
-    border: 0.09px solid green;
+    border: 0px solid green;
     width: 100px;
     display: flex;
     align-items: center;
@@ -3639,45 +3639,45 @@ footer .con-footer .row1-footer .place-footer .menu-place-footer .credit-menu-pl
     font-size: 12px;
   }
   header nav .con-nav-header .row1-nav-header .menu-nav-header .navbar-menu-nav-header {
-    border: 0.09px solid darkturquoise;
+    border: 0px solid darkturquoise;
     width: 100%;
     padding-right: 8px;
     display: flex;
     justify-content: end;
   }
   header nav .con-nav-header .row1-nav-header .menu-nav-header .navbar-menu-nav-header .home-navbar-menu-nav-header {
-    border: 0.09px solid saddlebrown;
+    border: 0px solid saddlebrown;
     display: none;
   }
   header nav .con-nav-header .row1-nav-header .menu-nav-header .navbar-menu-nav-header .about-navbar-menu-nav-header {
-    border: 0.09px solid salmon;
+    border: 0px solid salmon;
     display: none;
   }
   header nav .con-nav-header .row1-nav-header .menu-nav-header .navbar-menu-nav-header .gallery-navbar-menu-nav-header {
-    border: 0.09px solid violet;
+    border: 0px solid violet;
     display: none;
   }
   header nav .con-nav-header .row1-nav-header .menu-nav-header .navbar-menu-nav-header .navbar-plus {
-    border: 0.09px solid violet;
+    border: 0px solid violet;
     display: flex;
     justify-content: center;
     align-items: center;
   }
   header nav .con-nav-header .row1-nav-header .menu-nav-header .navbar-menu-nav-header .navbar-plus .fa-bars {
-    border: 0.09px solid violet;
+    border: 0px solid violet;
     color: #dbedcc;
     font-size: 32px;
   }
   header .intro-header {
-    border: 0.09px solid blue;
+    border: 0px solid blue;
   }
   header .intro-header .con-intro-header {
-    border: 0.09px solid slateblue;
+    border: 0px solid slateblue;
     height: 500px;
     padding: 16px 0;
   }
   header .intro-header .con-intro-header .row1-intro-header {
-    border: 0.09px solid limegreen;
+    border: 0px solid limegreen;
     position: static;
     z-index: 1;
     margin-top: 0px;
@@ -3685,38 +3685,38 @@ footer .con-footer .row1-footer .place-footer .menu-place-footer .credit-menu-pl
     margin-right: 0px;
   }
   header .intro-header .con-intro-header .row1-intro-header .title-intro-header {
-    border: 0.09px solid hotpink;
+    border: 0px solid hotpink;
     margin-bottom: 0px;
   }
   header .intro-header .con-intro-header .row1-intro-header .title-intro-header p {
-    border: 0.09px solid springgreen;
+    border: 0px solid springgreen;
     color: #ff5524;
     font-weight: 700;
     font-size: 24px;
     letter-spacing: 4px;
   }
   header .intro-header .con-intro-header .row1-intro-header .name-intro-header {
-    border: 0.09px solid indigo;
+    border: 0px solid indigo;
     margin-bottom: 0px;
     display: flex;
     align-items: flex-end;
   }
   header .intro-header .con-intro-header .row1-intro-header .name-intro-header p {
-    border: 0.09px solid green;
+    border: 0px solid green;
     color: #122417;
     font-weight: 500;
     font-size: 16px;
     letter-spacing: 1px;
   }
   header .intro-header .con-intro-header .row2-intro-header {
-    border: 0.09px solid navy;
+    border: 0px solid navy;
     height: 240px;
     width: 100%;
     margin: 8px 0;
   }
   header .intro-header .con-intro-header .row2-intro-header .picture-intro-header {
     margin-top: 0px;
-    border: 0.09px solid green;
+    border: 0px solid green;
     height: 100%;
   }
   header .intro-header .con-intro-header .row2-intro-header .picture-intro-header img {
@@ -3731,11 +3731,11 @@ footer .con-footer .row1-footer .place-footer .menu-place-footer .credit-menu-pl
     transform: scaleX(-1);
   }
   header .intro-header .con-intro-header .row3-intro-header {
-    border: 0.09px solid green;
+    border: 0px solid green;
     margin: 0;
   }
   header .intro-header .con-intro-header .row3-intro-header .description-intro-header {
-    border: 0.09px solid orange;
+    border: 0px solid orange;
     top: 0;
     left: 0;
     margin-top: 0px;
@@ -3743,31 +3743,31 @@ footer .con-footer .row1-footer .place-footer .menu-place-footer .credit-menu-pl
     position: static;
   }
   header .intro-header .con-intro-header .row3-intro-header .description-intro-header p {
-    border: 0.09px solid turquoise;
+    border: 0px solid turquoise;
     font-size: 12px;
     line-height: 18px;
     letter-spacing: 1px;
     color: #122417;
   }
   main {
-    border: 0.09px solid slateblue;
+    border: 0px solid slateblue;
   }
   main .contact-main {
-    border: 0.09px solid fuchsia;
+    border: 0px solid fuchsia;
     background-color: #ff5524;
   }
   main .contact-main .con-contact-main {
-    border: 0.09px solid green;
+    border: 0px solid green;
     height: 336px;
   }
   main .contact-main .con-contact-main .row1-contact-main {
-    border: 0.09px solid yellow;
+    border: 0px solid yellow;
     height: 100%;
     padding: 48px 8px;
   }
   main .contact-main .con-contact-main .row1-contact-main .place-contact-main {
     height: 100%;
-    border: 0.09px solid #122417;
+    border: 0px solid #122417;
     padding: 48px 0;
     border-radius: 56px;
     display: flex;
@@ -3776,56 +3776,56 @@ footer .con-footer .row1-footer .place-footer .menu-place-footer .credit-menu-pl
     justify-content: space-around;
   }
   main .contact-main .con-contact-main .row1-contact-main .place-contact-main .title-place-contact-main {
-    border: 0.09px solid darkred;
+    border: 0px solid darkred;
   }
   main .contact-main .con-contact-main .row1-contact-main .place-contact-main .title-place-contact-main p {
-    border: 0.09px solid springgreen;
+    border: 0px solid springgreen;
     font-family: "Poppins", Helvetica, sans-serif;
     font-size: 16px;
     font-weight: 500;
     letter-spacing: 4px;
   }
   main .contact-main .con-contact-main .row1-contact-main .place-contact-main .description-place-contact-main {
-    border: 0.09px solid fuchsia;
+    border: 0px solid fuchsia;
     margin-top: 16px;
     margin-bottom: 40px;
   }
   main .contact-main .con-contact-main .row1-contact-main .place-contact-main .description-place-contact-main p {
-    border: 0.09px solid olive;
+    border: 0px solid olive;
     font-size: 12px;
   }
   main .contact-main .con-contact-main .row1-contact-main .place-contact-main .sosmed-place-contact-main {
-    border: 0.09px solid darkblue;
+    border: 0px solid darkblue;
     width: 72%;
     display: flex;
     justify-content: space-around;
   }
   main .contact-main .con-contact-main .row1-contact-main .place-contact-main .sosmed-place-contact-main .fa-envelope {
-    border: 0.09px solid white;
+    border: 0px solid white;
     font-size: 24px;
   }
   main .contact-main .con-contact-main .row1-contact-main .place-contact-main .sosmed-place-contact-main .fa-instagram {
-    border: 0.09px solid aliceblue;
+    border: 0px solid aliceblue;
     font-size: 24px;
   }
   main .contact-main .con-contact-main .row1-contact-main .place-contact-main .sosmed-place-contact-main .fa-linkedin {
-    border: 0.09px solid wheat;
+    border: 0px solid wheat;
     font-size: 24px;
   }
   main .about-main {
-    border: 0.09px solid springgreen;
+    border: 0px solid springgreen;
     background-color: #1a4a24;
   }
   main .about-main .con-about-main {
-    border: 0.09px solid red;
+    border: 0px solid red;
     height: 712px;
   }
   main .about-main .con-about-main .row1-about-main {
-    border: 0.09px solid khaki;
+    border: 0px solid khaki;
     height: 100%;
   }
   main .about-main .con-about-main .row1-about-main .place1-about-main {
-    border: 0.09px solid yellowgreen;
+    border: 0px solid yellowgreen;
     height: 44%;
     display: flex;
     flex-direction: column;
@@ -3833,7 +3833,7 @@ footer .con-footer .row1-footer .place-footer .menu-place-footer .credit-menu-pl
     justify-content: flex-start;
   }
   main .about-main .con-about-main .row1-about-main .place1-about-main .title-place1-about-main {
-    border: 0.09px solid firebrick;
+    border: 0px solid firebrick;
     margin-top: 8px;
     margin-bottom: 8px;
     color: #dbedcc;
@@ -3845,7 +3845,7 @@ footer .con-footer .row1-footer .place-footer .menu-place-footer .credit-menu-pl
     letter-spacing: 8px;
   }
   main .about-main .con-about-main .row1-about-main .place1-about-main .img-place1-about-main {
-    border: 0.09px solid navy;
+    border: 0px solid navy;
     width: 100%;
     margin-bottom: 8px;
     display: flex;
@@ -3860,7 +3860,7 @@ footer .con-footer .row1-footer .place-footer .menu-place-footer .credit-menu-pl
     border-radius: 32px;
   }
   main .about-main .con-about-main .row1-about-main .place2-about-main {
-    border: 0.09px solid magenta;
+    border: 0px solid magenta;
     height: auto;
     padding-top: 0px;
     display: flex;
@@ -3868,11 +3868,11 @@ footer .con-footer .row1-footer .place-footer .menu-place-footer .credit-menu-pl
     align-items: flex-start;
   }
   main .about-main .con-about-main .row1-about-main .place2-about-main .text-place2-about-main {
-    border: 0.09px solid limegreen;
+    border: 0px solid limegreen;
     margin-bottom: 4px;
   }
   main .about-main .con-about-main .row1-about-main .place2-about-main .text-place2-about-main p {
-    border: 0.09px solid navy;
+    border: 0px solid navy;
     color: #dbedcc;
     font-size: 12px;
     text-align: center;
@@ -3880,7 +3880,7 @@ footer .con-footer .row1-footer .place-footer .menu-place-footer .credit-menu-pl
     word-spacing: 1px;
   }
   main .about-main .con-about-main .row1-about-main .place2-about-main .button-place2-about-main {
-    border: 0.09px solid aqua;
+    border: 0px solid aqua;
     height: 24px;
     width: 104px;
     border-radius: 8px;
@@ -3893,7 +3893,7 @@ footer .con-footer .row1-footer .place-footer .menu-place-footer .credit-menu-pl
     align-items: center;
   }
   main .about-main .con-about-main .row1-about-main .place2-about-main .button-place2-about-main p {
-    border: 0.09px solid firebrick;
+    border: 0px solid firebrick;
     font-family: "Poppins", Helvetica, sans-serif;
     color: #122417;
     font-weight: 700;
@@ -3901,35 +3901,35 @@ footer .con-footer .row1-footer .place-footer .menu-place-footer .credit-menu-pl
     letter-spacing: 2px;
   }
   main .gallery-main {
-    border: 0.09px solid rosybrown;
+    border: 0px solid rosybrown;
   }
   main .gallery-main .con-gallery-main {
-    border: 0.09px solid hotpink;
+    border: 0px solid hotpink;
     height: 1100px;
   }
   main .gallery-main .con-gallery-main .row1-gallery-main {
-    border: 0.09px solid blue;
+    border: 0px solid blue;
     height: 100%;
     display: grid;
     /* Rows / Coloumns */
     grid-template: "title title" 0.75fr "content1 content1" 3fr "content2 content2" 3fr "content3 content3" 3fr/1fr 1fr;
   }
   main .gallery-main .con-gallery-main .row1-gallery-main .title-gallery-main {
-    border: 0.09px solid darkmagenta;
+    border: 0px solid darkmagenta;
     grid-area: title;
     display: flex;
     align-items: center;
     justify-content: center;
   }
   main .gallery-main .con-gallery-main .row1-gallery-main .title-gallery-main p {
-    border: 0.09px solid teal;
+    border: 0px solid teal;
     font-family: "Poppins", Arial, Helvetica, sans-serif;
     font-size: 24px;
     font-weight: 600;
     letter-spacing: 4px;
   }
   main .gallery-main .con-gallery-main .row1-gallery-main .content1-gallery-main {
-    border: 0.09px solid forestgreen;
+    border: 0px solid forestgreen;
     grid-area: content1;
     padding: 4px 0;
     display: flex;
@@ -3952,7 +3952,7 @@ footer .con-footer .row1-footer .place-footer .menu-place-footer .credit-menu-pl
     background-position-y: 8%;
   }
   main .gallery-main .con-gallery-main .row1-gallery-main .content1-gallery-main .title-content1-gallery-main {
-    border: 0.09px solid red;
+    border: 0px solid red;
     grid-area: title;
     width: 98%;
     margin: 4px auto;
@@ -3962,25 +3962,25 @@ footer .con-footer .row1-footer .place-footer .menu-place-footer .credit-menu-pl
     align-items: center;
   }
   main .gallery-main .con-gallery-main .row1-gallery-main .content1-gallery-main .title-content1-gallery-main p {
-    border: 0.09px solid goldenrod;
+    border: 0px solid goldenrod;
     font-size: 16px;
     font-weight: 800;
   }
   main .gallery-main .con-gallery-main .row1-gallery-main .content1-gallery-main .title-content1-gallery-main .arrow-icon {
-    border: 0.09px solid darkmagenta;
+    border: 0px solid darkmagenta;
     font-size: 16px;
   }
   main .gallery-main .con-gallery-main .row1-gallery-main .content1-gallery-main .description-content1-gallery-main {
-    border: 0.09px solid maroon;
+    border: 0px solid maroon;
     grid-area: desc;
     padding: 0 8px;
   }
   main .gallery-main .con-gallery-main .row1-gallery-main .content1-gallery-main .description-content1-gallery-main p {
-    border: 0.09px solid yellow;
+    border: 0px solid yellow;
     font-size: 12px;
   }
   main .gallery-main .con-gallery-main .row1-gallery-main .content2-gallery-main {
-    border: 0.09px solid violet;
+    border: 0px solid violet;
     grid-area: content2;
     display: flex;
     flex-direction: column;
@@ -3999,7 +3999,7 @@ footer .con-footer .row1-footer .place-footer .menu-place-footer .credit-menu-pl
     background-position: center;
   }
   main .gallery-main .con-gallery-main .row1-gallery-main .content2-gallery-main .title-content2-gallery-main {
-    border: 0.09px solid red;
+    border: 0px solid red;
     width: 98%;
     margin: 4px 0;
     display: flex;
@@ -4007,24 +4007,24 @@ footer .con-footer .row1-footer .place-footer .menu-place-footer .credit-menu-pl
     align-items: center;
   }
   main .gallery-main .con-gallery-main .row1-gallery-main .content2-gallery-main .title-content2-gallery-main p {
-    border: 0.09px solid darkmagenta;
+    border: 0px solid darkmagenta;
     font-size: 16px;
     font-weight: 800;
   }
   main .gallery-main .con-gallery-main .row1-gallery-main .content2-gallery-main .title-content2-gallery-main .arrow-icon {
-    border: 0.09px solid maroon;
+    border: 0px solid maroon;
     font-size: 16px;
   }
   main .gallery-main .con-gallery-main .row1-gallery-main .content2-gallery-main .description-content2-gallery-main {
-    border: 0.09px solid maroon;
+    border: 0px solid maroon;
     width: 98%;
   }
   main .gallery-main .con-gallery-main .row1-gallery-main .content2-gallery-main .description-content2-gallery-main p {
-    border: 0.09px solid yellow;
+    border: 0px solid yellow;
     font-size: 12px;
   }
   main .gallery-main .con-gallery-main .row1-gallery-main .content3-gallery-main {
-    border: 0.09px solid lightseagreen;
+    border: 0px solid lightseagreen;
     grid-area: content3;
     display: flex;
     flex-direction: column;
@@ -4043,7 +4043,7 @@ footer .con-footer .row1-footer .place-footer .menu-place-footer .credit-menu-pl
     background-position-y: 20%;
   }
   main .gallery-main .con-gallery-main .row1-gallery-main .content3-gallery-main .title-content3-gallery-main {
-    border: 0.09px solid red;
+    border: 0px solid red;
     width: 98%;
     display: flex;
     margin: 4px 0;
@@ -4051,110 +4051,110 @@ footer .con-footer .row1-footer .place-footer .menu-place-footer .credit-menu-pl
     align-items: center;
   }
   main .gallery-main .con-gallery-main .row1-gallery-main .content3-gallery-main .title-content3-gallery-main p {
-    border: 0.09px solid navy;
+    border: 0px solid navy;
     font-size: 16px;
     font-weight: 800;
   }
   main .gallery-main .con-gallery-main .row1-gallery-main .content3-gallery-main .title-content3-gallery-main .arrow-icon {
-    border: 0.09px solid midnightblue;
+    border: 0px solid midnightblue;
     font-size: 16px;
   }
   main .gallery-main .con-gallery-main .row1-gallery-main .content3-gallery-main .description-content3-gallery-main {
-    border: 0.09px solid maroon;
+    border: 0px solid maroon;
     width: 98%;
   }
   main .gallery-main .con-gallery-main .row1-gallery-main .content3-gallery-main .description-content3-gallery-main p {
-    border: 0.09px solid yellow;
+    border: 0px solid yellow;
     font-size: 12px;
   }
   footer {
     background-color: #122417;
     color: #dbedcc;
-    border: 0.09px solid darkblue;
+    border: 0px solid darkblue;
   }
   footer .con-footer {
-    border: 0.09px solid ghostwhite;
+    border: 0px solid ghostwhite;
     height: 400px;
   }
   footer .con-footer .row1-footer {
-    border: 0.09px solid yellow;
+    border: 0px solid yellow;
     height: 100%;
   }
   footer .con-footer .row1-footer .place-footer {
-    border: 0.09px solid mediumturquoise;
+    border: 0px solid mediumturquoise;
     height: 100%;
     padding: 8px 0;
     display: grid;
     grid-template: "brand brand brand brand" 0.25fr "menu menu menu menu " 3fr "sosmed sosmed sosmed sosmed" 1fr "license license license license" 0.25fr/3fr 2.5fr 2.5fr 4fr;
   }
   footer .con-footer .row1-footer .place-footer .brand-place-footer {
-    border: 0.09px solid yellowgreen;
+    border: 0px solid yellowgreen;
     grid-area: brand;
   }
   footer .con-footer .row1-footer .place-footer .brand-place-footer p {
-    border: 0.09px solid cornsilk;
+    border: 0px solid cornsilk;
     font-size: 12px;
     font-weight: 700;
     letter-spacing: 2px;
   }
   footer .con-footer .row1-footer .place-footer .sosmed-place-footer {
-    border: 0.09px solid coral;
+    border: 0px solid coral;
     grid-area: sosmed;
   }
   footer .con-footer .row1-footer .place-footer .sosmed-place-footer .title-sosmed-place-footer {
-    border: 0.09px solid seashell;
+    border: 0px solid seashell;
     margin-bottom: 8px;
   }
   footer .con-footer .row1-footer .place-footer .sosmed-place-footer .title-sosmed-place-footer p {
-    border: 0.09px solid hotpink;
+    border: 0px solid hotpink;
     font-weight: 600;
     font-size: 12px;
     letter-spacing: 2px;
   }
   footer .con-footer .row1-footer .place-footer .sosmed-place-footer .icon-sosmed-place-footer {
-    border: 0.09px solid fuchsia;
+    border: 0px solid fuchsia;
     display: flex;
     justify-content: space-around;
   }
   footer .con-footer .row1-footer .place-footer .sosmed-place-footer .icon-sosmed-place-footer .instagram-icon {
-    border: 0.09px solid violet;
+    border: 0px solid violet;
     font-size: 16px;
   }
   footer .con-footer .row1-footer .place-footer .sosmed-place-footer .icon-sosmed-place-footer .tiktok-icon {
-    border: 0.09px solid mediumspringgreen;
+    border: 0px solid mediumspringgreen;
     font-size: 16px;
   }
   footer .con-footer .row1-footer .place-footer .sosmed-place-footer .icon-sosmed-place-footer .facebook-icon {
-    border: 0.09px solid salmon;
+    border: 0px solid salmon;
     font-size: 16px;
   }
   footer .con-footer .row1-footer .place-footer .sosmed-place-footer .icon-sosmed-place-footer .pinterest-icon {
-    border: 0.09px solid skyblue;
+    border: 0px solid skyblue;
     font-size: 16px;
   }
   footer .con-footer .row1-footer .place-footer .sosmed-place-footer .icon-sosmed-place-footer .twitter-icon {
-    border: 0.09px solid whitesmoke;
+    border: 0px solid whitesmoke;
     font-size: 16px;
   }
   footer .con-footer .row1-footer .place-footer .quotes-place-footer {
-    border: 0.09px solid crimson;
+    border: 0px solid crimson;
     grid-area: quotes;
     display: none;
     flex-direction: column;
     justify-content: start;
   }
   footer .con-footer .row1-footer .place-footer .quotes-place-footer .text-quotes-place-footer {
-    border: 0.09px solid yellow;
+    border: 0px solid yellow;
     width: 100px;
   }
   footer .con-footer .row1-footer .place-footer .quotes-place-footer .text-quotes-place-footer p {
-    border: 0.09px solid aqua;
+    border: 0px solid aqua;
     font-size: 12px;
     letter-spacing: 1px;
     word-spacing: 2px;
   }
   footer .con-footer .row1-footer .place-footer .quotes-place-footer .name-quotes-place-footer {
-    border: 0.09px solid burlywood;
+    border: 0px solid burlywood;
     margin-top: 4px;
     display: flex;
     justify-content: start;
@@ -4163,22 +4163,22 @@ footer .con-footer .row1-footer .place-footer .menu-place-footer .credit-menu-pl
     bottom: 0px;
   }
   footer .con-footer .row1-footer .place-footer .quotes-place-footer .name-quotes-place-footer p {
-    border: 0.09px solid springgreen;
+    border: 0px solid springgreen;
     font-size: 8px;
     letter-spacing: 2px;
   }
   footer .con-footer .row1-footer .place-footer .license-place-footer {
-    border: 0.09px solid ghostwhite;
+    border: 0px solid ghostwhite;
     grid-area: license;
     display: flex;
     align-items: flex-end;
   }
   footer .con-footer .row1-footer .place-footer .license-place-footer p {
-    border: 0.09px solid crimson;
+    border: 0px solid crimson;
     font-size: 12px;
   }
   footer .con-footer .row1-footer .place-footer .menu-place-footer {
-    border: 0.09px solid greenyellow;
+    border: 0px solid greenyellow;
     width: 100%;
     height: 100%;
     max-height: 300px;
@@ -4194,7 +4194,7 @@ footer .con-footer .row1-footer .place-footer .menu-place-footer .credit-menu-pl
     font-weight: 600;
   }
   footer .con-footer .row1-footer .place-footer .menu-place-footer .home-menu-place-footer {
-    border: 0.09px solid royalblue;
+    border: 0px solid royalblue;
     height: 80px;
     width: 88px;
     display: flex;
@@ -4202,10 +4202,10 @@ footer .con-footer .row1-footer .place-footer .menu-place-footer .credit-menu-pl
     justify-content: center;
   }
   footer .con-footer .row1-footer .place-footer .menu-place-footer .home-menu-place-footer p {
-    border: 0.09px solid ghostwhite;
+    border: 0px solid ghostwhite;
   }
   footer .con-footer .row1-footer .place-footer .menu-place-footer .about-menu-place-footer {
-    border: 0.09px solid aqua;
+    border: 0px solid aqua;
     height: 80px;
     width: 88px;
     display: flex;
@@ -4213,10 +4213,10 @@ footer .con-footer .row1-footer .place-footer .menu-place-footer .credit-menu-pl
     justify-content: center;
   }
   footer .con-footer .row1-footer .place-footer .menu-place-footer .about-menu-place-footer p {
-    border: 0.09px solid ghostwhite;
+    border: 0px solid ghostwhite;
   }
   footer .con-footer .row1-footer .place-footer .menu-place-footer .gallery-menu-place-footer {
-    border: 0.09px solid orange;
+    border: 0px solid orange;
     height: 80px;
     width: 88px;
     display: flex;
@@ -4224,10 +4224,10 @@ footer .con-footer .row1-footer .place-footer .menu-place-footer .credit-menu-pl
     justify-content: center;
   }
   footer .con-footer .row1-footer .place-footer .menu-place-footer .gallery-menu-place-footer p {
-    border: 0.09px solid ghostwhite;
+    border: 0px solid ghostwhite;
   }
   footer .con-footer .row1-footer .place-footer .menu-place-footer .contact-menu-place-footer {
-    border: 0.09px solid orchid;
+    border: 0px solid orchid;
     height: 80px;
     width: 88px;
     display: flex;
@@ -4235,10 +4235,10 @@ footer .con-footer .row1-footer .place-footer .menu-place-footer .credit-menu-pl
     justify-content: center;
   }
   footer .con-footer .row1-footer .place-footer .menu-place-footer .contact-menu-place-footer p {
-    border: 0.09px solid ghostwhite;
+    border: 0px solid ghostwhite;
   }
   footer .con-footer .row1-footer .place-footer .menu-place-footer .credit-menu-place-footer {
-    border: 0.09px solid navajowhite;
+    border: 0px solid navajowhite;
     height: 80px;
     width: 88px;
     display: flex;
@@ -4246,7 +4246,7 @@ footer .con-footer .row1-footer .place-footer .menu-place-footer .credit-menu-pl
     justify-content: center;
   }
   footer .con-footer .row1-footer .place-footer .menu-place-footer .credit-menu-place-footer p {
-    border: 0.09px solid ghostwhite;
+    border: 0px solid ghostwhite;
     font-size: 8px;
   }
 }/*# sourceMappingURL=style.css.map */
